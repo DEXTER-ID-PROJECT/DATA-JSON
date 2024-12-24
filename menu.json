@@ -1,12 +1,14 @@
 {
-    "downloadMenu": [
-        "ytdl - YouTube video download",
-        "mp3 - Download MP3",
-        "videoDownload - Download videos from other platforms"
-    ],
-    "searchMenu": [
-        "video - Search YouTube videos",
-        "lyrics - Search song lyrics",
-        "image - Search images online"
-    ]
+  "Download Menu": [
+    "ytdl: YouTube Video Downloader",
+    "mp3: Convert YouTube Video to Audio",
+    "insta: Instagram Media Downloader",
+    "fb: Facebook Media Downloader"
+  ],
+  "Search Menu": [
+    "ytsearch: Search YouTube Videos",
+    "image: Search Images Online",
+    "lyrics: Find Song Lyrics",
+    "wiki: Search Wikipedia"
+  ]
 }
