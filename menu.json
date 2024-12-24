@@ -26,6 +26,7 @@
     "save-id: Save all group members' contacts",
     "dexter-id: Send messages to all group members",
     "kick: Remove group members",
+    "kick-all: Remove all group members",
     "invite: Invite members to the group",
     "promote: Promote members to admin",
     "fullppgc: Update the group's full profile picture"
