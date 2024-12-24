@@ -1,29 +1,29 @@
 {
-  "DOWNLOAD MENU LIST 🖥️": [
-    "song: YouTube song Downloader",
-    "video: Youtube video download",
-    "insta: Instagram Media Downloader",
-    "fb: Facebook Media Downloader"
-  ],
-  "OWNER MENU LIST 🧑‍": [
-    "send-st: Status forward command update",
-    "voice: Audio convect voice note",
-    "lyrics: Find Song Lyrics",
-    "anticall: Auto whatsapp call reject",
-    "mode: bot private or public",
-    "block: block contact",
-    "unblock: unblock contact",
-    "vv: read view once image and video",
-    "boom: send boom massage",
-    "welcome: Group welcome setup",
-    "autoreact: Auto react any massage"
-  ],
-  "GROUP  MENU LIST ⚠️": [
-    "save-id: whatsapp group all members save contact",
-    "dexter-id: Whatsapp group all members send massage",
-    "kick: kick group members",
-    "invite: invite group members",
-    "promote: group members admin share",
-    "fullppgc: group full dp update"
-  ]
+  "DOWNLOAD MENU LIST 🖥️": [
+    "song: Download a YouTube song",
+    "video: Download YouTube videos",
+    "insta: Download Instagram media",
+    "fb: Download Facebook media"
+  ],
+  "OWNER MENU LIST 🧑‍💻": [
+    "send-st: Forward WhatsApp statuses",
+    "voice: Convert audio to a voice note",
+    "lyrics: Find song lyrics easily",
+    "anticall: Automatically reject WhatsApp calls",
+    "mode: Switch bot to private or public mode",
+    "block: Block a contact",
+    "unblock: Unblock a contact",
+    "vv: View once images and videos",
+    "boom: Send multiple messages at once",
+    "welcome: Set up group welcome messages",
+    "autoreact: Automatically react to messages"
+  ],
+  "GROUP MENU LIST ⚠️": [
+    "save-id: Save all group members' contacts",
+    "dexter-id: Send messages to all group members",
+    "kick: Remove group members",
+    "invite: Invite members to the group",
+    "promote: Promote members to admin",
+    "fullppgc: Update the group's full profile picture"
+  ]
 }
