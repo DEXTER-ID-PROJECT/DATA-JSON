@@ -1,0 +1,12 @@
+{
+    "downloadMenu": [
+        "ytdl - YouTube video download",
+        "mp3 - Download MP3",
+        "videoDownload - Download videos from other platforms"
+    ],
+    "searchMenu": [
+        "video - Search YouTube videos",
+        "lyrics - Search song lyrics",
+        "image - Search images online"
+    ]
+}
