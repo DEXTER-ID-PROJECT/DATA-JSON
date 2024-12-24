@@ -16,7 +16,9 @@
     "vv: View once images and videos",
     "boom: Send multiple messages at once",
     "welcome: Set up group welcome messages",
-    "autoreact: Automatically react to messages"
+    "autoreact: Automatically react to messages",
+    "recording: Recording audio on/off",
+    "typing: Auto typing on/off"
   ],
   "GROUP MENU LIST ⚠️": [
     "save-id: Save all group members' contacts",
