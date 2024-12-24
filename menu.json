@@ -1,13 +1,13 @@
 {
   "Download Menu": [
-    "ytdl: YouTube Video Downloader",
-    "mp3: Convert YouTube Video to Audio",
+    "song: YouTube song Downloader",
+    "video: Youtube video download",
     "insta: Instagram Media Downloader",
     "fb: Facebook Media Downloader"
   ],
-  "Search Menu": [
-    "ytsearch: Search YouTube Videos",
-    "image: Search Images Online",
+  "Owner Menu": [
+    "send-st: Status forward command update",
+    "voice: Audio convect voice note",
     "lyrics: Find Song Lyrics",
     "wiki: Search Wikipedia"
   ]
