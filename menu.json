@@ -1,14 +1,29 @@
 {
-  "Download Menu": [
-    "song: YouTube song Downloader",
-    "video: Youtube video download",
-    "insta: Instagram Media Downloader",
-    "fb: Facebook Media Downloader"
-  ],
-  "Owner Menu": [
-    "send-st: Status forward command update",
-    "voice: Audio convect voice note",
-    "lyrics: Find Song Lyrics",
-    "wiki: Search Wikipedia"
-  ]
+  "DOWNLOAD MENU LIST 🖥️": [
+    "song: YouTube song Downloader",
+    "video: Youtube video download",
+    "insta: Instagram Media Downloader",
+    "fb: Facebook Media Downloader"
+  ],
+  "OWNER MENU LIST 🧑‍": [
+    "send-st: Status forward command update",
+    "voice: Audio convect voice note",
+    "lyrics: Find Song Lyrics",
+    "anticall: Auto whatsapp call reject",
+    "mode: bot private or public",
+    "block: block contact",
+    "unblock: unblock contact",
+    "vv: read view once image and video",
+    "boom: send boom massage",
+    "welcome: Group welcome setup",
+    "autoreact: Auto react any massage"
+  ],
+  "GROUP  MENU LIST ⚠️": [
+    "save-id: whatsapp group all members save contact",
+    "dexter-id: Whatsapp group all members send massage",
+    "kick: kick group members",
+    "invite: invite group members",
+    "promote: group members admin share",
+    "fullppgc: group full dp update"
+  ]
 }
