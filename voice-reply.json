@@ -1,22 +1,8 @@
 {
-  "messages": [
-    {
-      "triggerWords": ["hi", "hey", "hellow"],
-      "audioUrl": "https://github.com/DEXTER-ID-PROJECT/DATA-JSON/raw/refs/heads/main/%E0%B6%B4%E0%B7%9C%E0%B6%B1%E0%B7%8A%E0%B6%B1%E0%B6%BA%E0%B7%8F.mp3",
-      "responseText": "Hello there! Here's your voice note.",
-      "mediaType": "audio/mp3"
-    },
-    {
-      "triggerWords": ["helo"],
-      "audioUrl": "https://github.com/DEXTER-ID-PROJECT/DATA-JSON/raw/refs/heads/main/%E0%B6%B4%E0%B7%9C%E0%B6%B1%E0%B7%8A%E0%B6%B1%E0%B6%BA%E0%B7%8F.mp3",
-      "responseText": "Hey, you said helo! Here's the voice note.",
-      "mediaType": "audio/mp3"
-    },
-    {
-      "triggerWords": ["hello"],
-      "audioUrl": "https://github.com/DEXTER-ID-PROJECT/DATA-JSON/raw/refs/heads/main/%E0%B6%B4%E0%B7%9C%E0%B6%B1%E0%B7%8A%E0%B6%B1%E0%B6%BA%E0%B7%8F.mp3",
-      "responseText": "Hi! You said hello. Here's a voice message.",
-      "mediaType": "audio/mp3"
-    }
-  ]
+  "hi,hello,hey": "https://github.com/DEXTER-ID-PROJECT/DATA-JSON/raw/refs/heads/main/Audio/menu.mp3",
+  "bye,goodbye,see you": "https://github.com/DEXTER-ID-PROJECT/DATA-JSON/raw/refs/heads/main/Audio/menu.mp3",
+  "thanks,thank you": "https://github.com/DEXTER-ID-PROJECT/DATA-JSON/raw/refs/heads/main/Audio/menu.mp3",
+  "how are you,how's it going": "https://github.com/DEXTER-ID-PROJECT/DATA-JSON/raw/refs/heads/main/Audio/menu.mp3",
+  "good morning": "https://github.com/DEXTER-ID-PROJECT/DATA-JSON/raw/refs/heads/main/Audio/menu.mp3",
+  "good night": "https://github.com/DEXTER-ID-PROJECT/DATA-JSON/raw/refs/heads/main/Audio/menu.mp3"
 }
