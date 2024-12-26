@@ -10,9 +10,9 @@
 
 ❁ ════ ❃• *`HELLO  _${pushName}_ 👋`* •❃ ════ ❁
 
-╭━━〔 *Download Menu* 〕━━┈⊷
+╭━━〔 *`Download Menu 🤖`* 〕━━┈⊷
 ┃⛬╭─────────────·๏
-┃⛬┃${prefix}song *Download a YouTube song*
+┃⛬┃${prefix}song (*Download a YouTube song*)
 ┃⛬┃${prefix}video *Download YouTube videos*
 ┃⛬┃${prefix}insta *Download Instagram media*
 ┃⛬┃${prefix}apk *Download Apk File*
