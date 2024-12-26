@@ -1,0 +1,12 @@
+Hello ${pushName}! 👋
+
+🤖 *RCD-MD BOT MENU*
+_________________________________________
+
+- Version: ${botVersion}
+- Prefix: ${prefix}
+
+Use the following commands:
+- ${prefix}start
+- ${prefix}help
+- ${prefix}info
