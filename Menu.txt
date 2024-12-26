@@ -8,57 +8,57 @@
 ┃★╰──────────────
 ╰━━━━━━━━━━━━━━━┈⊷
 
-❁ ════ ❃• *`HELLO  _${pushName}_ 👋`* •❃ ════ ❁
+❁ ════ ❃• *HELLO  _${pushName}_ 👋* •❃ ════ ❁
 
 ╭━━〔 *`Download Menu 🤖`* 〕━━┈⊷
 ┃⛬╭─────────────·๏
-┃⛬┃${prefix}song (*Download a YouTube song*)
-┃⛬┃${prefix}video *Download YouTube videos*
-┃⛬┃${prefix}insta *Download Instagram media*
-┃⛬┃${prefix}apk *Download Apk File*
-┃⛬┃${prefix}tiktok *Download tiktok video*
-┃⛬┃${prefix}fb *Download Facebook media*
-┃⛬┃${prefix}play *Play any youtube audio*
+┃⛬┃${prefix}song (*`Download a YouTube song`*)
+┃⛬┃${prefix}video (*`Download YouTube videos`*)
+┃⛬┃${prefix}insta (*`Download Instagram media`*)
+┃⛬┃${prefix}apk (*`Download Apk File`*)
+┃⛬┃${prefix}tiktok (*`Download tiktok video`*)
+┃⛬┃${prefix}fb (*`Download Facebook media`*)
+┃⛬┃${prefix}play (*`Play any youtube audio`*)
 ┃⛬└───────────┈⊷
 ╰──────────────┈⊷
-╭━━〔 *Main Menu* 〕━━┈⊷
+╭━━〔 *`Main Menu ✨`* 〕━━┈⊷
 ┃⛬╭─────────────·๏
-┃⛬┃${prefix}ping *check whatsapp bot ping*
-┃⛬┃${prefix}send-st *Status auto share command*
-┃⛬┃${prefix}contact-push *Contact push version*
-┃⛬┃${prefix}voice *Status upload song*
-┃⛬┃${prefix}anticall *auto reject call*
-┃⛬┃${prefix}mode *Whatsapp bot public private*
-┃⛬┃${prefix}boom *Boom massage media*
-┃⛬┃${prefix}autoreact *Auto react on off*
-┃⛬┃${prefix}recording *Fake recording on off*
-┃⛬┃${prefix}typing *Fake Typing on off*
-┃⛬┃${prefix}setstatusmsg *Auto status massage*
-┃⛬┃${prefix}runtime *Bot is runtime*
-┃⛬┃${prefix}uptime *Bot is runtime*
-┃⛬┃${prefix}repo *Bot repo check*
-┃⛬┃${prefix}owner *Bot owner*
-┃⛬┃${prefix}support *Bot developer support*
-┃⛬┃${prefix}restart *Restart bot*
+┃⛬┃${prefix}ping (*`check whatsapp bot ping`*)
+┃⛬┃${prefix}send-st (*`Status auto share command`*)
+┃⛬┃${prefix}contact-push (*`Contact push version`*)
+┃⛬┃${prefix}voice (*`Status upload song`*)
+┃⛬┃${prefix}anticall (*`auto reject call`*)
+┃⛬┃${prefix}mode (*`Whatsapp bot public private`*)
+┃⛬┃${prefix}boom (*`Boom massage media`*)
+┃⛬┃${prefix}autoreact (*`Auto react on off`*)
+┃⛬┃${prefix}recording (*`Fake recording on off`*)
+┃⛬┃${prefix}typing (*`Fake Typing on off`*)
+┃⛬┃${prefix}setstatusmsg (*`Auto status massage`*)
+┃⛬┃${prefix}runtime (*`Bot is runtime`*)
+┃⛬┃${prefix}uptime (*`Bot is runtime`*)
+┃⛬┃${prefix}repo (*`Bot repo check`*)
+┃⛬┃${prefix}owner (*`Bot owner`*)
+┃⛬┃${prefix}support (*`Bot developer support`*)
+┃⛬┃${prefix}restart (*`Restart bot`*)
 ┃⛬└───────────┈⊷
 ╰──────────────┈⊷
-╭━━〔 *Group Menu* 〕━━┈⊷
+╭━━〔 *`Group Menu 🎲`* 〕━━┈⊷
 ┃⛬╭─────────────·๏
-┃⛬┃${prefix}save-id *Save all group members' contacts*
-┃⛬┃${prefix}dexter-id *Send messages to all group members*
-┃⛬┃${prefix}kick *Remove group members*
-┃⛬┃${prefix}kick-all *Remove all group members*
-┃⛬┃${prefix}invite *Invite members to the group*
-┃⛬┃${prefix}promote *Promote members to admin*
-┃⛬┃${prefix}fullppgc *Update the group's full profile picture*
-┃⛬┃${prefix}goodbye *Group members leave alert*
-┃⛬┃${prefix}welcome *Group members join alert*
-┃⛬┃${prefix}tagall *Tag group all members*
-┃⛬┃${prefix}mute *Group mute*
-┃⛬┃${prefix}unmute *Unmuted Group* 
+┃⛬┃${prefix}save-id (*`Save all group members' contacts`*)
+┃⛬┃${prefix}dexter-id (*`Send messages to all group members`*)
+┃⛬┃${prefix}kick (*`Remove group members`*)
+┃⛬┃${prefix}kick-all (*`Remove all group members`*)
+┃⛬┃${prefix}invite (*`Invite members to the group`*)
+┃⛬┃${prefix}promote (*`Promote members to admin`*)
+┃⛬┃${prefix}fullppgc (*`Update the group's full profile picture`*)
+┃⛬┃${prefix}goodbye (*`Group members leave alert`*)
+┃⛬┃${prefix}welcome (*`Group members join alert`*)
+┃⛬┃${prefix}tagall (*`Tag group all members`*)
+┃⛬┃${prefix}mute (*`Group mute`*_
+┃⛬┃${prefix}unmute (*`Unmuted Group`*) 
 ┃⛬└───────────┈⊷
 ╰──────────────┈⊷
-╭━━〔 *Owner Menu* 〕━━┈⊷
+╭━━〔 *`Owner Menu 👨‍💻`* 〕━━┈⊷
 ┃⛬╭─────────────·๏
 ┃⛬┃${prefix}owner 
 ┃⛬┃${prefix}menu 
@@ -78,7 +78,7 @@
 ┃⛬┃${prefix}jid
 ┃⛬└───────────┈⊷
 ╰──────────────┈⊷
-╭━━〔 *Convert Menu* 〕━━┈⊷
+╭━━〔 *`Convert Menu 🧩`* 〕━━┈⊷
 ┃⛬╭─────────────·๏
 ┃⛬┃${prefix}sticker
 ┃⛬┃${prefix}sticker2
@@ -89,7 +89,7 @@
 ┃⛬┃${prefix}trt
 ┃⛬└───────────┈⊷
 ╰──────────────┈⊷
-╭━━〔 *Ai Menu* 〕━━┈⊷
+╭━━〔 *`Ai Menu 🧸`* 〕━━┈⊷
 ┃⛬╭─────────────·๏
 ┃⛬┃${prefix}ai
 ┃⛬┃${prefix}gpt
@@ -100,7 +100,7 @@
 ┃⛬┃${prefix}copilot
 ┃⛬└───────────┈⊷
 ╰──────────────┈⊷
-╭━━〔 *Other Menu* 〕━━┈⊷
+╭━━〔 *`Other Menu ⚠️`* 〕━━┈⊷
 ┃⛬╭─────────────·๏
 ┃⛬┃${prefix}calculator
 ┃⛬└───────────┈⊷
