@@ -21,6 +21,13 @@
 ┃⛬┃${prefix}play (*Play any youtube audio*)
 ┃⛬└───────────┈⊷
 ╰──────────────┈⊷
+╭━━〔 *`RCD MD ONLY CMD ⛛`* 〕━━┈⊷
+┃⛬╭─────────────·๏
+┃⛬┃${prefix}set-reply (*Auto reply custome massage*)
+┃⛬┃${prefix}remove-reply (*Remove auto reply massage*)
+┃⛬┃${prefix}rule-reply (*Autoresponder version rule reply*)
+┃⛬└───────────┈⊷
+╰──────────────┈⊷
 ╭━━〔 *`Main Menu ✨`* 〕━━┈⊷
 ┃⛬╭─────────────·๏
 ┃⛬┃${prefix}ping (*check whatsapp bot ping*)
