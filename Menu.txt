@@ -24,6 +24,8 @@
 ╭━━〔 *`RCD MD ONLY CMD ⛛`* 〕━━┈⊷
 ┃⛬╭─────────────·๏
 ┃⛬┃${prefix}set-reply (*Auto reply custome massage*)
+┃⛬┃${prefix}npm (*Npm package search*)
+┃⛬┃${prefix}obfuscate (*javascript obfuscate command*)
 ┃⛬┃${prefix}remove-reply (*Remove auto reply massage*)
 ┃⛬┃${prefix}rule-reply (*Autoresponder version rule reply*)
 ┃⛬└───────────┈⊷
