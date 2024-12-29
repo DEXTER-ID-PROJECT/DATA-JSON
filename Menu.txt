@@ -14,7 +14,7 @@
 ┃⛬╭─────────────·๏
 ┃⛬┃${prefix}song (*Download a YouTube song*)
 ┃⛬┃${prefix}video (*Download YouTube videos*)
-┃⛬┃${prefix}insta (*Download Instagram media*)
+┃⛬┃${prefix}pinterestdl (*Download Pinterest media*)
 ┃⛬┃${prefix}apk (*Download Apk File*)
 ┃⛬┃${prefix}tiktok (*Download tiktok video*)
 ┃⛬┃${prefix}fb (*Download Facebook media*)
