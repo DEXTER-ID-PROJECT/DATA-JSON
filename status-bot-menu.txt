@@ -3,7 +3,7 @@
 ┃★│ Baileys : *Multi Device*
 ┃★│ Type : *NodeJs*
 ┃★│ Team : *RCD TEAM*
-┃★│ Prefix : *[${prefix}]*
+┃★│ Prefix : *[$${prefix}]*
 ┃★│ Version : *v 1.0.9*
 ┃★╰──────────────
 ╰━━━━━━━━━━━━━━━┈⊷
@@ -13,20 +13,20 @@
 *╭━━━〔 📋 All Command Menu 🤖 〕━━━┈⊷*  
 *┃ 🛠️ Control Commands:*  
 *┃ ╭──────────────────────*  
-*┃ ┃ 🔄 {prefix}status-reply ➤ Turn status reply ON/OFF*  
-*┃ ┃ ✍️ {prefix}status-msg ➤ Set a custom status message*  
-*┃ ┃ ⚡ {prefix}ping ➤ Check bot ping*  
+*┃ ┃ 🔄 ${prefix}status-reply ➤ Turn status reply ON/OFF*  
+*┃ ┃ ✍️ ${prefix}status-msg ➤ Set a custom status message*  
+*┃ ┃ ⚡ ${prefix}ping ➤ Check bot ping*  
 *┃ ╰──────────────────────*
 *┃*  
 *┃ 🔗 Automation Commands:*  
 *┃ ╭──────────────────────*  
-*┃ ┃ 🔄 {prefix}send-st ➤ Enable status auto-forward*  
-*┃ ┃ 🔊 {prefix}status-voice ➤ Auto-read and send status as voice*  
+*┃ ┃ 🔄 ${prefix}send-st ➤ Enable status auto-forward*  
+*┃ ┃ 🔊 ${prefix}status-voice ➤ Auto-read and send status as voice*  
 *┃ ╰──────────────────────*  
 *┃*
 *┃ 🧾 Info Commands:*  
 *┃ ╭──────────────────────*
-*┃ ┃ 🟢 {prefix}alive ➤ Check bot running time*  
+*┃ ┃ 🟢 ${prefix}alive ➤ Check bot running time*  
 *┃ ╰──────────────────────*
 *╰━━━━━━━━━━━━━━━━━━━┈⊷*
 
