@@ -1,58 +1,6 @@
 {
   "keys": [
-    {
-      "keyId": "PREMIUM-123-456",
-      "status": "active",
-      "createdDate": "2024-01-18T00:00:00Z",
-      "expirationDate": "2024-02-18T00:00:00Z",
-      "keyType": "premium",
-      "features": ["full_access", "premium_content"],
-      "owner": {
-        "id": "USR123",
-        "purchaseDate": "2024-01-18T00:00:00Z"
-      }
-    },
-    {
-      "keyId": "TRIAL-789-012",
-      "status": "active",
-      "createdDate": "2024-01-15T00:00:00Z",
-      "expirationDate": "2024-01-22T00:00:00Z",
-      "keyType": "trial",
-      "features": ["basic_access"],
-      "owner": {
-        "id": "USR124",
-        "purchaseDate": "2024-01-15T00:00:00Z"
-      }
-    },
-    {
-      "keyId": "PREMIUM-345-678",
-      "status": "expired",
-      "createdDate": "2023-12-18T00:00:00Z",
-      "expirationDate": "2024-01-18T00:00:00Z",
-      "keyType": "premium",
-      "features": ["full_access", "premium_content"],
-      "owner": {
-        "id": "USR125",
-        "purchaseDate": "2023-12-18T00:00:00Z"
-      }
-    }
-  ],
-  "metadata": {
-    "lastUpdated": "2024-01-18T12:00:00Z",
-    "version": "1.0",
-    "totalActiveKeys": 2,
-    "totalExpiredKeys": 1
-  },
-  "keyTypes": {
-    "premium": {
-      "durationDays": 30,
-      "features": ["full_access", "premium_content"],
-      "price": 29.99
-    },
-    "trial": {
-      "durationDays": 7,
-      "features": ["basic_access"],
-      "price": 0
-    }
-  }
+    { "key": "DEXTER", "expire_date": "2025-02-01" },
+    { "key": "XYZ789", "expire_date": "2025-03-01" }
+  ]
 }
