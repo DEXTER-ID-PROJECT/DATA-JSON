@@ -5,8 +5,8 @@
     "statusReadMsg": "📍 *STATUS SEEN BY RAVI ID* "
   },
   "SESSION_ID_BOT_2": {
-    "autoStatusSeen": true,
-    "autoStatusReply": true,
+    "autoStatusSeen": false,
+    "autoStatusReply": false,
     "statusReadMsg": "📍 *STATUS SEEN BY BOT*"
   },
   "SESSION_ID_BOT_3": {
