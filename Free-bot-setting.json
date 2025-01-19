@@ -2,10 +2,10 @@
   "SESSION_ID_BOT_1": {
     "autoStatusSeen": true,
     "autoStatusReply": true,
-    "statusReadMsg": "📍 *STATUS SEEN BY RAVI* "
+    "statusReadMsg": "📍 *STATUS SEEN BY RAVI ID* "
   },
   "SESSION_ID_BOT_2": {
-    "autoStatusSeen": false,
+    "autoStatusSeen": seen,
     "autoStatusReply": true,
     "statusReadMsg": "📍 *STATUS SEEN BY BOT*"
   },
