@@ -1,0 +1,17 @@
+{
+  "SESSION_ID_BOT_1": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "📍 *STATUS SEEN BY RAVI* "
+  },
+  "SESSION_ID_BOT_2": {
+    "autoStatusSeen": false,
+    "autoStatusReply": true,
+    "statusReadMsg": "📍 *STATUS SEEN BY BOT*"
+  },
+  "SESSION_ID_BOT_3": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": "Bot 3 does not reply to statuses"
+  }
+}
