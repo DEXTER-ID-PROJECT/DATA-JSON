@@ -8,5 +8,10 @@
     "autoStatusSeen": true,
     "autoStatusReply": false,
     "statusReadMsg": "📍 *STATUS SEEN BY BOT*"
+  },
+  "SESSION_ID_BOT_3": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": "📍 *STATUS SEEN BY BOT*"
   }
 }
