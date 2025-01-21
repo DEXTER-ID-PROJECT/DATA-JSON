@@ -1,14 +1,20 @@
 {
-    "SESSION_ID_BOT_1": {
-        "autoStatusSeen": true,
-        "autoStatusReply": true,
-        "statusReadMsg": "*📍 Auto Status Seen by Bot 1*",
-        "BOT_NAME": "DexterBot1"
-    },
-    "SESSION_ID_BOT_2": {
-        "autoStatusSeen": true,
-        "autoStatusReply": false,
-        "statusReadMsg": "*📍 Auto Status Seen by Bot 2*",
-        "BOT_NAME": "DexterBot2"
-    }
+  "SESSION_ID_BOT_1": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "*📍 Auto Status Seen by Bot 1*",
+    "BOT_NAME": "DexterBot1"
+  },
+  "SESSION_ID_BOT_2": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": "*📍 Auto Status Seen by Bot 2*",
+    "BOT_NAME": "DexterBot2"
+  },
+  "RCD-KD&ggcdf": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "H",
+    "BOT_NAME": "Fffr"
+  }
 }
