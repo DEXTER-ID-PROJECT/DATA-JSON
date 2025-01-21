@@ -10,11 +10,5 @@
     "autoStatusReply": false,
     "statusReadMsg": "*📍 Auto Status Seen by Bot 2*",
     "BOT_NAME": "DexterBot2"
-  },
-  "RCD-KD&ggcdf": {
-    "autoStatusSeen": true,
-    "autoStatusReply": true,
-    "statusReadMsg": "H",
-    "BOT_NAME": "Fffr"
   }
 }
