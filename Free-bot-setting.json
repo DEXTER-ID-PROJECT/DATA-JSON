@@ -16,5 +16,11 @@
     "autoStatusReply": true,
     "statusReadMsg": "Hello",
     "BOT_NAME": "Hello "
+  },
+  "RCD-MD&hftcggcf": {
+    "autoStatusSeen": false,
+    "autoStatusReply": false,
+    "statusReadMsg": "Hello ",
+    "BOT_NAME": "Fuck"
   }
 }
