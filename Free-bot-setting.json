@@ -103,7 +103,7 @@
   },
   "SESSION_ID_BOT_18": {
     "autoStatusSeen": true,
-    "autoStatusReply": true,
+    "autoStatusReply": false,
     "statusReadMsg": "JUST NOW STATUS SEEN BY CP OWNER ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
     "BOT_NAME": "DexterBot10"
   },
