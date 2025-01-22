@@ -23,8 +23,8 @@
   {
     "SESSION_ID": "RCD-MD&6scBannt",
     "AUTO_STATUS_SEEN": true,
-    "AUTO_STATUS_REPLY": false,
-    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "*YOUR STATUS SEEN BY CP OWNER* ✓",
     "OWNER_NUMBER": "94704051516"
   },
   {
