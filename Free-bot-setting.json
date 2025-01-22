@@ -1,236 +1,242 @@
 {
   "SESSION_ID_BOT_1": {
     "autoStatusSeen": true,
-    "autoStatusReply": true,
-    "statusReadMsg": "*📍 Auto Status Seen by Bot 1*",
+    "autoStatusReply": false,
+    "statusReadMsg": " ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
     "BOT_NAME": "DexterBot1"
   },
   "SESSION_ID_BOT_2": {
-    "autoStatusSeen": true,
-    "autoStatusReply": false,
-    "statusReadMsg": "*📍 Auto Status Seen by Bot 2*",
-    "BOT_NAME": "DexterBot2"
-  },
-  "SESSION_ID_BOT_3": {
-    "autoStatusSeen": true,
-    "autoStatusReply": false,
-    "statusReadMsg": "*📍 Auto Status Seen by Bot 2*",
-    "BOT_NAME": "DexterBot2"
-  },
-  "SESSION_ID_BOT_4": {
-    "autoStatusSeen": true,
-    "autoStatusReply": true,
-    "statusReadMsg": "*📍 STATUS SEEN BY DORA*",
-    "BOT_NAME": "DexterBot2"
-  },
-  "SESSION_ID_BOT_5": {
-    "autoStatusSeen": true,
-    "autoStatusReply": true,
-    "statusReadMsg": "*📍 STATUS SEEN BY DORA MD*",
-    "BOT_NAME": "DexterBot2"
-  },
-  "SESSION_ID_BOT_6": {
-    "autoStatusSeen": true,
-    "autoStatusReply": true,
-    "statusReadMsg": "*YOUR STATUS SEEN BY CP OWNER* ✓",
-    "BOT_NAME": "DexterBot2"
-  },
-  "SESSION_ID_BOT_7": {
-    "autoStatusSeen": true,
-    "autoStatusReply": false,
-    "statusReadMsg": "*📍 Auto Status Seen by Bot 2*",
-    "BOT_NAME": "DexterBot2"
-  },
-  "SESSION_ID_BOT_8": {
-    "autoStatusSeen": true,
-    "autoStatusReply": true,
-    "statusReadMsg": "*📍 STATUS SEEN BY SUDDA LIVE*",
-    "BOT_NAME": "DexterBot2"
-  },
-  "SESSION_ID_BOT_9": {
-    "autoStatusSeen": true,
-    "autoStatusReply": false,
-    "statusReadMsg": " ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
-    "BOT_NAME": "MOTHER FUCKERS"
-  },
-  "SESSION_ID_BOT_10": {
     "autoStatusSeen": true,
     "autoStatusReply": true,
     "statusReadMsg": "Hi... I seen your status... ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
     "BOT_NAME": "DexterBot2"
   },
-  "SESSION_ID_BOT_11": {
+  "SESSION_ID_BOT_3": {
     "autoStatusSeen": true,
     "autoStatusReply": true,
     "statusReadMsg": "Hi...\nI'am Sulaksha Madara \nAuto seen your status... ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
     "BOT_NAME": "DexterBot3"
   },
-  "SESSION_ID_BOT_12": {
+  "SESSION_ID_BOT_4": {
     "autoStatusSeen": true,
     "autoStatusReply": true,
     "statusReadMsg": "YOUR STATUS SEEN BY SASI ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
     "BOT_NAME": "DexterBot4"
   },
-  "SESSION_ID_BOT_13": {
+  "SESSION_ID_BOT_5": {
     "autoStatusSeen": true,
     "autoStatusReply": true,
     "statusReadMsg": "YOUR STATUS SEEN\nI AM - Dinu-MD program ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
     "BOT_NAME": "DexterBot5"
   },
-  "SESSION_ID_BOT_14": {
+  "SESSION_ID_BOT_6": {
     "autoStatusSeen": true,
     "autoStatusReply": false,
     "statusReadMsg": " ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
     "BOT_NAME": "DexterBot6"
   },
-  "SESSION_ID_BOT_15": {
+  "SESSION_ID_BOT_7": {
     "autoStatusSeen": true,
     "autoStatusReply": false,
     "statusReadMsg": " ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
     "BOT_NAME": "DexterBot7"
   },
-  "SESSION_ID_BOT_16": {
+  "SESSION_ID_BOT_8": {
     "autoStatusSeen": true,
     "autoStatusReply": true,
     "statusReadMsg": "* YOUR STATUS AUTO SEEN BY CYBER GHOST* ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
     "BOT_NAME": "DexterBot8"
   },
-  "SESSION_ID_BOT_17": {
+  "SESSION_ID_BOT_9": {
     "autoStatusSeen": true,
     "autoStatusReply": true,
     "statusReadMsg": "Hi... \nI see your status... ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
     "BOT_NAME": "DexterBot9"
   },
-  "SESSION_ID_BOT_18": {
+  "SESSION_ID_BOT_10": {
     "autoStatusSeen": true,
-    "autoStatusReply": false,
+    "autoStatusReply": true,
     "statusReadMsg": "JUST NOW STATUS SEEN BY CP OWNER ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
     "BOT_NAME": "DexterBot10"
   },
-  "SESSION_ID_BOT_19": {
+  "SESSION_ID_BOT_11": {
     "autoStatusSeen": false,
     "autoStatusReply": false,
     "statusReadMsg": " ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
     "BOT_NAME": "DexterBot11"
   },
-  "SESSION_ID_BOT_20": {
+  "SESSION_ID_BOT_12": {
     "autoStatusSeen": true,
     "autoStatusReply": false,
     "statusReadMsg": " ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
     "BOT_NAME": "DexterBot12"
   },
-  "SESSION_ID_BOT_21": {
+  "SESSION_ID_BOT_13": {
     "autoStatusSeen": true,
     "autoStatusReply": true,
     "statusReadMsg": "STATUS_SEEN_BY_CHUTI¥ ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
     "BOT_NAME": "DexterBot13"
   },
-  "SESSION_ID_BOT_22": {
+  "SESSION_ID_BOT_14": {
     "autoStatusSeen": true,
     "autoStatusReply": false,
     "statusReadMsg": " ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
     "BOT_NAME": "DexterBot14"
   },
-  "SESSION_ID_BOT_23": {
+  "SESSION_ID_BOT_15": {
     "autoStatusSeen": true,
     "autoStatusReply": true,
     "statusReadMsg": "*SEEN YOUR STATUS BY EX SANA FF* ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
     "BOT_NAME": "DexterBot15"
   },
-  "SESSION_ID_BOT_24": {
+  "SESSION_ID_BOT_16": {
     "autoStatusSeen": true,
     "autoStatusReply": false,
     "statusReadMsg": " ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
     "BOT_NAME": "DexterBot16"
   },
-  "SESSION_ID_BOT_25": {
+  "SESSION_ID_BOT_17": {
     "autoStatusSeen": true,
     "autoStatusReply": false,
     "statusReadMsg": " ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
     "BOT_NAME": "DexterBot17"
   },
-  "SESSION_ID_BOT_26": {
+  "SESSION_ID_BOT_18": {
     "autoStatusSeen": true,
     "autoStatusReply": false,
     "statusReadMsg": " ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
     "BOT_NAME": "DexterBot18"
   },
-  "SESSION_ID_BOT_27": {
+  "SESSION_ID_BOT_19": {
     "autoStatusSeen": true,
     "autoStatusReply": true,
     "statusReadMsg": "*SEEN YOUR STATUS BY SANEXx* ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
     "BOT_NAME": "DexterBot19"
   },
-  "SESSION_ID_BOT_28": {
+  "SESSION_ID_BOT_20": {
     "autoStatusSeen": true,
     "autoStatusReply": false,
     "statusReadMsg": " ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
     "BOT_NAME": "DexterBot20"
   },
-  "SESSION_ID_BOT_29": {
+  "SESSION_ID_BOT_21": {
     "autoStatusSeen": false,
     "autoStatusReply": false,
     "statusReadMsg": " ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
     "BOT_NAME": "DexterBot21"
   },
-  "SESSION_ID_BOT_30": {
+  "SESSION_ID_BOT_22": {
     "autoStatusSeen": false,
     "autoStatusReply": false,
     "statusReadMsg": " ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
     "BOT_NAME": "DexterBot22"
   },
-  "SESSION_ID_BOT_31": {
+  "SESSION_ID_BOT_23": {
     "autoStatusSeen": true,
     "autoStatusReply": false,
     "statusReadMsg": " ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
     "BOT_NAME": "DexterBot23"
   },
-  "SESSION_ID_BOT_32": {
+  "SESSION_ID_BOT_24": {
     "autoStatusSeen": true,
     "autoStatusReply": false,
     "statusReadMsg": " ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
     "BOT_NAME": "DexterBot24"
   },
-  "SESSION_ID_BOT_33": {
+  "SESSION_ID_BOT_25": {
     "autoStatusSeen": true,
     "autoStatusReply": true,
     "statusReadMsg": "YOYR STATUS SEEN BY RAVI ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
     "BOT_NAME": "DexterBot25"
   },
-  "SESSION_ID_BOT_34": {
+  "SESSION_ID_BOT_26": {
     "autoStatusSeen": true,
     "autoStatusReply": false,
     "statusReadMsg": " ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
     "BOT_NAME": "DexterBot26"
   },
-  "SESSION_ID_BOT_35": {
+  "SESSION_ID_BOT_27": {
     "autoStatusSeen": true,
     "autoStatusReply": false,
     "statusReadMsg": " ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
     "BOT_NAME": "DexterBot27"
   },
-  "SESSION_ID_BOT_36": {
+  "SESSION_ID_BOT_28": {
     "autoStatusSeen": true,
     "autoStatusReply": true,
     "statusReadMsg": "JUST NOW STATUS SEEN BY CP OWNER ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
     "BOT_NAME": "DexterBot28"
   },
-  "SESSION_ID_BOT_37": {
+  "SESSION_ID_BOT_29": {
     "autoStatusSeen": true,
     "autoStatusReply": true,
     "statusReadMsg": "YOUR STUTAS FRIST SEEN DONE ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
     "BOT_NAME": "DexterBot29"
   },
-  "SESSION_ID_BOT_38": {
+  "SESSION_ID_BOT_30": {
     "autoStatusSeen": true,
     "autoStatusReply": true,
     "statusReadMsg": "YOUR STUTAS FRIST SEEN DONE ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
     "BOT_NAME": "DexterBot30"
   },
-  "SESSION_ID_BOT_39": {
+  "SESSION_ID_BOT_31": {
     "autoStatusSeen": true,
     "autoStatusReply": false,
     "statusReadMsg": " ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
     "BOT_NAME": "DexterBot31"
+  },
+  "SESSION_ID_BOT_32": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
+    "BOT_NAME": "DexterBot32"
+  },
+  "SESSION_ID_BOT_33": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "STATUS SEEN BY HESHAN ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
+    "BOT_NAME": "DexterBot33"
+  },
+  "SESSION_ID_BOT_34": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "DINU FF ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
+    "BOT_NAME": "DexterBot34"
+  },
+  "SESSION_ID_BOT_35": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
+    "BOT_NAME": "DexterBot35"
+  },
+  "SESSION_ID_BOT_36": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
+    "BOT_NAME": "DexterBot36"
+  },
+  "SESSION_ID_BOT_37": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "Hi lamayo mahasona oyage st seen kara mageth seen karanna lassana lamayo ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
+    "BOT_NAME": "DexterBot37"
+  },
+  "SESSION_ID_BOT_38": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
+    "BOT_NAME": "DexterBot38"
+  },
+  "SESSION_ID_BOT_39": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "oyage status seen kara lamayo mageth seen karanna ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
+    "BOT_NAME": "DexterBot39"
+  },
+  "SESSION_ID_BOT_40": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "YOUR STATUS READ BY DEXTER ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
+    "BOT_NAME": "DexterBot40"
   }
 }
