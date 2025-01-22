@@ -257,5 +257,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "Hi lamayo mahasona oyage st seen kara mageth seen karanna lassana lamayo",
     "OWNER_NUMBER": "94768759194"
+  },
+  {
+    "SESSION_ID": "RCD-MD&F9xBymJi",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "94766742885"
   }
 ]
