@@ -46,5 +46,66 @@
     "autoStatusReply": true,
     "statusReadMsg": "*📍 STATUS SEEN BY SUDDA LIVE*",
     "BOT_NAME": "DexterBot2"
+  },
+  "SESSION_ID_BOT_9": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
+    "BOT_NAME": "DexterBot1"
+  },
+  "SESSION_ID_BOT_10": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "Hi... I seen your status... ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
+    "BOT_NAME": "DexterBot2"
+  },
+  "SESSION_ID_BOT_11": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "Hi...\nI'am Sulaksha Madara \nAuto seen your status... ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
+    "BOT_NAME": "DexterBot3"
+  },
+  "SESSION_ID_BOT_12": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "YOUR STATUS SEEN BY SASI ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
+    "BOT_NAME": "DexterBot4"
+  },
+  "SESSION_ID_BOT_13": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "YOUR STATUS SEEN\nI AM - Dinu-MD program ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
+    "BOT_NAME": "DexterBot5"
+  },
+  "SESSION_ID_BOT_14": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
+    "BOT_NAME": "DexterBot6"
+  },
+  "SESSION_ID_BOT_15": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
+    "BOT_NAME": "DexterBot7"
+  },
+  "SESSION_ID_BOT_16": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "* YOUR STATUS AUTO SEEN BY CYBER GHOST* ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
+    "BOT_NAME": "DexterBot8"
+  },
+  "SESSION_ID_BOT_17": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "Hi... \nI see your status... ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
+    "BOT_NAME": "DexterBot9"
+  },
+  "SESSION_ID_BOT_18": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "JUST NOW STATUS SEEN BY CP OWNER ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
+    "BOT_NAME": "DexterBot10"
   }
 }
+
