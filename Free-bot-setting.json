@@ -10,5 +10,41 @@
     "autoStatusReply": false,
     "statusReadMsg": "*📍 Auto Status Seen by Bot 2*",
     "BOT_NAME": "DexterBot2"
+  },
+  "SESSION_ID_BOT_3": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": "*📍 Auto Status Seen by Bot 2*",
+    "BOT_NAME": "DexterBot2"
+  },
+  "SESSION_ID_BOT_4": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "*📍 STATUS SEEN BY DORA*",
+    "BOT_NAME": "DexterBot2"
+  },
+  "SESSION_ID_BOT_5": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "*📍 STATUS SEEN BY DORA MD*",
+    "BOT_NAME": "DexterBot2"
+  },
+  "SESSION_ID_BOT_6": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "*YOUR STATUS SEEN BY CP OWNER* ✓",
+    "BOT_NAME": "DexterBot2"
+  },
+  "SESSION_ID_BOT_7": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": "*📍 Auto Status Seen by Bot 2*",
+    "BOT_NAME": "DexterBot2"
+  },
+  "SESSION_ID_BOT_8": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "*📍 STATUS SEEN BY SUDDA LIVE*",
+    "BOT_NAME": "DexterBot2"
   }
 }
