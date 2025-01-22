@@ -7,5 +7,14 @@
       "AUTO_STATUS_REPLY_MESSAGE": null,
       "OWNER_NUMBER": "5566"
     }
+  },
+  {
+    "Submitted Data 2": {
+      "SESSION_ID": "Fffft",
+      "AUTO_STATUS_SEEN": true,
+      "AUTO_STATUS_REPLY": true,
+      "AUTO_STATUS_REPLY_MESSAGE": "Fttt",
+      "OWNER_NUMBER": "5566"
+    }
   }
 ]
