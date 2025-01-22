@@ -12,5 +12,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "f",
     "OWNER_NUMBER": "8"
+  },
+  {
+    "SESSION_ID": "RCD-MD&tf",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "G",
+    "OWNER_NUMBER": "9"
   }
 ]
