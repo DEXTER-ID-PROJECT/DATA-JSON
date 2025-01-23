@@ -7,7 +7,7 @@
   },
   "SESSION_ID_BOT_2": {
     "autoStatusSeen": true,
-    "autoStatusReply": true,
+    "autoStatusReply": false,
     "statusReadMsg": "Hi... I seen your status... ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
     "BOT_NAME": "DexterBot2"
   },
@@ -120,9 +120,9 @@
     "BOT_NAME": "DexterBot20"
   },
   "SESSION_ID_BOT_21": {
-    "autoStatusSeen": false,
-    "autoStatusReply": false,
-    "statusReadMsg": " ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "*SEEN YOUR STATUS BOT BY* ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
     "BOT_NAME": "DexterBot21"
   },
   "SESSION_ID_BOT_22": {
@@ -388,5 +388,35 @@
     "autoStatusReply": true,
     "statusReadMsg": "YOUR STATUS AUTO SEEN BY HACKER YOVI....! ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
     "BOT_NAME": "DexterBot65"
+  },
+  "SESSION_ID_BOT_66": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "*YOUR STETAS SEEN BY CYBER GHOST* ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
+    "BOT_NAME": "DexterBot66"
+  },
+  "SESSION_ID_BOT_67": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
+    "BOT_NAME": "DexterBot67"
+  },
+  "SESSION_ID_BOT_68": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
+    "BOT_NAME": "DexterBot68"
+  },
+  "SESSION_ID_BOT_69": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
+    "BOT_NAME": "DexterBot69"
+  },
+  "SESSION_ID_BOT_70": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "YOU STATUS AUTO-SEEN ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
+    "BOT_NAME": "DexterBot70"
   }
 }
