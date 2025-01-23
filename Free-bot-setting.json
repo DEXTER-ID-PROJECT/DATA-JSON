@@ -13,7 +13,7 @@
   },
   "SESSION_ID_BOT_3": {
     "autoStatusSeen": true,
-    "autoStatusReply": true,
+    "autoStatusReply": false,
     "statusReadMsg": "Hi...\nI'am Sulaksha Madara \nAuto seen your status... ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
     "BOT_NAME": "DexterBot3"
   },
@@ -343,7 +343,7 @@
   },
   "SESSION_ID_BOT_58": {
     "autoStatusSeen": true,
-    "autoStatusReply": true,
+    "autoStatusReply": false,
     "statusReadMsg": "Hi...\nAuto seen your status... ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
     "BOT_NAME": "DexterBot58"
   },
@@ -355,7 +355,7 @@
   },
   "SESSION_ID_BOT_60": {
     "autoStatusSeen": true,
-    "autoStatusReply": true,
+    "autoStatusReply": false,
     "statusReadMsg": "Hi Bea.......\nYou  Status Auto Sin Podda Bea...... ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
     "BOT_NAME": "DexterBot60"
   },
@@ -418,5 +418,71 @@
     "autoStatusReply": true,
     "statusReadMsg": "YOU STATUS AUTO-SEEN ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
     "BOT_NAME": "DexterBot70"
+  },
+  "SESSION_ID_BOT_71": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
+    "BOT_NAME": "DexterBot71"
+  },
+  "SESSION_ID_BOT_72": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "YOUR STATTUS BY SEEN ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
+    "BOT_NAME": "DexterBot72"
+  },
+  "SESSION_ID_BOT_73": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
+    "BOT_NAME": "DexterBot73"
+  },
+  "SESSION_ID_BOT_74": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "Hi...\nAuto seen your status... ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
+    "BOT_NAME": "DexterBot74"
+  },
+  "SESSION_ID_BOT_75": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "hi ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
+    "BOT_NAME": "DexterBot75"
+  },
+  "SESSION_ID_BOT_76": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
+    "BOT_NAME": "DexterBot76"
+  },
+  "SESSION_ID_BOT_77": {
+    "autoStatusSeen": false,
+    "autoStatusReply": false,
+    "statusReadMsg": " ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
+    "BOT_NAME": "DexterBot77"
+  },
+  "SESSION_ID_BOT_78": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
+    "BOT_NAME": "DexterBot78"
+  },
+  "SESSION_ID_BOT_79": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
+    "BOT_NAME": "DexterBot79"
+  },
+  "SESSION_ID_BOT_80": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "Hy Your Status Just Now Seen By King Yoonu ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
+    "BOT_NAME": "DexterBot80"
+  },
+  "SESSION_ID_BOT_81": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
+    "BOT_NAME": "DexterBot81"
   }
 }
