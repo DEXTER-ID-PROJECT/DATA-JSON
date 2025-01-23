@@ -404,5 +404,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "Hi...\nAuto seen your status...",
     "OWNER_NUMBER": "94774541577"
+  },
+  {
+    "SESSION_ID": "RCD-MD&ViMuxXNc",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "*YOUR STATUS AUTO SEEN BY CYBER GHOST*",
+    "OWNER_NUMBER": "94741140620"
   }
 ]
