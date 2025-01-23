@@ -439,5 +439,12 @@
     "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": null,
     "OWNER_NUMBER": "+94 70 472 5730"
+  },
+  {
+    "SESSION_ID": "RCD-MD&nRXkEyE5",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "*Your Status Just now Seen by, Gihan Dulakshana  _>Drak Legend<_*",
+    "OWNER_NUMBER": "94761857660"
   }
 ]
