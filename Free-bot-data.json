@@ -415,7 +415,7 @@
   {
     "SESSION_ID": "RCD-MD&QM0P0WGZ",
     "AUTO_STATUS_SEEN": true,
-    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": "Hi Bea.......\nYou  Status Auto Sin Podda Bea......",
     "OWNER_NUMBER": "94764380799"
   },
