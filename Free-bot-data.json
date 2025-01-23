@@ -9,7 +9,7 @@
   {
     "SESSION_ID": "RCD-MD&cEmj51UL",
     "AUTO_STATUS_SEEN": true,
-    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": "Hi... I seen your status...",
     "OWNER_NUMBER": "0710450435"
   },
