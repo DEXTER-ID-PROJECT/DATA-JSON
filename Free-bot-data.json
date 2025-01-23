@@ -523,5 +523,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "hi",
     "OWNER_NUMBER": "94781226144"
+  },
+  {
+    "SESSION_ID": "RCD-MD&Lhx2ebQ8",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "0701619816"
   }
 ]
