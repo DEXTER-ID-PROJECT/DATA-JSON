@@ -558,5 +558,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "Hy Your Status Just Now Seen By King Yoonu",
     "OWNER_NUMBER": "9472723934"
+  },
+  {
+    "SESSION_ID": "RCD-MD&GD0326Qc",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "+94 70 387 8904"
   }
 ]
