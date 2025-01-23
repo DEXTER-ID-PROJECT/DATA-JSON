@@ -383,5 +383,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "STATAS SIN PODDA BEBY",
     "OWNER_NUMBER": "94703878904"
+  },
+  {
+    "SESSION_ID": "RCD-MD&RLHfxMRv",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "Hi...\nAuto seen your status...",
+    "OWNER_NUMBER": "94763078750"
   }
 ]
