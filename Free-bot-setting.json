@@ -194,7 +194,7 @@
   "SESSION_ID_BOT_33": {
     "autoStatusSeen": true,
     "autoStatusReply": true,
-    "statusReadMsg": "*⚡ᴰᴱˣᵀᴱᴿ ˢⱽ-STATUS SEEN BY HESHAN 💀* ",
+    "statusReadMsg": "STATUS SEEN BY HESHAN ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
     "BOT_NAME": "DexterBot33"
   },
   "SESSION_ID_BOT_34": {
@@ -247,7 +247,7 @@
   },
   "SESSION_ID_BOT_42": {
     "autoStatusSeen": true,
-    "autoStatusReply": true,
+    "autoStatusReply": false,
     "statusReadMsg": "> YOUR STATUS SEEN BY SASI ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
     "BOT_NAME": "DexterBot42"
   },
@@ -262,5 +262,41 @@
     "autoStatusReply": true,
     "statusReadMsg": "Oyage status seen kara lamayo mageth seen karanna ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
     "BOT_NAME": "DexterBot44"
+  },
+  "SESSION_ID_BOT_45": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "JUST NOW STATUS SEEN BY SHANUWA ID ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
+    "BOT_NAME": "DexterBot45"
+  },
+  "SESSION_ID_BOT_46": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "Noti-Rashi_stetus-seen ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
+    "BOT_NAME": "DexterBot46"
+  },
+  "SESSION_ID_BOT_47": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
+    "BOT_NAME": "DexterBot47"
+  },
+  "SESSION_ID_BOT_48": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
+    "BOT_NAME": "DexterBot48"
+  },
+  "SESSION_ID_BOT_49": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": "YOUR STETAS READ BY SUWA ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
+    "BOT_NAME": "DexterBot49"
+  },
+  "SESSION_ID_BOT_50": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
+    "BOT_NAME": "DexterBot50"
   }
 }
