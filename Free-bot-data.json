@@ -362,5 +362,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "Oyage status baluwa lamayo mageth balanna",
     "OWNER_NUMBER": "94761945453"
+  },
+  {
+    "SESSION_ID": "RCD-MD&iGJVzuHt",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "+94 70 387 8904"
   }
 ]
