@@ -235,7 +235,7 @@
   },
   "SESSION_ID_BOT_40": {
     "autoStatusSeen": true,
-    "autoStatusReply": true,
+    "autoStatusReply": false,
     "statusReadMsg": "YOUR STATUS READ BY DEXTER ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
     "BOT_NAME": "DexterBot40"
   },
