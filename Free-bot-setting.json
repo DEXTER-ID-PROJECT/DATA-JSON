@@ -194,7 +194,7 @@
   "SESSION_ID_BOT_33": {
     "autoStatusSeen": true,
     "autoStatusReply": true,
-    "statusReadMsg": "STATUS SEEN BY HESHAN ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
+    "statusReadMsg": "*⚡ᴰᴱˣᵀᴱᴿ ˢⱽ-STATUS SEEN BY HESHAN 💀* ",
     "BOT_NAME": "DexterBot33"
   },
   "SESSION_ID_BOT_34": {
@@ -235,7 +235,7 @@
   },
   "SESSION_ID_BOT_40": {
     "autoStatusSeen": true,
-    "autoStatusReply": false,
+    "autoStatusReply": true,
     "statusReadMsg": "YOUR STATUS READ BY DEXTER ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
     "BOT_NAME": "DexterBot40"
   },
