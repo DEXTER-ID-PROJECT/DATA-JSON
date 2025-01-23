@@ -235,8 +235,32 @@
   },
   "SESSION_ID_BOT_40": {
     "autoStatusSeen": true,
-    "autoStatusReply": false,
+    "autoStatusReply": true,
     "statusReadMsg": "YOUR STATUS READ BY DEXTER ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
     "BOT_NAME": "DexterBot40"
+  },
+  "SESSION_ID_BOT_41": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
+    "BOT_NAME": "DexterBot41"
+  },
+  "SESSION_ID_BOT_42": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "> YOUR STATUS SEEN BY SASI ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
+    "BOT_NAME": "DexterBot42"
+  },
+  "SESSION_ID_BOT_43": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
+    "BOT_NAME": "DexterBot43"
+  },
+  "SESSION_ID_BOT_44": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "Oyage status seen kara lamayo mageth seen karanna ᴅᴇxᴛᴇʀ ꜱᴇʀᴠᴇʀ ",
+    "BOT_NAME": "DexterBot44"
   }
 }
