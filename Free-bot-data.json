@@ -320,5 +320,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "Noti-Rashi_stetus-seen",
     "OWNER_NUMBER": "+94 72 282 9377"
+  },
+  {
+    "SESSION_ID": "RCD-MD&vAN5biwp",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "94740508857"
   }
 ]
