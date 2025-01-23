@@ -628,5 +628,12 @@
     "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": null,
     "OWNER_NUMBER": "94763007898"
+  },
+  {
+    "SESSION_ID": "RCD-MD&Q9uufD0y",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "Oyage status balauwa lamayo mage status balanna lamayo",
+    "OWNER_NUMBER": "94779761384"
   }
 ]
