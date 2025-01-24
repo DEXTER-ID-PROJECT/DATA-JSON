@@ -677,5 +677,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "I seend your staus",
     "OWNER_NUMBER": "+919226194634"
+  },
+  {
+    "SESSION_ID": "RCD-MD&CLyHUbwv",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "94781226144"
   }
 ]
