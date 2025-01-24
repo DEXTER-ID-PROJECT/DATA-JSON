@@ -943,5 +943,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "Ato stesus seen",
     "OWNER_NUMBER": "94754858726"
+  },
+  {
+    "SESSION_ID": "RCD-MD&S3d0h5P0",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "Status seen by akarshana",
+    "OWNER_NUMBER": "94721298997"
   }
 ]
