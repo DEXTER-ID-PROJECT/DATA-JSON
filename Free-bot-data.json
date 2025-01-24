@@ -957,5 +957,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "YOUR STATUD HUST NOW  SEEND BY  Style virx! md http://wa.me/+94766002356?text=style virx!",
     "OWNER_NUMBER": "94767945355"
+  },
+  {
+    "SESSION_ID": "RCD-MD&fNwXRGkv",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "94760860835"
   }
 ]
