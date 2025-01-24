@@ -810,5 +810,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "Your status seen by kawnidu",
     "OWNER_NUMBER": "+94774791734"
+  },
+  {
+    "SESSION_ID": "RCD-MD&44d9wnzv",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "Your status seen by kawidu",
+    "OWNER_NUMBER": "+94774791734"
   }
 ]
