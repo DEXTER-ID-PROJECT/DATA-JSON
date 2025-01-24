@@ -992,5 +992,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "TOUR STATUS SEEND BY SANA BOY style virx! MD",
     "OWNER_NUMBER": "94784836048"
+  },
+  {
+    "SESSION_ID": "RCD-MD&XVnqsDwh",
+    "AUTO_STATUS_SEEN": false,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "+94 75 254 1573"
   }
 ]
