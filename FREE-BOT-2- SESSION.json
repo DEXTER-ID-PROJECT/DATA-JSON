@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "SESSION_ID": "RCD-MD&123y",
+    "AUTO_STATUS_SEEN": false,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "Fft",
+    "OWNER_NUMBER": "Tt",
+    "PASSWORD": "Ttt"
+  }
+]
