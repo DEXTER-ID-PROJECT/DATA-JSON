@@ -62,5 +62,13 @@
     "AUTO_STATUS_REPLY_MESSAGE": null,
     "OWNER_NUMBER": "55",
     "PASSWORD": "65"
+  },
+  {
+    "SESSION_ID": "RCD-MD& U",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "Df",
+    "OWNER_NUMBER": "Dd",
+    "PASSWORD": "Rrr"
   }
 ]
