@@ -1013,5 +1013,12 @@
     "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": null,
     "OWNER_NUMBER": "+94 74 117 1263"
+  },
+  {
+    "SESSION_ID": "RCD-MD&Us6wL1xj",
+    "AUTO_STATUS_SEEN": false,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "753428137"
   }
 ]
