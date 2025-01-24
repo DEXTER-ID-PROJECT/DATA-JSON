@@ -14,5 +14,13 @@
     "AUTO_STATUS_REPLY_MESSAGE": "Rtyff",
     "OWNER_NUMBER": "Gyy",
     "PASSWORD": "Fgy"
+  },
+  {
+    "SESSION_ID": "Ghh",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "",
+    "OWNER_NUMBER": "4rr",
+    "PASSWORD": "Ft"
   }
 ]
