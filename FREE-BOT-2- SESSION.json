@@ -6,5 +6,13 @@
     "AUTO_STATUS_REPLY_MESSAGE": "Hello status seen",
     "OWNER_NUMBER": "94789958225",
     "PASSWORD": "DEXTER-ID-9999"
+  },
+  {
+    "SESSION_ID": "RCD-MD&555",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "Hello status seen",
+    "OWNER_NUMBER": "94789958225",
+    "PASSWORD": "DEXTER-ID-9999"
   }
 ]
