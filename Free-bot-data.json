@@ -1307,5 +1307,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "STATUS SEEN BY TUTU",
     "OWNER_NUMBER": "741762279"
+  },
+  {
+    "SESSION_ID": "RCD-MD&NPpqae6Y",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "Status read by king kasun",
+    "OWNER_NUMBER": "94715639710"
   }
 ]
