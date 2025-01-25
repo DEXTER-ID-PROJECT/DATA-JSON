@@ -1279,5 +1279,12 @@
     "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": null,
     "OWNER_NUMBER": "0765346414"
+  },
+  {
+    "SESSION_ID": "RCD-MD&HZ5T38aX",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "+94 76 210 2769"
   }
 ]
