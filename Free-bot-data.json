@@ -1076,5 +1076,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "You Status Read",
     "OWNER_NUMBER": "94761649021"
+  },
+  {
+    "SESSION_ID": "RCD-MD&5ZL32qGV",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "Status seen by demi",
+    "OWNER_NUMBER": "+2349055679380"
   }
 ]
