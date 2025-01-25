@@ -980,7 +980,7 @@
   "SESSION_ID_BOT_164": {
     "autoStatusSeen": true,
     "autoStatusReply": true,
-    "statusReadMsg": "*HEY I AM VIWE YOU STATUS*  *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "statusReadMsg": "*Hey i am chalah md you status seen just now*  *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
     "BOT_NAME": "DexterBot164"
   },
   "SESSION_ID_BOT_165": {
@@ -994,5 +994,35 @@
     "autoStatusReply": true,
     "statusReadMsg": "Onna oyage stetus eka baluwa mageth balanna  *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
     "BOT_NAME": "DexterBot166"
+  },
+  "SESSION_ID_BOT_167": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": "  *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot167"
+  },
+  "SESSION_ID_BOT_168": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "YOUR STATUS SEEN NOW....!  *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot168"
+  },
+  "SESSION_ID_BOT_169": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "i am read your status  *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot169"
+  },
+  "SESSION_ID_BOT_170": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": "  *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot170"
+  },
+  "SESSION_ID_BOT_171": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": "  *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot171"
   }
 }
