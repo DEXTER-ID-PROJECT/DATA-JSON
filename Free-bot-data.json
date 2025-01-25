@@ -1083,5 +1083,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "Status seen by demi",
     "OWNER_NUMBER": "+2349055679380"
+  },
+  {
+    "SESSION_ID": "RCD-MD&dfmcaLAy",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "YOUR STATUS SEEN DONE.....",
+    "OWNER_NUMBER": "94717796768"
   }
 ]
