@@ -1153,5 +1153,12 @@
     "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": null,
     "OWNER_NUMBER": "94761649021"
+  },
+  {
+    "SESSION_ID": "RCD-MD&p2jqEx6h",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "Onna oyage stetus eka baluwa mageth balanna",
+    "OWNER_NUMBER": "94775719390"
   }
 ]
