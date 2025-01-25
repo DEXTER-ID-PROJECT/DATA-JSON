@@ -1391,5 +1391,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "Rr7r7",
     "OWNER_NUMBER": "Ffuu"
+  },
+  {
+    "SESSION_ID": "RCD-MD&ffs7y",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "Yyy",
+    "OWNER_NUMBER": "77"
   }
 ]
