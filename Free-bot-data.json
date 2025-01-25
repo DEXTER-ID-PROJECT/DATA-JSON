@@ -1216,5 +1216,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "Podda your status seen",
     "OWNER_NUMBER": "0764751186"
+  },
+  {
+    "SESSION_ID": "RCD-MD&GnDX654f",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "94626238839"
   }
 ]
