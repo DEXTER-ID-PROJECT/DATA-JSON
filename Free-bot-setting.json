@@ -1204,5 +1204,11 @@
     "autoStatusReply": false,
     "statusReadMsg": "  *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
     "BOT_NAME": "DexterBot201"
+  },
+  "SESSION_ID_BOT_202": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "YOURE STATUS SEEN BY BLACKY  *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot202"
   }
 }
