@@ -1125,5 +1125,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "Your status was seen \nBy zyaan",
     "OWNER_NUMBER": "9438282892"
+  },
+  {
+    "SESSION_ID": "RCD-MD&F9Jdha71",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "94761945453"
   }
 ]
