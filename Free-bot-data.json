@@ -2014,5 +2014,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "AUTO REPLY\nOyage status eka beluwa eka harima lassanayi",
     "OWNER_NUMBER": "94740261707"
+  },
+  {
+    "SESSION_ID": "RCD-MD&mNQZMJ2t",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "94741779931"
   }
 ]
