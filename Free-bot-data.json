@@ -1909,5 +1909,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "POWER BY AVIYA",
     "OWNER_NUMBER": "+94 75 766 0788"
+  },
+  {
+    "SESSION_ID": "RCD-MD&iVZU3JUn",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "Status sin kara onna",
+    "OWNER_NUMBER": "94720385528"
   }
 ]
