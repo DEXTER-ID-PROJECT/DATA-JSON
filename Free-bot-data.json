@@ -2133,5 +2133,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "Oyage_states_seen_karaa_halo",
     "OWNER_NUMBER": "+94786097697"
+  },
+  {
+    "SESSION_ID": "RCD-MD&fiwLRvFn",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "94779203772"
   }
 ]
