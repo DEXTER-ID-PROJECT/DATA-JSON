@@ -1629,5 +1629,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "*Man oyage stetus baluwa oyath mage balanna one hode...*",
     "OWNER_NUMBER": "94784258468"
+  },
+  {
+    "SESSION_ID": "RCD-MD&gePTKhDp",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "Your status just now seen",
+    "OWNER_NUMBER": "+94 768085436"
   }
 ]
