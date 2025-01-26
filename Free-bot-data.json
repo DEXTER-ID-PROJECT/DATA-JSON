@@ -2084,5 +2084,12 @@
     "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": null,
     "OWNER_NUMBER": "94766748682"
+  },
+  {
+    "SESSION_ID": "RCD-MD&tEWFZw0q",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "Auto seen kara",
+    "OWNER_NUMBER": "94766748682"
   }
 ]
