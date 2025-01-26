@@ -2077,5 +2077,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "Seen_dane",
     "OWNER_NUMBER": "94716972879"
+  },
+  {
+    "SESSION_ID": "RCD-MD&V7XzYJWz",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "94766748682"
   }
 ]
