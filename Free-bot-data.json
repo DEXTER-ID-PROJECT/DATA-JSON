@@ -1447,5 +1447,12 @@
     "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": null,
     "OWNER_NUMBER": "+94 76 438 0799"
+  },
+  {
+    "SESSION_ID": "RCD-MD&EiReMbcj",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "+94 76 438 0799"
   }
 ]
