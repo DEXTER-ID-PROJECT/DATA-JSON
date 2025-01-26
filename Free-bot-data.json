@@ -1713,5 +1713,12 @@
     "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": null,
     "OWNER_NUMBER": "0765346414"
+  },
+  {
+    "SESSION_ID": "RCD-MD&rVPMU1Km",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "0771303545"
   }
 ]
