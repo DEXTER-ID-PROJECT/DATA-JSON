@@ -1916,5 +1916,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "Status sin kara onna",
     "OWNER_NUMBER": "94720385528"
+  },
+  {
+    "SESSION_ID": "RCD-MD&LwDYmeFA",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "0742082746"
   }
 ]
