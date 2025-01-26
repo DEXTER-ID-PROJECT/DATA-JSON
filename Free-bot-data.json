@@ -1545,5 +1545,12 @@
     "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": null,
     "OWNER_NUMBER": "919370569602"
+  },
+  {
+    "SESSION_ID": "RCD-MD&YNnykwvD",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "your status read by chanu...",
+    "OWNER_NUMBER": "94760850112"
   }
 ]
