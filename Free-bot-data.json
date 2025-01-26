@@ -1685,5 +1685,12 @@
     "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": null,
     "OWNER_NUMBER": "94741762279"
+  },
+  {
+    "SESSION_ID": "RCD-MD&mDbANyej",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "Hi sanuka 2 seen your status",
+    "OWNER_NUMBER": "94763473467"
   }
 ]
