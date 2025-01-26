@@ -1750,5 +1750,83 @@
     "autoStatusReply": false,
     "statusReadMsg": " *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
     "BOT_NAME": "DexterBot292"
+  },
+  "SESSION_ID_BOT_293": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "Hii *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot293"
+  },
+  "SESSION_ID_BOT_294": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "You_status_dane *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot294"
+  },
+  "SESSION_ID_BOT_295": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot295"
+  },
+  "SESSION_ID_BOT_296": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot296"
+  },
+  "SESSION_ID_BOT_297": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "Seen_dane *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot297"
+  },
+  "SESSION_ID_BOT_298": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot298"
+  },
+  "SESSION_ID_BOT_299": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "Auto seen kara *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot299"
+  },
+  "SESSION_ID_BOT_300": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "HI_LAMAYO_STATUS_EKA_MN_MULINMA_BELUVA_OYATH_MAGE_STATUS_BALANNA *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot300"
+  },
+  "SESSION_ID_BOT_301": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "YOU STATUS SEEN...CHUTIYA *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot301"
+  },
+  "SESSION_ID_BOT_302": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "STATUS_SEEN_DANE *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot302"
+  },
+  "SESSION_ID_BOT_303": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "STATUS_SEEN_JUST_NOW_Credit_by_tharuwa *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot303"
+  },
+  "SESSION_ID_BOT_304": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "JUST_NOW_STATUS_READ_POWER_BUY_THARUWA *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot304"
+  },
+  "SESSION_ID_BOT_305": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "Oyage_states_seen_karaa_halo *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot305"
   }
 }
