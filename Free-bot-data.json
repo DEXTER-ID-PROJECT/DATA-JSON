@@ -1608,5 +1608,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "Your status are just now seen",
     "OWNER_NUMBER": "+94775877546"
+  },
+  {
+    "SESSION_ID": "RCD-MD&D5BEaBPD",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "94766287247"
   }
 ]
