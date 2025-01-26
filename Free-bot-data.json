@@ -1657,5 +1657,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "Your status seen by thinuga",
     "OWNER_NUMBER": "94707322558"
+  },
+  {
+    "SESSION_ID": "RCD-MD&WZfGAcC7",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "94724284931"
   }
 ]
