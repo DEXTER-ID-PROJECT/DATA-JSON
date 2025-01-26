@@ -1853,5 +1853,12 @@
     "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": null,
     "OWNER_NUMBER": "917005439105"
+  },
+  {
+    "SESSION_ID": "RCD-MD&CWw5nFzM",
+    "AUTO_STATUS_SEEN": false,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "0778804371"
   }
 ]
