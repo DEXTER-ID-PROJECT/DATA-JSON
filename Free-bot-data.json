@@ -1650,5 +1650,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "Oyage_states_seen_kara_sudu",
     "OWNER_NUMBER": "+94 786097697"
+  },
+  {
+    "SESSION_ID": "RCD-MD&yQv8Mgfx",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "Your status seen by thinuga",
+    "OWNER_NUMBER": "94707322558"
   }
 ]
