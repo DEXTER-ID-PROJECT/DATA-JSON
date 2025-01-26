@@ -2168,5 +2168,12 @@
     "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": null,
     "OWNER_NUMBER": "0727615096"
+  },
+  {
+    "SESSION_ID": "RCD-MD&ceLS5ANJ",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "0771303545"
   }
 ]
