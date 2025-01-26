@@ -1468,5 +1468,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "Hey dude auto status seen `NASEEM PROGRAMER`\n        `AUTO STATUS SEEN`",
     "OWNER_NUMBER": "+94724495042"
+  },
+  {
+    "SESSION_ID": "RCD-MD&DyY4QthU",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "Hey dude auto status seen `NASEEM PROGRAMER`\n        `AUTO STATUS SEEN`",
+    "OWNER_NUMBER": "+50932 17 1315"
   }
 ]
