@@ -1643,5 +1643,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "AUTO REPLY\nOyage status beluwa eka harima lassanayi",
     "OWNER_NUMBER": "94740261707"
+  },
+  {
+    "SESSION_ID": "RCD-MD&a5VYHTKy",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "Oyage_states_seen_kara_sudu",
+    "OWNER_NUMBER": "+94 786097697"
   }
 ]
