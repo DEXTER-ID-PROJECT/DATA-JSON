@@ -1672,5 +1672,41 @@
     "autoStatusReply": true,
     "statusReadMsg": "YOUR STETAS SEEN BY SHALI *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
     "BOT_NAME": "DexterBot279"
+  },
+  "SESSION_ID_BOT_280": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot280"
+  },
+  "SESSION_ID_BOT_281": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot281"
+  },
+  "SESSION_ID_BOT_282": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot282"
+  },
+  "SESSION_ID_BOT_283": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "Status aka maru *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot283"
+  },
+  "SESSION_ID_BOT_284": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot284"
+  },
+  "SESSION_ID_BOT_285": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "_AUTO_STATUS_SEEN_REPLY_//SORRY_FOR_THE_MESSAGE_...!! *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot285"
   }
 }
