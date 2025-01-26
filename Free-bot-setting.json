@@ -1636,5 +1636,41 @@
     "autoStatusReply": true,
     "statusReadMsg": "POWER BY AVIYA *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
     "BOT_NAME": "DexterBot273"
+  },
+  "SESSION_ID_BOT_274": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "Status sin kara onna *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot274"
+  },
+  "SESSION_ID_BOT_275": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot275"
+  },
+  "SESSION_ID_BOT_276": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot276"
+  },
+  "SESSION_ID_BOT_277": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot277"
+  },
+  "SESSION_ID_BOT_278": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot278"
+  },
+  "SESSION_ID_BOT_279": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "YOUR STETAS SEEN BY SHALI *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot279"
   }
 }
