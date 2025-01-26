@@ -1972,5 +1972,12 @@
     "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": null,
     "OWNER_NUMBER": "94778914964"
+  },
+  {
+    "SESSION_ID": "RCD-MD&e0N1bPk5",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "Status aka maru",
+    "OWNER_NUMBER": "94715219153"
   }
 ]
