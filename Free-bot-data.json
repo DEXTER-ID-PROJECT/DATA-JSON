@@ -2049,5 +2049,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "Hii",
     "OWNER_NUMBER": "+94 75 988 6351"
+  },
+  {
+    "SESSION_ID": "RCD-MD&L0YqbeHq",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "You_status_dane",
+    "OWNER_NUMBER": "94 74 366 5426"
   }
 ]
