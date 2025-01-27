@@ -2686,5 +2686,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "Onnna",
     "OWNER_NUMBER": "0704138222"
+  },
+  {
+    "SESSION_ID": "RCD-MD&BczPGvjy",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "940741039119"
   }
 ]
