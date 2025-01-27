@@ -1924,5 +1924,83 @@
     "autoStatusReply": true,
     "statusReadMsg": "YOUR STATUS READ BY DEXTER *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
     "BOT_NAME": "DexterBot321"
+  },
+  "SESSION_ID_BOT_322": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "Youer status bokka *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot322"
+  },
+  "SESSION_ID_BOT_323": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "YOUR STATUS READ BY DEXTER *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot323"
+  },
+  "SESSION_ID_BOT_324": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "status seen oyage *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot324"
+  },
+  "SESSION_ID_BOT_325": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot325"
+  },
+  "SESSION_ID_BOT_326": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot326"
+  },
+  "SESSION_ID_BOT_327": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "Anee *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot327"
+  },
+  "SESSION_ID_BOT_328": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot328"
+  },
+  "SESSION_ID_BOT_329": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "\"ONNA OYA DAPU GAMAN MN STETAS EKA MULINMA BALUWO\" *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot329"
+  },
+  "SESSION_ID_BOT_330": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "STATUS_SEEN_KARA_OYAGE_MAN *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot330"
+  },
+  "SESSION_ID_BOT_331": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "Your stetus Seen *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot331"
+  },
+  "SESSION_ID_BOT_332": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "Oyage status seen kara mage status seen karanna *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot332"
+  },
+  "SESSION_ID_BOT_333": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot333"
+  },
+  "SESSION_ID_BOT_334": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot334"
   }
 }
