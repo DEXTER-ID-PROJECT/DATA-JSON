@@ -2266,5 +2266,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "status seen oyage",
     "OWNER_NUMBER": "94781353986"
+  },
+  {
+    "SESSION_ID": "RCD-MD&aGK5SLaR",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "94758003102"
   }
 ]
