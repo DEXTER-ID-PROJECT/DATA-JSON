@@ -6,5 +6,12 @@
     "AUTO_STATUS_REPLY_MESSAGE": "Fft",
     "OWNER_NUMBER": "Tt",
     "PASSWORD": "Ttt"
+  },
+  {
+    "SESSION_ID": "RCD-MD& E",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "Hh",
+    "OWNER_NUMBER": "66"
   }
 ]
