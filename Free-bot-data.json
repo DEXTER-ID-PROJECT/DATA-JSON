@@ -2721,5 +2721,12 @@
     "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": null,
     "OWNER_NUMBER": "+94 72 547 7828"
+  },
+  {
+    "SESSION_ID": "RCD-MD&ZtUqcCDu",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "94762044592"
   }
 ]
