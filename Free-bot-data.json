@@ -2637,5 +2637,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "YOUR STATUS SEEN BY MR.PASIYH",
     "OWNER_NUMBER": "94 78 566 0496"
+  },
+  {
+    "SESSION_ID": "RCD-MD&f5rDpS9i",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "Status auto seen by dinuka",
+    "OWNER_NUMBER": "0713970212"
   }
 ]
