@@ -1297,7 +1297,7 @@
   },
   "SESSION_ID_BOT_217": {
     "autoStatusSeen": true,
-    "autoStatusReply": true,
+    "autoStatusReply": false,
     "statusReadMsg": "YYOUR STATUS SEEN *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
     "BOT_NAME": "DexterBot217"
   },
@@ -1828,5 +1828,101 @@
     "autoStatusReply": true,
     "statusReadMsg": "Oyage_states_seen_karaa_halo *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
     "BOT_NAME": "DexterBot305"
+  },
+  "SESSION_ID_BOT_306": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot306"
+  },
+  "SESSION_ID_BOT_307": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot307"
+  },
+  "SESSION_ID_BOT_308": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot308"
+  },
+  "SESSION_ID_BOT_309": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot309"
+  },
+  "SESSION_ID_BOT_310": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot310"
+  },
+  "SESSION_ID_BOT_311": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot311"
+  },
+  "SESSION_ID_BOT_312": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot312"
+  },
+  "SESSION_ID_BOT_313": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "YOU_STATUS_SEEN *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot313"
+  },
+  "SESSION_ID_BOT_314": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot314"
+  },
+  "SESSION_ID_BOT_315": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "AUTO STATEUS SEEN *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot315"
+  },
+  "SESSION_ID_BOT_316": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "Onnna *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot316"
+  },
+  "SESSION_ID_BOT_317": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "Onnna *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot317"
+  },
+  "SESSION_ID_BOT_318": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "YOUR STATUS JUST NOW SEEN LOKU YAKARI *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot318"
+  },
+  "SESSION_ID_BOT_319": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot319"
+  },
+  "SESSION_ID_BOT_320": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "Seen kara *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot320"
+  },
+  "SESSION_ID_BOT_321": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "YOUR STATUS READ BY DEXTER *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot321"
   }
 }
