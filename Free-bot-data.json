@@ -2280,5 +2280,12 @@
     "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": null,
     "OWNER_NUMBER": "94742073632"
+  },
+  {
+    "SESSION_ID": "RCD-MD&kkeTgi2s",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "Anee",
+    "OWNER_NUMBER": "94741779931"
   }
 ]
