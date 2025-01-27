@@ -2742,5 +2742,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "YOU _ STATUS _ SEEN _ CHATHUWA",
     "OWNER_NUMBER": "94783649601"
+  },
+  {
+    "SESSION_ID": "RCD-MD&Pt8pU25Z",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "Dagaya status seen ...",
+    "OWNER_NUMBER": "94756059852"
   }
 ]
