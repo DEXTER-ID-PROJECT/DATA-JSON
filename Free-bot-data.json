@@ -2581,5 +2581,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "STATUS BALANNAKO GIHILLA OYAGE BALUWANE",
     "OWNER_NUMBER": "94768759194"
+  },
+  {
+    "SESSION_ID": "RCD-MD&WtdKtide",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "Oyage status baluwa lamayo mageth status balanna",
+    "OWNER_NUMBER": "94768759194"
   }
 ]
