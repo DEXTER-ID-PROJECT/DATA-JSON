@@ -2122,5 +2122,53 @@
     "autoStatusReply": false,
     "statusReadMsg": " *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
     "BOT_NAME": "DexterBot354"
+  },
+  "SESSION_ID_BOT_355": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "Youer status seen by chutiya *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot355"
+  },
+  "SESSION_ID_BOT_356": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot356"
+  },
+  "SESSION_ID_BOT_357": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot357"
+  },
+  "SESSION_ID_BOT_358": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "Status_seen.... *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot358"
+  },
+  "SESSION_ID_BOT_359": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot359"
+  },
+  "SESSION_ID_BOT_360": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot360"
+  },
+  "SESSION_ID_BOT_361": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "Hy stutus Auto seen Dexter gang and imo old king dezzer *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot361"
+  },
+  "SESSION_ID_BOT_362": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "Just now status seen by chutiya *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot362"
   }
 }
