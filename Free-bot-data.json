@@ -2903,5 +2903,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "Mageth stetas balanna",
     "OWNER_NUMBER": "94741210387"
+  },
+  {
+    "SESSION_ID": "RCD-MD&kWTNDLKs",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "94703379855"
   }
 ]
