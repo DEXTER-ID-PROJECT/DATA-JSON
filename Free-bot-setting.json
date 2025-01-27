@@ -991,7 +991,7 @@
   },
   "SESSION_ID_BOT_166": {
     "autoStatusSeen": true,
-    "autoStatusReply": true,
+    "autoStatusReply": false,
     "statusReadMsg": "Onna oyage stetus eka baluwa mageth balanna *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
     "BOT_NAME": "DexterBot166"
   },
@@ -2002,5 +2002,71 @@
     "autoStatusReply": false,
     "statusReadMsg": " *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
     "BOT_NAME": "DexterBot334"
+  },
+  "SESSION_ID_BOT_335": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot335"
+  },
+  "SESSION_ID_BOT_336": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "Mn oyage stetus baluwa *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot336"
+  },
+  "SESSION_ID_BOT_337": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot337"
+  },
+  "SESSION_ID_BOT_338": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot338"
+  },
+  "SESSION_ID_BOT_339": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "\"Oya dapu gaman man stetas eka baluwo onna\" *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot339"
+  },
+  "SESSION_ID_BOT_340": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "oyage STATUS sin *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot340"
+  },
+  "SESSION_ID_BOT_341": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot341"
+  },
+  "SESSION_ID_BOT_342": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot342"
+  },
+  "SESSION_ID_BOT_343": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot343"
+  },
+  "SESSION_ID_BOT_344": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "YOUR STATUS READ BY BINTU *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot344"
+  },
+  "SESSION_ID_BOT_345": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot345"
   }
 }
