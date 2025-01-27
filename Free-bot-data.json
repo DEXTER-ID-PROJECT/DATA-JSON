@@ -2700,5 +2700,12 @@
     "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": null,
     "OWNER_NUMBER": "94762558173"
+  },
+  {
+    "SESSION_ID": "RCD-MD&jr5E6ZRZ",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "YOU GOOD GOOB"
   }
 ]
