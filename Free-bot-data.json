@@ -2679,5 +2679,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "Hi Order One aya kiyanna.",
     "OWNER_NUMBER": "+94741039119"
+  },
+  {
+    "SESSION_ID": "RCD-MD&EQaKEZtH",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "Onnna",
+    "OWNER_NUMBER": "0704138222"
   }
 ]
