@@ -2378,5 +2378,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "oyage STATUS sin",
     "OWNER_NUMBER": "94728913487"
+  },
+  {
+    "SESSION_ID": "RCD-MD&baEvvhKZ",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "94705228190"
   }
 ]
