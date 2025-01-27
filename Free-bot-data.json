@@ -2518,5 +2518,12 @@
     "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": null,
     "OWNER_NUMBER": "0719757476"
+  },
+  {
+    "SESSION_ID": "RCD-MD&HPUZ5XPt",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "Hy stutus Auto seen Dexter gang and imo old king dezzer",
+    "OWNER_NUMBER": "94 755960609"
   }
 ]
