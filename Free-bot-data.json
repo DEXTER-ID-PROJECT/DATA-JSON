@@ -2672,5 +2672,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "> YOUR STATUS SEEN BY STATUS BOT",
     "OWNER_NUMBER": "94742216625"
+  },
+  {
+    "SESSION_ID": "RCD-MD&zaxH0Aw1",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "Hi Order One aya kiyanna.",
+    "OWNER_NUMBER": "+94741039119"
   }
 ]
