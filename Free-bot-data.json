@@ -3043,5 +3043,12 @@
     "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": null,
     "OWNER_NUMBER": "94764417361"
+  },
+  {
+    "SESSION_ID": "RCD-MD&RAzh0nCt",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "Oyage staus balawa mage staus balanna",
+    "OWNER_NUMBER": "94767765129"
   }
 ]
