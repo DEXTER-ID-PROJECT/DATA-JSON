@@ -5,5 +5,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "Your status reed by HexHunter",
     "OWNER_NUMBER": "94720440477"
+  },
+  {
+    "SESSION_ID": "RCD-MD&df9esvWY",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "+94727760245"
   }
 ]
