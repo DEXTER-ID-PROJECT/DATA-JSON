@@ -187,5 +187,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "Your status are just now seen sanuka",
     "OWNER_NUMBER": "+94715411760"
+  },
+  {
+    "SESSION_ID": "RCD-MD&rJ0fYx0r",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "status seen by Nimna Dulshan",
+    "OWNER_NUMBER": "94769268470"
   }
 ]
