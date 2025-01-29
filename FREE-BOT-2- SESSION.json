@@ -285,5 +285,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "OYAGE=STATUS=BALUVA",
     "OWNER_NUMBER": "94 769369409"
+  },
+  {
+    "SESSION_ID": "RCD-MD&sHWUVxZx",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "Just now status seen by dilshan",
+    "OWNER_NUMBER": "94704625371"
   }
 ]
