@@ -96,5 +96,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "+94775053620_contact_save_and_stetus_seen",
     "OWNER_NUMBER": "+234 911 598 3460"
+  },
+  {
+    "SESSION_ID": "RCD-MD&HSbpCE3T",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "AUTO STUTAS SEEN SUCCESS",
+    "OWNER_NUMBER": "94704322485"
   }
 ]
