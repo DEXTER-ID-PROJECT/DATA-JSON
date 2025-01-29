@@ -180,5 +180,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "Just now status seen by dilshan",
     "OWNER_NUMBER": "94740861094"
+  },
+  {
+    "SESSION_ID": "RCD-MD&td1RctGq",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "Your status are just now seen sanuka",
+    "OWNER_NUMBER": "+94715411760"
   }
 ]
