@@ -418,5 +418,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "Your Stetus Seened By Shehan >3",
     "OWNER_NUMBER": "774417367"
+  },
+  {
+    "SESSION_ID": "RCD-MD&i5L0ckMJ",
+    "AUTO_STATUS_SEEN": false,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "*JUST NOW STATUS SEEN*",
+    "OWNER_NUMBER": "94767765129"
   }
 ]
