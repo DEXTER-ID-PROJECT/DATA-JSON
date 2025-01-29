@@ -369,5 +369,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "Man oyage stetas baluw maget balanawd",
     "OWNER_NUMBER": "94765576958"
+  },
+  {
+    "SESSION_ID": "RCD-MD&7TzArxsM",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "+94781921001"
   }
 ]
