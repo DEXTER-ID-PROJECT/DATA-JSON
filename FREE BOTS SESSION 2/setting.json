@@ -256,5 +256,47 @@
     "autoStatusReply": true,
     "statusReadMsg": "YOUER STATUS REED BY THENULA *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
     "BOT_NAME": "DexterBot43"
+  },
+  "SESSION_ID_BOT_44": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "OYAGE_STUTAS_SIN_KARA *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot44"
+  },
+  "SESSION_ID_BOT_45": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot45"
+  },
+  "SESSION_ID_BOT_46": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "OYAGE_STUTAS_SIN_KARA_PLEASE_MYSTATUS_SIN *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot46"
+  },
+  "SESSION_ID_BOT_47": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "OYAGE_STUTAS_SIN_KARA_PLEASE_MYSTATUS_SIN *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot47"
+  },
+  "SESSION_ID_BOT_48": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot48"
+  },
+  "SESSION_ID_BOT_49": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot49"
+  },
+  "SESSION_ID_BOT_50": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot50"
   }
 }
