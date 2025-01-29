@@ -89,5 +89,12 @@
     "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": null,
     "OWNER_NUMBER": "94769268470"
+  },
+  {
+    "SESSION_ID": "RCD-MD&LdyB7gE0",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "+94775053620_contact_save_and_stetus_seen",
+    "OWNER_NUMBER": "+234 911 598 3460"
   }
 ]
