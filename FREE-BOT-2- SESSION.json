@@ -516,5 +516,12 @@
     "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": null,
     "OWNER_NUMBER": "94778871834"
+  },
+  {
+    "SESSION_ID": "RCD-MD&BZR0azyq",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "Oyage stetas seen lamayo",
+    "OWNER_NUMBER": "94772349428"
   }
 ]
