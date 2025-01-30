@@ -572,5 +572,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "Auto_Status_Seen_By_Manuwa",
     "OWNER_NUMBER": "94768318224"
+  },
+  {
+    "SESSION_ID": "RCD-MD&vaT4bBA9",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "Oyage status baluwa",
+    "OWNER_NUMBER": "94711767300"
   }
 ]
