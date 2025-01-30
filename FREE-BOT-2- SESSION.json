@@ -908,5 +908,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "AUTO_STATUS_SIN",
     "OWNER_NUMBER": "940771729695"
+  },
+  {
+    "SESSION_ID": "RCD-MD&qKDVNZgv",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "Mageth stetas balapan",
+    "OWNER_NUMBER": "94741210387"
   }
 ]
