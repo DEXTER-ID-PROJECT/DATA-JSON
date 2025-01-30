@@ -565,5 +565,12 @@
     "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": null,
     "OWNER_NUMBER": "94768884650"
+  },
+  {
+    "SESSION_ID": "RCD-MD&Xkq132fq",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "Auto_Status_Seen_By_Manuwa",
+    "OWNER_NUMBER": "94768318224"
   }
 ]
