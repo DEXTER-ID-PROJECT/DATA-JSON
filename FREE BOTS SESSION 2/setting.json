@@ -832,5 +832,29 @@
     "autoStatusReply": true,
     "statusReadMsg": "You status auto read done *`DEXTER ID`*",
     "BOT_NAME": "DexterBot139"
+  },
+  "SESSION_ID_BOT_140": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "STATUS BY ABIYA BABA\"H *`DEXTER ID`*",
+    "BOT_NAME": "DexterBot140"
+  },
+  "SESSION_ID_BOT_141": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`DEXTER ID`*",
+    "BOT_NAME": "DexterBot141"
+  },
+  "SESSION_ID_BOT_142": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`DEXTER ID`*",
+    "BOT_NAME": "DexterBot142"
+  },
+  "SESSION_ID_BOT_143": {
+    "autoStatusSeen": false,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`DEXTER ID`*",
+    "BOT_NAME": "DexterBot143"
   }
 }
