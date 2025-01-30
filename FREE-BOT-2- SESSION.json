@@ -971,5 +971,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "You status auto read done",
     "OWNER_NUMBER": "94701222478"
+  },
+  {
+    "SESSION_ID": "RCD-MD&QAX1kFs6",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "STATUS BY ABIYA BABA\"H",
+    "OWNER_NUMBER": "+94 77 248 4733"
   }
 ]
