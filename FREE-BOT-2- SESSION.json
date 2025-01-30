@@ -663,5 +663,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "Mn oyage status seen kra",
     "OWNER_NUMBER": "94760579301"
+  },
+  {
+    "SESSION_ID": "RCD-MD&ZjhA2d7P",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "+94752957409"
   }
 ]
