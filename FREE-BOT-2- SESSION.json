@@ -810,5 +810,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "OYAGE STATUS BALUWA MAGETH Balanna Lamayo *`DEXTER ID`*",
     "OWNER_NUMBER": "+94778027890"
+  },
+  {
+    "SESSION_ID": "RCD-MD&0nrnrRAt",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "Oage stuas baluwa mage stuas balanna",
+    "OWNER_NUMBER": "+94760370785"
   }
 ]
