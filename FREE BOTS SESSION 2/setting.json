@@ -580,5 +580,89 @@
     "autoStatusReply": false,
     "statusReadMsg": " *`DEXTER ID`*",
     "BOT_NAME": "DexterBot97"
+  },
+  "SESSION_ID_BOT_98": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "_AUTO_STATUS_SEEN_BY_DENZO_EX3_ *`DEXTER ID`*",
+    "BOT_NAME": "DexterBot98"
+  },
+  "SESSION_ID_BOT_99": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "YOUR STATUS READ BY ME *`DEXTER ID`*",
+    "BOT_NAME": "DexterBot99"
+  },
+  "SESSION_ID_BOT_100": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "By Status views *`DEXTER ID`*",
+    "BOT_NAME": "DexterBot100"
+  },
+  "SESSION_ID_BOT_101": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "oyage stetus baluwa Mage stetus balanna *`DEXTER ID`*",
+    "BOT_NAME": "DexterBot101"
+  },
+  "SESSION_ID_BOT_102": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "JUST NOW STATUS SEEN BY MY *`DEXTER ID`*",
+    "BOT_NAME": "DexterBot102"
+  },
+  "SESSION_ID_BOT_103": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`DEXTER ID`*",
+    "BOT_NAME": "DexterBot103"
+  },
+  "SESSION_ID_BOT_104": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "YOUR STATUS READ BY ME *`DEXTER ID`*",
+    "BOT_NAME": "DexterBot104"
+  },
+  "SESSION_ID_BOT_105": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`DEXTER ID`*",
+    "BOT_NAME": "DexterBot105"
+  },
+  "SESSION_ID_BOT_106": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`DEXTER ID`*",
+    "BOT_NAME": "DexterBot106"
+  },
+  "SESSION_ID_BOT_107": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "Seen by acchu *`DEXTER ID`*",
+    "BOT_NAME": "DexterBot107"
+  },
+  "SESSION_ID_BOT_108": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`DEXTER ID`*",
+    "BOT_NAME": "DexterBot108"
+  },
+  "SESSION_ID_BOT_109": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`DEXTER ID`*",
+    "BOT_NAME": "DexterBot109"
+  },
+  "SESSION_ID_BOT_110": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`DEXTER ID`*",
+    "BOT_NAME": "DexterBot110"
+  },
+  "SESSION_ID_BOT_111": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "Your status seen BY *`DEXTER ID`*",
+    "BOT_NAME": "DexterBot111"
   }
 }
