@@ -817,5 +817,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "Oage stuas baluwa mage stuas balanna",
     "OWNER_NUMBER": "+94760370785"
+  },
+  {
+    "SESSION_ID": "RCD-MD&6LifV0AP",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "918837233627"
   }
 ]
