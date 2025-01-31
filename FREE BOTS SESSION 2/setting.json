@@ -976,5 +976,53 @@
     "autoStatusReply": false,
     "statusReadMsg": "  *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
     "BOT_NAME": "DexterBot163"
+  },
+  "SESSION_ID_BOT_164": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": "  *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot164"
+  },
+  "SESSION_ID_BOT_165": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "YOURE STATUS SEEN BY\nISHU BABAH  *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot165"
+  },
+  "SESSION_ID_BOT_166": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": "  *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot166"
+  },
+  "SESSION_ID_BOT_167": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "just now status seen by xSuddah  *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot167"
+  },
+  "SESSION_ID_BOT_168": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "OYAGE STUAS BALUWA MAGE STUAS BALANNA  *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot168"
+  },
+  "SESSION_ID_BOT_169": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "AUTO_STATUS_SEEN_PODI_JEXTER  *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot169"
+  },
+  "SESSION_ID_BOT_170": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "I AM FAIZAN  *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot170"
+  },
+  "SESSION_ID_BOT_171": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": "  *`ᴅᴇxᴛᴇʀ ɪᴅ`*",
+    "BOT_NAME": "DexterBot171"
   }
 }
