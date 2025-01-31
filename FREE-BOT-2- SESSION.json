@@ -1314,5 +1314,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "Its me maniya you are sts seen now.",
     "OWNER_NUMBER": "94766432200"
+  },
+  {
+    "SESSION_ID": "RCD-MD&z0Lv4efH",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "+94 77 540 1513"
   }
 ]
