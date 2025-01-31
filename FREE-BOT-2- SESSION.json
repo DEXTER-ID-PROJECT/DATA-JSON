@@ -1160,5 +1160,12 @@
     "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": null,
     "OWNER_NUMBER": "94762613305"
+  },
+  {
+    "SESSION_ID": "RCD-MD&9HQ91awp",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "just now status seen by xSuddah",
+    "OWNER_NUMBER": "94764832812"
   }
 ]
