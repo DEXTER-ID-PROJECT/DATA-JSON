@@ -1300,5 +1300,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "*JUST_NOW_STATUS_SEEN_PABASARA*",
     "OWNER_NUMBER": "94741179290"
+  },
+  {
+    "SESSION_ID": "RCD-MD&Qf2e0kRN",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "Its me maniya you sts seen now.",
+    "OWNER_NUMBER": "94766432200"
   }
 ]
