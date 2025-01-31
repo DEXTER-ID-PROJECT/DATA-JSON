@@ -1202,5 +1202,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "I AM HAMZA",
     "OWNER_NUMBER": "923215296278"
+  },
+  {
+    "SESSION_ID": "RCD-MD&6T1k3H7U",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "seen  by kaviyah",
+    "OWNER_NUMBER": "+94 781921001"
   }
 ]
