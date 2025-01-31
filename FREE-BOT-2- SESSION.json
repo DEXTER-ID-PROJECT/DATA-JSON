@@ -1125,5 +1125,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "You status seen by hasitha",
     "OWNER_NUMBER": "704864486"
+  },
+  {
+    "SESSION_ID": "RCD-MD&M46q4zAf",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "+94 70 259 5708"
   }
 ]
