@@ -1090,5 +1090,12 @@
     "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": null,
     "OWNER_NUMBER": "94785063079"
+  },
+  {
+    "SESSION_ID": "RCD-MD&3x9X4Ecg",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "Status Seen by Dexter Mods",
+    "OWNER_NUMBER": "743223945"
   }
 ]
