@@ -1209,5 +1209,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "seen  by kaviyah",
     "OWNER_NUMBER": "+94 781921001"
+  },
+  {
+    "SESSION_ID": "RCD-MD&EZkZxf7F",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "*_AUTO_STATUS_SEEN_PABASARA >>>_*",
+    "OWNER_NUMBER": "94741179290"
   }
 ]
