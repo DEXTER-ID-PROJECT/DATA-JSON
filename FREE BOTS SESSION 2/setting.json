@@ -1072,5 +1072,59 @@
     "autoStatusReply": false,
     "statusReadMsg": "  *`DEXTER ID`*",
     "BOT_NAME": "DexterBot179"
+  },
+  "SESSION_ID_BOT_180": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "*JUST_NOW_STATUS_SEEN_PABASARA*  *`DEXTER ID`*",
+    "BOT_NAME": "DexterBot180"
+  },
+  "SESSION_ID_BOT_181": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "PLEASE_MY_STATUS_SIN  *`DEXTER ID`*",
+    "BOT_NAME": "DexterBot181"
+  },
+  "SESSION_ID_BOT_182": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "STUTAS BY PODI SUDDA  *`DEXTER ID`*",
+    "BOT_NAME": "DexterBot182"
+  },
+  "SESSION_ID_BOT_183": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": "  *`DEXTER ID`*",
+    "BOT_NAME": "DexterBot183"
+  },
+  "SESSION_ID_BOT_184": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "*SEEN YOUR STATUS BY EX SANA FF*  *`DEXTER ID`*",
+    "BOT_NAME": "DexterBot184"
+  },
+  "SESSION_ID_BOT_185": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "Status seen dane  *`DEXTER ID`*",
+    "BOT_NAME": "DexterBot185"
+  },
+  "SESSION_ID_BOT_186": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "*JUST_NOW_STATUS_SEEN_PABASARA*  *`DEXTER ID`*",
+    "BOT_NAME": "DexterBot186"
+  },
+  "SESSION_ID_BOT_187": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "Its me maniya you sts seen now.  *`DEXTER ID`*",
+    "BOT_NAME": "DexterBot187"
+  },
+  "SESSION_ID_BOT_188": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "Its me maniya you are sts seen now.  *`DEXTER ID`*",
+    "BOT_NAME": "DexterBot188"
   }
 }
