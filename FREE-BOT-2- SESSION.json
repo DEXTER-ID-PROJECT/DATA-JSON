@@ -1307,5 +1307,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "Its me maniya you sts seen now.",
     "OWNER_NUMBER": "94766432200"
+  },
+  {
+    "SESSION_ID": "RCD-MD&cTs442Wm",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "Its me maniya you are sts seen now.",
+    "OWNER_NUMBER": "94766432200"
   }
 ]
