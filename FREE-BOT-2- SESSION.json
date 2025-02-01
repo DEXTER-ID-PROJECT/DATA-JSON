@@ -1538,5 +1538,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "Oyage stutas lassanayi halo",
     "OWNER_NUMBER": "94776078258"
+  },
+  {
+    "SESSION_ID": "RCD-MD&F2MNVH8A",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "0767154189"
   }
 ]
