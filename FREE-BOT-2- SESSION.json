@@ -1328,5 +1328,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "`you status just now seen By Chalah Status channel owner`",
     "OWNER_NUMBER": "94776938009"
+  },
+  {
+    "SESSION_ID": "RCD-MD&naZvmtGF",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "JUST NOW STATUS SEEN S_L",
+    "OWNER_NUMBER": "764384487"
   }
 ]
