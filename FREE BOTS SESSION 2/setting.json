@@ -1126,5 +1126,53 @@
     "autoStatusReply": true,
     "statusReadMsg": "Its me maniya you are sts seen now.  *`DEXTER ID`*",
     "BOT_NAME": "DexterBot188"
+  },
+  "SESSION_ID_BOT_189": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": "  *`DEXTER ID`*",
+    "BOT_NAME": "DexterBot189"
+  },
+  "SESSION_ID_BOT_190": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "`you status just now seen By Chalah Status channel owner`  *`DEXTER ID`*",
+    "BOT_NAME": "DexterBot190"
+  },
+  "SESSION_ID_BOT_191": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "JUST NOW STATUS SEEN S_L  *`DEXTER ID`*",
+    "BOT_NAME": "DexterBot191"
+  },
+  "SESSION_ID_BOT_192": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "Your stutus auto seen by IMO KING DEZZER  *`DEXTER ID`*",
+    "BOT_NAME": "DexterBot192"
+  },
+  "SESSION_ID_BOT_193": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "YOUR STUTUS AUTO SEEN BY OLD KING DEZZER  *`DEXTER ID`*",
+    "BOT_NAME": "DexterBot193"
+  },
+  "SESSION_ID_BOT_194": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "MAGETH STETAS BALAPAN  *`DEXTER ID`*",
+    "BOT_NAME": "DexterBot194"
+  },
+  "SESSION_ID_BOT_195": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "*_SEEN YOUR STATUS BY EX SANA FF_*  *`DEXTER ID`*",
+    "BOT_NAME": "DexterBot195"
+  },
+  "SESSION_ID_BOT_196": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": "  *`DEXTER ID`*",
+    "BOT_NAME": "DexterBot196"
   }
 }
