@@ -1531,5 +1531,12 @@
     "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": null,
     "OWNER_NUMBER": "94 77 953 7938"
+  },
+  {
+    "SESSION_ID": "RCD-MD&xR48jewd",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "Oyage stutas lassanayi halo",
+    "OWNER_NUMBER": "94776078258"
   }
 ]
