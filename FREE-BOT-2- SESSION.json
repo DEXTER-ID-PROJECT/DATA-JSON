@@ -1895,5 +1895,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "`status seened by lokuwa-md`",
     "OWNER_NUMBER": "+94741243328"
+  },
+  {
+    "SESSION_ID": "RCD-MD&7vS5y8qz",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "Hey",
+    "OWNER_NUMBER": "94766185574"
   }
 ]
