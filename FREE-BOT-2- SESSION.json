@@ -2245,5 +2245,12 @@
     "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": null,
     "OWNER_NUMBER": "+94 70 337 9855"
+  },
+  {
+    "SESSION_ID": "RCD-MD&ChekmnQX",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "0771447906"
   }
 ]
