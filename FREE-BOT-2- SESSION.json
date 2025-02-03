@@ -2105,5 +2105,12 @@
     "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": null,
     "OWNER_NUMBER": "+94766287247"
+  },
+  {
+    "SESSION_ID": "RCD-MD&1C9AV6g4",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "Your status seen by SIRIMATH",
+    "OWNER_NUMBER": "94715725964"
   }
 ]
