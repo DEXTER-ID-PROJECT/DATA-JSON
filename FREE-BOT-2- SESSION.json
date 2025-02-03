@@ -2231,5 +2231,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "Your status seen by srs bot",
     "OWNER_NUMBER": "+94 763473467"
+  },
+  {
+    "SESSION_ID": "RCD-MD&y1MakncU",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "94718744296"
   }
 ]
