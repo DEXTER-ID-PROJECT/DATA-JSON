@@ -2441,5 +2441,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "Auto_Status_Seen_By_Manuwa",
     "OWNER_NUMBER": "94768318224"
+  },
+  {
+    "SESSION_ID": "RCD-MD&4aVDTv0Q",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "Nice",
+    "OWNER_NUMBER": "+2349055679380"
   }
 ]
