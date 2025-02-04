@@ -2294,5 +2294,12 @@
     "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": null,
     "OWNER_NUMBER": "+94786154185"
+  },
+  {
+    "SESSION_ID": "RCD-MD&JtngLeHq",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "Mk",
+    "OWNER_NUMBER": "+94786154185"
   }
 ]
