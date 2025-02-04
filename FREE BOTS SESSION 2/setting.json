@@ -1978,5 +1978,53 @@
     "autoStatusReply": true,
     "statusReadMsg": "_*YOU STATUS SEEN BY `LERX`*_ ᴅᴇxᴛᴇʀ ɪᴅ",
     "BOT_NAME": "DexterBot330"
+  },
+  "SESSION_ID_BOT_331": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " ᴅᴇxᴛᴇʀ ɪᴅ",
+    "BOT_NAME": "DexterBot331"
+  },
+  "SESSION_ID_BOT_332": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "YOUR STATUS SEEN BY PANDA BBH ᴅᴇxᴛᴇʀ ɪᴅ",
+    "BOT_NAME": "DexterBot332"
+  },
+  "SESSION_ID_BOT_333": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "I AM PROFESSOR FAIZAN ᴅᴇxᴛᴇʀ ɪᴅ",
+    "BOT_NAME": "DexterBot333"
+  },
+  "SESSION_ID_BOT_334": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "Just  now  seen ᴅᴇxᴛᴇʀ ɪᴅ",
+    "BOT_NAME": "DexterBot334"
+  },
+  "SESSION_ID_BOT_335": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "YOUR STATUS AUTO READ BY ASHUU XD ᴅᴇxᴛᴇʀ ɪᴅ",
+    "BOT_NAME": "DexterBot335"
+  },
+  "SESSION_ID_BOT_336": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " ᴅᴇxᴛᴇʀ ɪᴅ",
+    "BOT_NAME": "DexterBot336"
+  },
+  "SESSION_ID_BOT_337": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " ᴅᴇxᴛᴇʀ ɪᴅ",
+    "BOT_NAME": "DexterBot337"
+  },
+  "SESSION_ID_BOT_338": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " ᴅᴇxᴛᴇʀ ɪᴅ",
+    "BOT_NAME": "DexterBot338"
   }
 }
