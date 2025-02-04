@@ -1,26 +1,35 @@
 [
   {
-    "name": "Facebook",
-    "category": "Social Media",
-    "rating": 4.5,
-    "downloads": 500000000,
-    "likes": 10000000,
-    "icon": "https://example.com/facebook-icon.png"
-  },
-  {
+    "id": 1,
     "name": "Instagram",
-    "category": "Social Media",
-    "rating": 4.7,
-    "downloads": 400000000,
-    "likes": 15000000,
-    "icon": "https://example.com/instagram-icon.png"
+    "category": "Social",
+    "type": "app",
+    "icon": "https://example.com/instagram-icon.png",
+    "rating": 4.5,
+    "downloads": 1000000000,
+    "likes": 500000,
+    "description": "Share photos and videos with friends"
   },
   {
-    "name": "Spotify",
-    "category": "Music & Audio",
-    "rating": 4.8,
-    "downloads": 300000000,
-    "likes": 12000000,
-    "icon": "https://example.com/spotify-icon.png"
+    "id": 2,
+    "name": "Subway Surfers",
+    "category": "Arcade",
+    "type": "game", 
+    "icon": "https://example.com/subway-surfers-icon.png",
+    "rating": 4.7,
+    "downloads": 500000000,
+    "likes": 250000,
+    "description": "Endless runner mobile game"
+  },
+  {
+    "id": 3,
+    "name": "WhatsApp",
+    "category": "Communication",
+    "type": "app",
+    "icon": "https://example.com/whatsapp-icon.png", 
+    "rating": 4.4,
+    "downloads": 2000000000,
+    "likes": 750000,
+    "description": "Messaging and voice calls"
   }
 ]
