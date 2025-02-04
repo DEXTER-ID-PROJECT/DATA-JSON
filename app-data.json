@@ -1,0 +1,65 @@
+{
+  "home": [
+    {
+      "name": "Free Fire x NARUTO SHIPPUDEN",
+      "developer": "Garena International I",
+      "category": "Action",
+      "rating": 4.6,
+      "reviews": "117M",
+      "size": "322 MB",
+      "downloads": "1B+",
+      "image": "https://placehold.co/80x80",
+      "banner": "https://placehold.co/300x150"
+    },
+    {
+      "name": "Lords Mobile: Coca-Cola Impact",
+      "developer": "IGG.COM",
+      "category": "Strategy",
+      "rating": 4.4,
+      "reviews": "50M",
+      "size": "599 MB",
+      "downloads": "500M+",
+      "image": "https://placehold.co/80x80",
+      "banner": "https://placehold.co/300x150"
+    }
+  ],
+  "top_rated": [
+    {
+      "name": "Genshin Impact",
+      "developer": "miHoYo",
+      "category": "RPG",
+      "rating": 4.8,
+      "reviews": "50M",
+      "size": "1.2 GB",
+      "downloads": "100M+",
+      "image": "https://placehold.co/80x80",
+      "banner": "https://placehold.co/300x150"
+    }
+  ],
+  "most_downloaded": [
+    {
+      "name": "Subway Surfers",
+      "developer": "SYBO Games",
+      "category": "Arcade",
+      "rating": 4.5,
+      "reviews": "38M",
+      "size": "180 MB",
+      "downloads": "2B+",
+      "image": "https://placehold.co/80x80",
+      "banner": "https://placehold.co/300x150"
+    }
+  ],
+  "most_liked": [
+    {
+      "name": "Minecraft",
+      "developer": "Mojang",
+      "category": "Adventure",
+      "rating": 4.7,
+      "reviews": "25M",
+      "size": "500 MB",
+      "downloads": "200M+",
+      "image": "https://placehold.co/80x80",
+      "banner": "https://placehold.co/300x150"
+    }
+  ]
+}
