@@ -2798,5 +2798,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "_*YOU STATUS SEEN BY*_ `Lerx.`",
     "OWNER_NUMBER": "94775288129"
+  },
+  {
+    "SESSION_ID": "RCD-MD&ff6dSt7f",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "+94727760245"
   }
 ]
