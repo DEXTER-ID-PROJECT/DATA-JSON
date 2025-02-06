@@ -2623,5 +2623,12 @@
     "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": null,
     "OWNER_NUMBER": "+94 70 143 3485"
+  },
+  {
+    "SESSION_ID": "RCD-MD&LqKGBnCu",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "94743191349"
   }
 ]
