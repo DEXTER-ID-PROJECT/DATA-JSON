@@ -2742,5 +2742,12 @@
     "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": null,
     "OWNER_NUMBER": "+94 70 507 9271"
+  },
+  {
+    "SESSION_ID": "RCD-MD&JhVV5KBL",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "Noty boy max just Now Seen Your status",
+    "OWNER_NUMBER": "94740735571"
   }
 ]
