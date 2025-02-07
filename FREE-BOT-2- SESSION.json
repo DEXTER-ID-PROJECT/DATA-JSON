@@ -2833,5 +2833,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "You status auto read done",
     "OWNER_NUMBER": "774808742"
+  },
+  {
+    "SESSION_ID": "RCD-MD&YwNcEjeZ",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "Dextre"
   }
 ]
