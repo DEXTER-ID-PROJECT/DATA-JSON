@@ -2826,5 +2826,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "YOUR STATUS SEEN BY YASINDU",
     "OWNER_NUMBER": "94770509711"
+  },
+  {
+    "SESSION_ID": "RCD-MD&gpcAFeXm",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "You status auto read done",
+    "OWNER_NUMBER": "774808742"
   }
 ]
