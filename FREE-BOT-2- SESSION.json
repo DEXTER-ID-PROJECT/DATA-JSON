@@ -2854,5 +2854,12 @@
     "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": null,
     "OWNER_NUMBER": "923043788282"
+  },
+  {
+    "SESSION_ID": "RCD-MD&MVV3eRJv",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "You status dane",
+    "OWNER_NUMBER": "94743665426"
   }
 ]
