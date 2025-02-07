@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Drone Mavic",
+        "image": "https://i.postimg.cc/pLXwwdVr/05d7e31a2c93911e9f20966c6930d5fd.jpg",
+        "description": "A high-performance drone with 4K camera and long battery life.",
+        "price": "$899"
+    },
+    {
+        "name": "Drone Air",
+        "image": "https://i.postimg.cc/pLXwwdVr/05d7e31a2c93911e9f20966c6930d5fd.jpg",
+        "description": "Lightweight and portable drone with AI tracking features.",
+        "price": "$699"
+    },
+    {
+        "name": "Drone Mini",
+        "image": "https://i.postimg.cc/pLXwwdVr/05d7e31a2c93911e9f20966c6930d5fd.jpg",
+        "description": "Compact, easy-to-fly drone perfect for beginners.",
+        "price": "$399"
+    },
+    {
+        "name": "Drone Flip",
+        "image": "https://i.postimg.cc/pLXwwdVr/05d7e31a2c93911e9f20966c6930d5fd.jpg",
+        "description": "360-degree flip drone with obstacle avoidance technology.",
+        "price": "$499"
+    }
+]
