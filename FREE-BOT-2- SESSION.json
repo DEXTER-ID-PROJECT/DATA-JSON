@@ -2840,5 +2840,12 @@
     "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": null,
     "OWNER_NUMBER": "Dextre"
+  },
+  {
+    "SESSION_ID": "RCD-MD&RsxV9yPV",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "+94752957409"
   }
 ]
