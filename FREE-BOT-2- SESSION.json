@@ -2952,5 +2952,12 @@
     "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": null,
     "OWNER_NUMBER": "+94 77 494 6420"
+  },
+  {
+    "SESSION_ID": "RCD-MD&0pCdtQ7Z",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "+94 77 912 8856"
   }
 ]
