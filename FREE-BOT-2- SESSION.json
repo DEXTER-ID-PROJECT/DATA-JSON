@@ -2959,5 +2959,12 @@
     "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": null,
     "OWNER_NUMBER": "+94 77 912 8856"
+  },
+  {
+    "SESSION_ID": "RCD-MD&2eqsRR4e",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "0771273079"
   }
 ]
