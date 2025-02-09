@@ -3197,5 +3197,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "Hi status seen by sanuka robbot",
     "OWNER_NUMBER": "94714576586"
+  },
+  {
+    "SESSION_ID": "RCD-MD&M7NwAhcE",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "+94775877546"
   }
 ]
