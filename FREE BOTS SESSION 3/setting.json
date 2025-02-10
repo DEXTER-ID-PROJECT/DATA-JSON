@@ -82,5 +82,23 @@
     "autoStatusReply": false,
     "statusReadMsg": "Dexter id *DEXTER ID*",
     "BOT_NAME": "DexterBot14"
+  },
+  "SESSION_ID_BOT_15": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot15"
+  },
+  "SESSION_ID_BOT_16": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot16"
+  },
+  "SESSION_ID_BOT_17": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot17"
   }
 }
