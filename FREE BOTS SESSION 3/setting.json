@@ -148,5 +148,35 @@
     "autoStatusReply": false,
     "statusReadMsg": " *DEXTER ID*",
     "BOT_NAME": "DexterBot25"
+  },
+  "SESSION_ID_BOT_26": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot26"
+  },
+  "SESSION_ID_BOT_27": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot27"
+  },
+  "SESSION_ID_BOT_28": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": "Your Status Seen By Gayan *DEXTER ID*",
+    "BOT_NAME": "DexterBot28"
+  },
+  "SESSION_ID_BOT_29": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot29"
+  },
+  "SESSION_ID_BOT_30": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": "OYAGE STAUS BALUWA MAGE STAUS BALANNA *DEXTER ID*",
+    "BOT_NAME": "DexterBot30"
   }
 }
