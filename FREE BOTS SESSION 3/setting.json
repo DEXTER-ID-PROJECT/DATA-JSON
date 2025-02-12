@@ -304,5 +304,59 @@
     "autoStatusReply": false,
     "statusReadMsg": "*SEEN YOUR STATUS BY EX SANA FF* *DEXTER ID*",
     "BOT_NAME": "DexterBot51"
+  },
+  "SESSION_ID_BOT_52": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": "Your status senn *DEXTER ID*",
+    "BOT_NAME": "DexterBot52"
+  },
+  "SESSION_ID_BOT_53": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": "*YOUR STATUS AUTO SEEN CYBER GHOST* *DEXTER ID*",
+    "BOT_NAME": "DexterBot53"
+  },
+  "SESSION_ID_BOT_54": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot54"
+  },
+  "SESSION_ID_BOT_55": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot55"
+  },
+  "SESSION_ID_BOT_56": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot56"
+  },
+  "SESSION_ID_BOT_57": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": "*`JUST NOW SEEN STATUS BY  MR NIMA`* *DEXTER ID*",
+    "BOT_NAME": "DexterBot57"
+  },
+  "SESSION_ID_BOT_58": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot58"
+  },
+  "SESSION_ID_BOT_59": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot59"
+  },
+  "SESSION_ID_BOT_60": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot60"
   }
 }
