@@ -196,5 +196,35 @@
     "autoStatusReply": false,
     "statusReadMsg": "YOUR STATUS SEEN BY HIRAN *DEXTER ID*",
     "BOT_NAME": "DexterBot33"
+  },
+  "SESSION_ID_BOT_34": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": "*HI AM CHALAH { JUST NOW SEEN YOUR STATUS* *DEXTER ID*",
+    "BOT_NAME": "DexterBot34"
+  },
+  "SESSION_ID_BOT_35": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": "YOUR STATUS SEEN BY AVIYA *DEXTER ID*",
+    "BOT_NAME": "DexterBot35"
+  },
+  "SESSION_ID_BOT_36": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot36"
+  },
+  "SESSION_ID_BOT_37": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot37"
+  },
+  "SESSION_ID_BOT_38": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot38"
   }
 }
