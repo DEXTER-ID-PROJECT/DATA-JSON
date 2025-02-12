@@ -1,0 +1,8 @@
+{
+    "messages": [
+        { "sender": "Hutch", "text": "Hello User, ඔයාගේ message එක එවන කෙනාගේ නම: Alex" },
+        { "sender": "Alex", "text": "Hey! What's up?" },
+        { "sender": "You", "text": "I'm good! How about you?" },
+        { "sender": "Alex", "text": "I'm fine too!" }
+    ]
+}
