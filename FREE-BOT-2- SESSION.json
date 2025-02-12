@@ -327,5 +327,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "YOUR STATUS SEEN BY KING JOKER",
     "OWNER_NUMBER": "+94 75 766 0788"
+  },
+  {
+    "SESSION_ID": "RCD-MD&cDb5qawP",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "Hey i am Chalah status channel owner ( you status just now seen)",
+    "OWNER_NUMBER": "94776938009"
   }
 ]
