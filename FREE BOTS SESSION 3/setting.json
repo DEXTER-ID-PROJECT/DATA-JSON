@@ -256,5 +256,53 @@
     "autoStatusReply": false,
     "statusReadMsg": " *DEXTER ID*",
     "BOT_NAME": "DexterBot43"
+  },
+  "SESSION_ID_BOT_44": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot44"
+  },
+  "SESSION_ID_BOT_45": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot45"
+  },
+  "SESSION_ID_BOT_46": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot46"
+  },
+  "SESSION_ID_BOT_47": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": "YOUR STATUS SEEN BY KING JOKER *DEXTER ID*",
+    "BOT_NAME": "DexterBot47"
+  },
+  "SESSION_ID_BOT_48": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": "Hey i am Chalah status channel owner ( you status just now seen) *DEXTER ID*",
+    "BOT_NAME": "DexterBot48"
+  },
+  "SESSION_ID_BOT_49": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot49"
+  },
+  "SESSION_ID_BOT_50": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot50"
+  },
+  "SESSION_ID_BOT_51": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": "*SEEN YOUR STATUS BY EX SANA FF* *DEXTER ID*",
+    "BOT_NAME": "DexterBot51"
   }
 }
