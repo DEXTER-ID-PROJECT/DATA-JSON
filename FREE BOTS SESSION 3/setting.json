@@ -436,5 +436,35 @@
     "autoStatusReply": false,
     "statusReadMsg": " *DEXTER ID*",
     "BOT_NAME": "DexterBot73"
+  },
+  "SESSION_ID_BOT_74": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot74"
+  },
+  "SESSION_ID_BOT_75": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot75"
+  },
+  "SESSION_ID_BOT_76": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": "Oyage Status seen kara mage status seen karanna *DEXTER ID*",
+    "BOT_NAME": "DexterBot76"
+  },
+  "SESSION_ID_BOT_77": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot77"
+  },
+  "SESSION_ID_BOT_78": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot78"
   }
 }
