@@ -712,5 +712,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "> _Oyage_status_baluva_",
     "OWNER_NUMBER": "94760135216"
+  },
+  {
+    "SESSION_ID": "RCD-MD&WdvWxqYr",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "94765299271"
   }
 ]
