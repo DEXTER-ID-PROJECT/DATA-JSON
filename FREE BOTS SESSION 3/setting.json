@@ -520,5 +520,77 @@
     "autoStatusReply": false,
     "statusReadMsg": "Your stetas auto seen dilshan *DEXTER ID*",
     "BOT_NAME": "DexterBot87"
+  },
+  "SESSION_ID_BOT_88": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot88"
+  },
+  "SESSION_ID_BOT_89": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot89"
+  },
+  "SESSION_ID_BOT_90": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot90"
+  },
+  "SESSION_ID_BOT_91": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": "Hellow OYAGE STATUS SEEN KARA *DEXTER ID*",
+    "BOT_NAME": "DexterBot91"
+  },
+  "SESSION_ID_BOT_92": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot92"
+  },
+  "SESSION_ID_BOT_93": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot93"
+  },
+  "SESSION_ID_BOT_94": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": "Your stetas sseen dilshan *DEXTER ID*",
+    "BOT_NAME": "DexterBot94"
+  },
+  "SESSION_ID_BOT_95": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot95"
+  },
+  "SESSION_ID_BOT_96": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot96"
+  },
+  "SESSION_ID_BOT_97": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot97"
+  },
+  "SESSION_ID_BOT_98": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot98"
+  },
+  "SESSION_ID_BOT_99": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot99"
   }
 }
