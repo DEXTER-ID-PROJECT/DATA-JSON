@@ -873,5 +873,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "Your Status Auto Seen Whatsapp Bot",
     "OWNER_NUMBER": "94773596325"
+  },
+  {
+    "SESSION_ID": "RCD-MD&M77P1WpV",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "AUTO_STATUS_REPLY",
+    "OWNER_NUMBER": "94752416447"
   }
 ]
