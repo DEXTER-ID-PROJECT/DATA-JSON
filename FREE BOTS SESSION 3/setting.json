@@ -790,5 +790,11 @@
     "autoStatusReply": false,
     "statusReadMsg": " *DEXTER ID*",
     "BOT_NAME": "DexterBot132"
+  },
+  "SESSION_ID_BOT_133": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": "YOU=STATUS-AUTO*SEEN *DEXTER ID*",
+    "BOT_NAME": "DexterBot133"
   }
 }
