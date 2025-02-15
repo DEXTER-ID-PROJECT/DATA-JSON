@@ -1146,5 +1146,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "You status read by sula",
     "OWNER_NUMBER": "940702597256"
+  },
+  {
+    "SESSION_ID": "RCD-MD&QrLJVgwR",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "+94 76 644 1298"
   }
 ]
