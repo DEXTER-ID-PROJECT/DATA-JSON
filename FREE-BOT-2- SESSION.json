@@ -1034,5 +1034,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "Yow",
     "OWNER_NUMBER": "94773060624"
+  },
+  {
+    "SESSION_ID": "RCD-MD&Q3zjL2YB",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "_You status seen by chiku-exe_",
+    "OWNER_NUMBER": "94760544768"
   }
 ]
