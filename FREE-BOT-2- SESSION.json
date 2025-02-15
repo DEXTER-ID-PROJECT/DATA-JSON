@@ -1097,5 +1097,12 @@
     "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": null,
     "OWNER_NUMBER": "+94 76 291 3249"
+  },
+  {
+    "SESSION_ID": "RCD-MD&9mYk6vpc",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "Hey your stetas seened me",
+    "OWNER_NUMBER": "94701834935"
   }
 ]
