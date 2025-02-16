@@ -1244,5 +1244,12 @@
     "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": null,
     "OWNER_NUMBER": "+94 74 328 3465"
+  },
+  {
+    "SESSION_ID": "RCD-MD&TBDCAS4W",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "94724142482"
   }
 ]
