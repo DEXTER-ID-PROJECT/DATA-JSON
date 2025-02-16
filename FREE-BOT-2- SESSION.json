@@ -1335,5 +1335,12 @@
     "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": null,
     "OWNER_NUMBER": "03277769788"
+  },
+  {
+    "SESSION_ID": "RCD-MD&UVcAiuFX",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "94743191349"
   }
 ]
