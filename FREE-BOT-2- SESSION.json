@@ -1314,5 +1314,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "your status seen done",
     "OWNER_NUMBER": "94786546446"
+  },
+  {
+    "SESSION_ID": "YGJ5V1BE Click to Copy",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "94775827454"
   }
 ]
