@@ -796,5 +796,425 @@
     "autoStatusReply": false,
     "statusReadMsg": "YOU=STATUS-AUTO*SEEN *DEXTER ID*",
     "BOT_NAME": "DexterBot133"
+  },
+  "SESSION_ID_BOT_134": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot134"
+  },
+  "SESSION_ID_BOT_135": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot135"
+  },
+  "SESSION_ID_BOT_136": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot136"
+  },
+  "SESSION_ID_BOT_137": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot137"
+  },
+  "SESSION_ID_BOT_138": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot138"
+  },
+  "SESSION_ID_BOT_139": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot139"
+  },
+  "SESSION_ID_BOT_140": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot140"
+  },
+  "SESSION_ID_BOT_141": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot141"
+  },
+  "SESSION_ID_BOT_142": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot142"
+  },
+  "SESSION_ID_BOT_143": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot143"
+  },
+  "SESSION_ID_BOT_144": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot144"
+  },
+  "SESSION_ID_BOT_145": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot145"
+  },
+  "SESSION_ID_BOT_146": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot146"
+  },
+  "SESSION_ID_BOT_147": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot147"
+  },
+  "SESSION_ID_BOT_148": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": "Yow *DEXTER ID*",
+    "BOT_NAME": "DexterBot148"
+  },
+  "SESSION_ID_BOT_149": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": "_You status seen by chiku-exe_ *DEXTER ID*",
+    "BOT_NAME": "DexterBot149"
+  },
+  "SESSION_ID_BOT_150": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": "Your stetas auto seen dilshan *DEXTER ID*",
+    "BOT_NAME": "DexterBot150"
+  },
+  "SESSION_ID_BOT_151": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot151"
+  },
+  "SESSION_ID_BOT_152": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot152"
+  },
+  "SESSION_ID_BOT_153": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": "SEEN YOUR STATUS BY EX SANA FF *DEXTER ID*",
+    "BOT_NAME": "DexterBot153"
+  },
+  "SESSION_ID_BOT_154": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot154"
+  },
+  "SESSION_ID_BOT_155": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot155"
+  },
+  "SESSION_ID_BOT_156": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot156"
+  },
+  "SESSION_ID_BOT_157": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot157"
+  },
+  "SESSION_ID_BOT_158": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": "Hey your stetas seened me *DEXTER ID*",
+    "BOT_NAME": "DexterBot158"
+  },
+  "SESSION_ID_BOT_159": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot159"
+  },
+  "SESSION_ID_BOT_160": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot160"
+  },
+  "SESSION_ID_BOT_161": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot161"
+  },
+  "SESSION_ID_BOT_162": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot162"
+  },
+  "SESSION_ID_BOT_163": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot163"
+  },
+  "SESSION_ID_BOT_164": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": "You status read by sula *DEXTER ID*",
+    "BOT_NAME": "DexterBot164"
+  },
+  "SESSION_ID_BOT_165": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot165"
+  },
+  "SESSION_ID_BOT_166": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot166"
+  },
+  "SESSION_ID_BOT_167": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot167"
+  },
+  "SESSION_ID_BOT_168": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot168"
+  },
+  "SESSION_ID_BOT_169": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot169"
+  },
+  "SESSION_ID_BOT_170": {
+    "autoStatusSeen": false,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot170"
+  },
+  "SESSION_ID_BOT_171": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot171"
+  },
+  "SESSION_ID_BOT_172": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": "OYAGE STATUS BALUWA MAGETH BALANNA Lamayo *DEXTER ID*",
+    "BOT_NAME": "DexterBot172"
+  },
+  "SESSION_ID_BOT_173": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot173"
+  },
+  "SESSION_ID_BOT_174": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot174"
+  },
+  "SESSION_ID_BOT_175": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot175"
+  },
+  "SESSION_ID_BOT_176": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": "YOUR STATUS SEEN BY JANIDU *DEXTER ID*",
+    "BOT_NAME": "DexterBot176"
+  },
+  "SESSION_ID_BOT_177": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": "YOUR STATUS SEEN BY DULA *DEXTER ID*",
+    "BOT_NAME": "DexterBot177"
+  },
+  "SESSION_ID_BOT_178": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot178"
+  },
+  "SESSION_ID_BOT_179": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot179"
+  },
+  "SESSION_ID_BOT_180": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot180"
+  },
+  "SESSION_ID_BOT_181": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot181"
+  },
+  "SESSION_ID_BOT_182": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot182"
+  },
+  "SESSION_ID_BOT_183": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot183"
+  },
+  "SESSION_ID_BOT_184": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot184"
+  },
+  "SESSION_ID_BOT_185": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": "Hy *DEXTER ID*",
+    "BOT_NAME": "DexterBot185"
+  },
+  "SESSION_ID_BOT_186": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot186"
+  },
+  "SESSION_ID_BOT_187": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot187"
+  },
+  "SESSION_ID_BOT_188": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": "your status seen done *DEXTER ID*",
+    "BOT_NAME": "DexterBot188"
+  },
+  "SESSION_ID_BOT_189": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot189"
+  },
+  "SESSION_ID_BOT_190": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot190"
+  },
+  "SESSION_ID_BOT_191": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot191"
+  },
+  "SESSION_ID_BOT_192": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot192"
+  },
+  "SESSION_ID_BOT_193": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot193"
+  },
+  "SESSION_ID_BOT_194": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot194"
+  },
+  "SESSION_ID_BOT_195": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot195"
+  },
+  "SESSION_ID_BOT_196": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot196"
+  },
+  "SESSION_ID_BOT_197": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": "Hi *DEXTER ID*",
+    "BOT_NAME": "DexterBot197"
+  },
+  "SESSION_ID_BOT_198": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot198"
+  },
+  "SESSION_ID_BOT_199": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": "YOU STATUS READ BY WITE KING *DEXTER ID*",
+    "BOT_NAME": "DexterBot199"
+  },
+  "SESSION_ID_BOT_200": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": "oyge status baluwa mageth balanna *DEXTER ID*",
+    "BOT_NAME": "DexterBot200"
+  },
+  "SESSION_ID_BOT_201": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot201"
+  },
+  "SESSION_ID_BOT_202": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": "You status read by sula *DEXTER ID*",
+    "BOT_NAME": "DexterBot202"
+  },
+  "SESSION_ID_BOT_203": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot203"
   }
 }
