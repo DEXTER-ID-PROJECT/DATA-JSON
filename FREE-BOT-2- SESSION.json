@@ -1405,5 +1405,12 @@
     "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": null,
     "OWNER_NUMBER": "94789684343"
+  },
+  {
+    "SESSION_ID": "RCD-MD&PG51kqWk",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "You status read by sula",
+    "OWNER_NUMBER": "940772881644"
   }
 ]
