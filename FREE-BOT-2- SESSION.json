@@ -1377,5 +1377,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "Hi",
     "OWNER_NUMBER": "94752541573"
+  },
+  {
+    "SESSION_ID": "RCD-MD&v3i1rP07",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "Podi tutu"
   }
 ]
