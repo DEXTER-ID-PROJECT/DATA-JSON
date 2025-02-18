@@ -1685,5 +1685,12 @@
     "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": null,
     "OWNER_NUMBER": "DEXTER"
+  },
+  {
+    "SESSION_ID": "RCD-MD&bjhGaj8J",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "+357 96 523586"
   }
 ]
