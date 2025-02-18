@@ -1629,5 +1629,12 @@
     "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": null,
     "OWNER_NUMBER": "+94 77 587 8130"
+  },
+  {
+    "SESSION_ID": "RCD-MD&vvn8em",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "9475909412"
   }
 ]
