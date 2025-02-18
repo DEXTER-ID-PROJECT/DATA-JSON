@@ -1573,5 +1573,12 @@
     "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": null,
     "OWNER_NUMBER": "+94 77 404 8676"
+  },
+  {
+    "SESSION_ID": "RCD-MD&0Pjr1fzc",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "94743191349"
   }
 ]
