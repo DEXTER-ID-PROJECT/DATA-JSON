@@ -1699,5 +1699,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "Dexter Md Status Seen",
     "OWNER_NUMBER": "+94717132823"
+  },
+  {
+    "SESSION_ID": "RCD-MD&x5n39qwG",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "74779315534"
   }
 ]
