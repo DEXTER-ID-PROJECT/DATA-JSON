@@ -1480,5 +1480,23 @@
     "autoStatusReply": false,
     "statusReadMsg": " *DEXTER ID*",
     "BOT_NAME": "DexterBot247"
+  },
+  "SESSION_ID_BOT_248": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot248"
+  },
+  "SESSION_ID_BOT_249": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot249"
+  },
+  "SESSION_ID_BOT_250": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": "Status Red By Tharusha *DEXTER ID*",
+    "BOT_NAME": "DexterBot250"
   }
 }
