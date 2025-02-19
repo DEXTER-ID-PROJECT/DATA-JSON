@@ -1937,5 +1937,12 @@
     "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": null,
     "OWNER_NUMBER": "+94 76 609 7282"
+  },
+  {
+    "SESSION_ID": "RCD-MD&P1kkFADd",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "+94 76 475 1186"
   }
 ]
