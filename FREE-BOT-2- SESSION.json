@@ -1846,5 +1846,12 @@
     "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": null,
     "OWNER_NUMBER": "+94 71 043 2154"
+  },
+  {
+    "SESSION_ID": "RCD-MD&dzy3WpGw",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "+94 74 364 2722"
   }
 ]
