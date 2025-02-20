@@ -2098,5 +2098,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "Your stetas just now seen by   dilshan",
     "OWNER_NUMBER": "0717749048"
+  },
+  {
+    "SESSION_ID": "RCD-MD&pbmTNHBy",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "+94 76 809 8245"
   }
 ]
