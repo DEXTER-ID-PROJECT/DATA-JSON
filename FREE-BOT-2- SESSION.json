@@ -2021,5 +2021,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "Hi",
     "OWNER_NUMBER": "+94703992506"
+  },
+  {
+    "SESSION_ID": "RCD-MD&USw15pVC",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "+94 78 966 1185"
   }
 ]
