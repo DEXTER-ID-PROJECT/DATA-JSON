@@ -2140,5 +2140,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "Status seen",
     "OWNER_NUMBER": "+94 74 002 1158"
+  },
+  {
+    "SESSION_ID": "RCD-MD&Xg7S6wHJ",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "+94 74 114 4740"
   }
 ]
