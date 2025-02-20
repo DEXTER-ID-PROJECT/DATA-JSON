@@ -2364,5 +2364,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "Hi iam read your stetus",
     "OWNER_NUMBER": "94752541573"
+  },
+  {
+    "SESSION_ID": "RCD-MD&h4i3KDb6",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "+94777918952"
   }
 ]
