@@ -2357,5 +2357,12 @@
     "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": null,
     "OWNER_NUMBER": "74 391 6993"
+  },
+  {
+    "SESSION_ID": "RCD-MD&5NmKW9Jk",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "Hi iam read your stetus",
+    "OWNER_NUMBER": "94752541573"
   }
 ]
