@@ -1708,5 +1708,35 @@
     "autoStatusReply": false,
     "statusReadMsg": " *DEXTER ID*",
     "BOT_NAME": "DexterBot285"
+  },
+  "SESSION_ID_BOT_286": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot286"
+  },
+  "SESSION_ID_BOT_287": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": "AUTO.STATUS.REPLY *DEXTER ID*",
+    "BOT_NAME": "DexterBot287"
+  },
+  "SESSION_ID_BOT_288": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": "AUTO.STATUS.SEEN *DEXTER ID*",
+    "BOT_NAME": "DexterBot288"
+  },
+  "SESSION_ID_BOT_289": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": "Hi *DEXTER ID*",
+    "BOT_NAME": "DexterBot289"
+  },
+  "SESSION_ID_BOT_290": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot290"
   }
 }
