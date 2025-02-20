@@ -2189,5 +2189,12 @@
     "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": null,
     "OWNER_NUMBER": "94 72 880 4587"
+  },
+  {
+    "SESSION_ID": "RCD-MD&4EMM9NGq",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "Hi",
+    "OWNER_NUMBER": "+94714012778"
   }
 ]
