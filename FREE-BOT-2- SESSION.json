@@ -2315,5 +2315,12 @@
     "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": null,
     "OWNER_NUMBER": "+94 74 162 8570"
+  },
+  {
+    "SESSION_ID": "RCD-MD&ZbUAFh4D",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "94773851795"
   }
 ]
