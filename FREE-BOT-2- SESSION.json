@@ -2567,5 +2567,12 @@
     "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": null,
     "OWNER_NUMBER": "DILIP KUMARA"
+  },
+  {
+    "SESSION_ID": "RCD-MD&RTMPfHjX",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "+94703992506"
   }
 ]
