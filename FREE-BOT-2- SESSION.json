@@ -2574,5 +2574,12 @@
     "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": null,
     "OWNER_NUMBER": "+94703992506"
+  },
+  {
+    "SESSION_ID": "RCD-MD&HBaTz3KT",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "Wow",
+    "OWNER_NUMBER": "94718827743"
   }
 ]
