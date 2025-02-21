@@ -2553,5 +2553,12 @@
     "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": null,
     "OWNER_NUMBER": "+94 77 990 7695"
+  },
+  {
+    "SESSION_ID": "RCD-MD&Q6WsbCya",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "+357 96 523586"
   }
 ]
