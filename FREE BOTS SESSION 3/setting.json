@@ -2104,5 +2104,53 @@
     "autoStatusReply": false,
     "statusReadMsg": " *DEXTER ID*",
     "BOT_NAME": "DexterBot351"
+  },
+  "SESSION_ID_BOT_352": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot352"
+  },
+  "SESSION_ID_BOT_353": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot353"
+  },
+  "SESSION_ID_BOT_354": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot354"
+  },
+  "SESSION_ID_BOT_355": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot355"
+  },
+  "SESSION_ID_BOT_356": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": "YOUR STATUS READ BY GAGANA *DEXTER ID*",
+    "BOT_NAME": "DexterBot356"
+  },
+  "SESSION_ID_BOT_357": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot357"
+  },
+  "SESSION_ID_BOT_358": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot358"
+  },
+  "SESSION_ID_BOT_359": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot359"
   }
 }
