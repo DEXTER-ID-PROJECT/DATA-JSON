@@ -2496,7 +2496,7 @@
     "AUTO_STATUS_SEEN": true,
     "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": null,
-    "OWNER_NUMBER": "94 77 619 7523"
+    "OWNER_NUMBER": "94Â 77Â 619Â 7523"
   },
   {
     "SESSION_ID": "RCD-MD&F8wkSun5",
@@ -2545,6 +2545,13 @@
     "AUTO_STATUS_SEEN": true,
     "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": null,
-    "OWNER_NUMBER": "94�77�619�7523"
+    "OWNER_NUMBER": "94 77 619 7523"
+  },
+  {
+    "SESSION_ID": "RCD-MD&e5u2Vdaj",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "+94 77 990 7695"
   }
 ]
