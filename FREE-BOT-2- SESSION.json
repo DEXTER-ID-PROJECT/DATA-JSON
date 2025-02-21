@@ -2707,5 +2707,12 @@
     "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": null,
     "OWNER_NUMBER": "+94 76 721 4131"
+  },
+  {
+    "SESSION_ID": "RCD-MD&N1NNW6mb",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "~*_`Your status are just now seen`_*~",
+    "OWNER_NUMBER": "Dexter_id"
   }
 ]
