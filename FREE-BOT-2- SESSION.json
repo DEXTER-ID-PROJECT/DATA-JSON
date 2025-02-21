@@ -2581,5 +2581,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "Wow",
     "OWNER_NUMBER": "94718827743"
+  },
+  {
+    "SESSION_ID": "RCD-MD&6j6yS5Li",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "Nice",
+    "OWNER_NUMBER": "94770696722"
   }
 ]
