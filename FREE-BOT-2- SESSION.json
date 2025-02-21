@@ -2609,33 +2609,5 @@
     "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": null,
     "OWNER_NUMBER": "+94703992506"
-  },
-  {
-    "SESSION_ID": "RCD-MD&2C729NWx",
-    "AUTO_STATUS_SEEN": true,
-    "AUTO_STATUS_REPLY": false,
-    "AUTO_STATUS_REPLY_MESSAGE": null,
-    "OWNER_NUMBER": "+94 76 919 8966"
-  },
-  {
-    "SESSION_ID": "RCD-MD&4tiEbvY0",
-    "AUTO_STATUS_SEEN": true,
-    "AUTO_STATUS_REPLY": false,
-    "AUTO_STATUS_REPLY_MESSAGE": null,
-    "OWNER_NUMBER": "94740021158"
-  },
-  {
-    "SESSION_ID": "RCD-MD&66WB3pdk",
-    "AUTO_STATUS_SEEN": true,
-    "AUTO_STATUS_REPLY": false,
-    "AUTO_STATUS_REPLY_MESSAGE": null,
-    "OWNER_NUMBER": "94760544768"
-  },
-  {
-    "SESSION_ID": "RCD-MD&7EMkhvSC",
-    "AUTO_STATUS_SEEN": true,
-    "AUTO_STATUS_REPLY": false,
-    "AUTO_STATUS_REPLY_MESSAGE": null,
-    "OWNER_NUMBER": "+94703992506"
   }
 ]
