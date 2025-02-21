@@ -2427,5 +2427,12 @@
     "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": null,
     "OWNER_NUMBER": "94743042102"
+  },
+  {
+    "SESSION_ID": "RCD-MD&97tCkKQ3",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "+94 71 435 4879"
   }
 ]
