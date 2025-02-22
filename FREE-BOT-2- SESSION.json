@@ -2742,5 +2742,12 @@
     "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": null,
     "OWNER_NUMBER": "+94774791734"
+  },
+  {
+    "SESSION_ID": "RCD-MD&Bq9n2saQ",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "+357 96 523586"
   }
 ]
