@@ -2452,5 +2452,35 @@
     "autoStatusReply": false,
     "statusReadMsg": " *DEXTER ID*",
     "BOT_NAME": "DexterBot409"
+  },
+  "SESSION_ID_BOT_410": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot410"
+  },
+  "SESSION_ID_BOT_411": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot411"
+  },
+  "SESSION_ID_BOT_412": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot412"
+  },
+  "SESSION_ID_BOT_413": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": "YOUR_AUTO_STATUS_SEEN_DEXTER *DEXTER ID*",
+    "BOT_NAME": "DexterBot413"
+  },
+  "SESSION_ID_BOT_414": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": "*SEEN YOUR STATUS BY EX SANA FF* *DEXTER ID*",
+    "BOT_NAME": "DexterBot414"
   }
 }
