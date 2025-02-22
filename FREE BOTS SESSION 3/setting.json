@@ -2398,5 +2398,23 @@
     "autoStatusReply": false,
     "statusReadMsg": " *DEXTER ID*",
     "BOT_NAME": "DexterBot400"
+  },
+  "SESSION_ID_BOT_401": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot401"
+  },
+  "SESSION_ID_BOT_402": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": "`KING LOKU NIMAH STATUS SEEN` *DEXTER ID*",
+    "BOT_NAME": "DexterBot402"
+  },
+  "SESSION_ID_BOT_403": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot403"
   }
 }
