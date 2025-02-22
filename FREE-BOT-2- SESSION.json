@@ -2798,5 +2798,12 @@
     "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": null,
     "OWNER_NUMBER": "RCD-MD&en89x1Ey"
+  },
+  {
+    "SESSION_ID": "RCD-MD&93tDL3A7",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "+94763211055"
   }
 ]
