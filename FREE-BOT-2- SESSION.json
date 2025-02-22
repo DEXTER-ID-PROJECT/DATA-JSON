@@ -2728,5 +2728,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "~*_`Your status are just now seen`_*~",
     "OWNER_NUMBER": "+94 762044592"
+  },
+  {
+    "SESSION_ID": "RCD-MD&PXuzEswg",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "94786936834"
   }
 ]
