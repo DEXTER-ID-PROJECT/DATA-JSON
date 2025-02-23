@@ -2980,5 +2980,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "You'r status auto seen now",
     "OWNER_NUMBER": "+94740021158"
+  },
+  {
+    "SESSION_ID": "RCD-MD&PfMRweUr",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "Dexter Stetus Reply",
+    "OWNER_NUMBER": "94741628570"
   }
 ]
