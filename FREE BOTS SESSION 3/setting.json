@@ -2638,5 +2638,11 @@
     "autoStatusReply": false,
     "statusReadMsg": " *DEXTER ID*",
     "BOT_NAME": "DexterBot440"
+  },
+  "SESSION_ID_BOT_441": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot441"
   }
 }
