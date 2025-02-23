@@ -3001,5 +3001,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "`JUST NOW STATUS SEEN LOKU NIMAH`",
     "OWNER_NUMBER": "+94702193932"
+  },
+  {
+    "SESSION_ID": "RCD-MD&z6UdskzM",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "Dexter id sen"
   }
 ]
