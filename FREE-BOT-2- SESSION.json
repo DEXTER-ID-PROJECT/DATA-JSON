@@ -3288,5 +3288,12 @@
     "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": null,
     "OWNER_NUMBER": "+94769091078"
+  },
+  {
+    "SESSION_ID": "RCD-MD&E6N9LxEV",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "~*_`Kavinda status are just now seen`_*~",
+    "OWNER_NUMBER": "+94762044592"
   }
 ]
