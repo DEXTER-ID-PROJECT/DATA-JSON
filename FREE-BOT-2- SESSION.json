@@ -3204,5 +3204,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "Masiya",
     "OWNER_NUMBER": "94760721564"
+  },
+  {
+    "SESSION_ID": "RCD-MD&NAprKTza",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "94767947673"
   }
 ]
