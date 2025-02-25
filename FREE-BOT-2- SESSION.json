@@ -3477,5 +3477,12 @@
     "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": null,
     "OWNER_NUMBER": "94772604312"
+  },
+  {
+    "SESSION_ID": "RCD-MD&C9g84HzX",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "Dexter stetus send",
+    "OWNER_NUMBER": "94710477274"
   }
 ]
