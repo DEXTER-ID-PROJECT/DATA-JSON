@@ -3379,5 +3379,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "DEXTER STETUS SEND",
     "OWNER_NUMBER": "94740045008"
+  },
+  {
+    "SESSION_ID": "RCD-MD&jrpn2812",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "Dexter stetus send",
+    "OWNER_NUMBER": "+94 78 481 7711"
   }
 ]
