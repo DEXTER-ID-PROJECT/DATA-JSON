@@ -22,5 +22,13 @@
     "AUTO_STATUS_REPLY_MESSAGE": "",
     "OWNER_NUMBER": "9475909412",
     "id": "DEXTER-ID-e9312d6c-34a8-4b9f-999d-c0baa2606085"
+  },
+  {
+    "SESSION_ID": "RCD-MD&vvn8emHC",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": "",
+    "OWNER_NUMBER": "88888",
+    "id": "DEXTER-ID-455666c7-3e87-4f2a-a273-965c3a5fc9b7"
   }
 ]
