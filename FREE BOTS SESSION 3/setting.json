@@ -1,0 +1,8 @@
+{
+  "SESSION_ID_BOT_1": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *DEXTER ID*",
+    "BOT_NAME": "DexterBot1"
+  }
+}
