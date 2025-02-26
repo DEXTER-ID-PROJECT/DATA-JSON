@@ -3813,5 +3813,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "*_`maduwa`_*status are just now seen",
     "OWNER_NUMBER": "+94772583492"
+  },
+  {
+    "SESSION_ID": "RCD-MD&B8LZx9A8",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "94701700282"
   }
 ]
