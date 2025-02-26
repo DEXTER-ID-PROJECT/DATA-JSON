@@ -3575,5 +3575,12 @@
     "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": null,
     "OWNER_NUMBER": "Podi tutu"
+  },
+  {
+    "SESSION_ID": "RCD-MD&MmVZevgs",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "94 71 176 7300"
   }
 ]
