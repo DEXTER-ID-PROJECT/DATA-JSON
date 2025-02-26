@@ -3869,5 +3869,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "Add nro",
     "OWNER_NUMBER": "509 39004405"
+  },
+  {
+    "SESSION_ID": "RCD-MD&P8ibrJ6H",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "94 71 176 7300"
   }
 ]
