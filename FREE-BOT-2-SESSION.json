@@ -14,5 +14,13 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "Thank you!",
     "OWNER_NUMBER": "+94712345678"
+  },
+  {
+    "SESSION_ID": "RCD-MD&vvn8emHC",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": "",
+    "OWNER_NUMBER": "9475909412",
+    "id": "DEXTER-ID-e9312d6c-34a8-4b9f-999d-c0baa2606085"
   }
 ]
