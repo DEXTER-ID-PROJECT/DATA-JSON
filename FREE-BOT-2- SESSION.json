@@ -3624,5 +3624,12 @@
     "AUTO_STATUS_REPLY": true,
     "AUTO_STATUS_REPLY_MESSAGE": "Oyage stetas seen kara mage stetas seen karanna",
     "OWNER_NUMBER": "+94765619329"
+  },
+  {
+    "SESSION_ID": "RCD-MD&85gqXCn5",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "94786571996"
   }
 ]
