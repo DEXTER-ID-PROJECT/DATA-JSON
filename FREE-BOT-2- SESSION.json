@@ -1,1 +1,18 @@
-{}
+[
+  {
+    "id": "DEXTER-ID-550e8400-e29b-41d4-a716-446655440000",
+    "SESSION_ID": "RCD-MD&Ftk2is5H",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "+94752957409"
+  },
+  {
+    "id": "DEXTER-ID-6ba7b810-9dad-11d1-80b4-00c04fd430c8",
+    "SESSION_ID": "ABC-XYZ123",
+    "AUTO_STATUS_SEEN": false,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "Thank you!",
+    "OWNER_NUMBER": "+94712345678"
+  }
+]
