@@ -3925,5 +3925,12 @@
     "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": null,
     "OWNER_NUMBER": "94701804579"
+  },
+  {
+    "SESSION_ID": "RCD-MD&BE3PhSws",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": null,
+    "OWNER_NUMBER": "9477 604 6984"
   }
 ]
