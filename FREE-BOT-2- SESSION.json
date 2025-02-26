@@ -3694,5 +3694,12 @@
     "AUTO_STATUS_REPLY": false,
     "AUTO_STATUS_REPLY_MESSAGE": null,
     "OWNER_NUMBER": "94713346082"
+  },
+  {
+    "SESSION_ID": "RCD-MD&CHWZNHwW",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "~*_`Kavi`_*~ status are just now seen",
+    "OWNER_NUMBER": "+94762044592"
   }
 ]
