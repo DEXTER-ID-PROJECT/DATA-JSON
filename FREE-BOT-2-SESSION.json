@@ -310,5 +310,13 @@
     "AUTO_STATUS_REPLY_MESSAGE": "Youer Status Red By Tharusha 🤖",
     "OWNER_NUMBER": "94715213669",
     "id": "DEXTER-ID-dd4e8c24-b482-496f-b01c-4fb2ab7aabc1"
+  },
+  {
+    "SESSION_ID": "1HG29G98",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": "",
+    "OWNER_NUMBER": "Dextre ",
+    "id": "DEXTER-ID-e9481779-d985-436b-9ef4-9549bca7dde8"
   }
 ]
