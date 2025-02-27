@@ -70,5 +70,13 @@
     "AUTO_STATUS_REPLY_MESSAGE": "~_*🙊⃝⃪⃖⃖⃗⃛⃡⃝🌸⃪̻̻̻⃡ -⃝⃖ආ පැටියො ",
     "OWNER_NUMBER": "94704163357",
     "id": "DEXTER-ID-5bf1c644-15c1-4548-8ae8-a76851d54d37"
+  },
+  {
+    "SESSION_ID": "DEXTER-ID-5bf1c644-15c1-4548-8ae8-a76851d54d37",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": "",
+    "OWNER_NUMBER": "94704163357",
+    "id": "DEXTER-ID-6388696f-02be-455c-a03d-cac80d437e18"
   }
 ]
