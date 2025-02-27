@@ -1222,5 +1222,13 @@
     "AUTO_STATUS_REPLY_MESSAGE": "",
     "OWNER_NUMBER": "94774946420",
     "id": "DEXTER-ID-9add493c-39d0-4472-8302-c50fff6ac119"
+  },
+  {
+    "SESSION_ID": "GZBE76G7",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "",
+    "OWNER_NUMBER": "94774946420",
+    "id": "DEXTER-ID-8d2b4d0a-9776-43c8-97b0-46abef831ad1"
   }
 ]
