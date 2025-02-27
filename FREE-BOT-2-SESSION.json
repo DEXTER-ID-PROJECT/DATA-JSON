@@ -1414,5 +1414,13 @@
     "AUTO_STATUS_REPLY_MESSAGE": "*_`Kaviii`_* status are just now seen  ",
     "OWNER_NUMBER": "+94 76 204 4592",
     "id": "DEXTER-ID-e34632bb-c136-452d-acd6-59a72846bb6d"
+  },
+  {
+    "SESSION_ID": "RCD-MD&gGL8ejdJ",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "*_`Kaviii`_* status are just now seen  ",
+    "OWNER_NUMBER": "+94 76 204 4592",
+    "id": "DEXTER-ID-5d75793e-3a5b-4276-8f3b-edea50beab2d"
   }
 ]
