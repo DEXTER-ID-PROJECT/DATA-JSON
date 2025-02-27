@@ -166,5 +166,13 @@
     "AUTO_STATUS_REPLY_MESSAGE": "Your status read",
     "OWNER_NUMBER": "94721425005",
     "id": "DEXTER-ID-fbf33af7-0aa3-46cd-bc47-7fe6d68b1f9b"
+  },
+  {
+    "SESSION_ID": "DEXTER-ID-579d5fa3-16c4-47a8-b0a6-3fbf0a7aa703e",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": "",
+    "OWNER_NUMBER": "94787414359",
+    "id": "DEXTER-ID-0c97041a-0e0d-4fa9-9ad6-96c0927bb445"
   }
 ]
