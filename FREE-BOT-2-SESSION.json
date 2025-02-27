@@ -230,5 +230,13 @@
     "AUTO_STATUS_REPLY_MESSAGE": "",
     "OWNER_NUMBER": "94763225936",
     "id": "DEXTER-ID-747ad52e-0569-401d-a3de-03898576bffb"
+  },
+  {
+    "SESSION_ID": "DEXTER-ID-747ad52e-0569-401d-a3de-03898576bffb",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": "",
+    "OWNER_NUMBER": "94763225936",
+    "id": "DEXTER-ID-e0b5d213-7bc3-4d46-ba22-bfa6458e1abb"
   }
 ]
