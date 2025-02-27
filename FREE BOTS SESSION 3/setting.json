@@ -553,8 +553,140 @@
   },
   "SESSION_ID_BOT_93": {
     "autoStatusSeen": true,
-    "autoStatusReply": true,
-    "statusReadMsg": "*YOU STATUS SEEN [ auto reply ]* *ᴅᴇxᴛᴇʀ-ɪᴅ-!*",
+    "autoStatusReply": false,
+    "statusReadMsg": "*YOU STATUS AUTO SEEN [auto reply]* *ᴅᴇxᴛᴇʀ-ɪᴅ-!*",
     "BOT_NAME": "ꜰʀᴇᴇ ʙᴏᴛ93"
+  },
+  "SESSION_ID_BOT_94": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "මන් ඔයගෙ ස්ටෙටස් බැලුව හරිද මගෙත් බලන්න ✈️ *ᴅᴇxᴛᴇʀ-ɪᴅ-!*",
+    "BOT_NAME": "ꜰʀᴇᴇ ʙᴏᴛ94"
+  },
+  "SESSION_ID_BOT_95": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *ᴅᴇxᴛᴇʀ-ɪᴅ-!*",
+    "BOT_NAME": "ꜰʀᴇᴇ ʙᴏᴛ95"
+  },
+  "SESSION_ID_BOT_96": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *ᴅᴇxᴛᴇʀ-ɪᴅ-!*",
+    "BOT_NAME": "ꜰʀᴇᴇ ʙᴏᴛ96"
+  },
+  "SESSION_ID_BOT_97": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *ᴅᴇxᴛᴇʀ-ɪᴅ-!*",
+    "BOT_NAME": "ꜰʀᴇᴇ ʙᴏᴛ97"
+  },
+  "SESSION_ID_BOT_98": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *ᴅᴇxᴛᴇʀ-ɪᴅ-!*",
+    "BOT_NAME": "ꜰʀᴇᴇ ʙᴏᴛ98"
+  },
+  "SESSION_ID_BOT_99": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *ᴅᴇxᴛᴇʀ-ɪᴅ-!*",
+    "BOT_NAME": "ꜰʀᴇᴇ ʙᴏᴛ99"
+  },
+  "SESSION_ID_BOT_100": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *ᴅᴇxᴛᴇʀ-ɪᴅ-!*",
+    "BOT_NAME": "ꜰʀᴇᴇ ʙᴏᴛ100"
+  },
+  "SESSION_ID_BOT_101": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *ᴅᴇxᴛᴇʀ-ɪᴅ-!*",
+    "BOT_NAME": "ꜰʀᴇᴇ ʙᴏᴛ101"
+  },
+  "SESSION_ID_BOT_102": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "*DILA ID BY STATUS SEEN* 📍 *ᴅᴇxᴛᴇʀ-ɪᴅ-!*",
+    "BOT_NAME": "ꜰʀᴇᴇ ʙᴏᴛ102"
+  },
+  "SESSION_ID_BOT_103": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "Status read  *ᴅᴇxᴛᴇʀ-ɪᴅ-!*",
+    "BOT_NAME": "ꜰʀᴇᴇ ʙᴏᴛ103"
+  },
+  "SESSION_ID_BOT_104": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "💗 *ᴅᴇxᴛᴇʀ-ɪᴅ-!*",
+    "BOT_NAME": "ꜰʀᴇᴇ ʙᴏᴛ104"
+  },
+  "SESSION_ID_BOT_105": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *ᴅᴇxᴛᴇʀ-ɪᴅ-!*",
+    "BOT_NAME": "ꜰʀᴇᴇ ʙᴏᴛ105"
+  },
+  "SESSION_ID_BOT_106": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "Your Status Seen by Nethu 😽💗 *ᴅᴇxᴛᴇʀ-ɪᴅ-!*",
+    "BOT_NAME": "ꜰʀᴇᴇ ʙᴏᴛ106"
+  },
+  "SESSION_ID_BOT_107": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "මම ඔයගේ status බැලුවා💞 *ᴅᴇxᴛᴇʀ-ɪᴅ-!*",
+    "BOT_NAME": "ꜰʀᴇᴇ ʙᴏᴛ107"
+  },
+  "SESSION_ID_BOT_108": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": "ඔයගෙ ස්ටේටස් එක ලස්සනයි ළමයො  💫🤍🌼 *ᴅᴇxᴛᴇʀ-ɪᴅ-!*",
+    "BOT_NAME": "ꜰʀᴇᴇ ʙᴏᴛ108"
+  },
+  "SESSION_ID_BOT_109": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "මම ඔයගේ status බැලුවා💞 *ᴅᴇxᴛᴇʀ-ɪᴅ-!*",
+    "BOT_NAME": "ꜰʀᴇᴇ ʙᴏᴛ109"
+  },
+  "SESSION_ID_BOT_110": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": " *ᴅᴇxᴛᴇʀ-ɪᴅ-!*",
+    "BOT_NAME": "ꜰʀᴇᴇ ʙᴏᴛ110"
+  },
+  "SESSION_ID_BOT_111": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *ᴅᴇxᴛᴇʀ-ɪᴅ-!*",
+    "BOT_NAME": "ꜰʀᴇᴇ ʙᴏᴛ111"
+  },
+  "SESSION_ID_BOT_112": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "Hey *ᴅᴇxᴛᴇʀ-ɪᴅ-!*",
+    "BOT_NAME": "ꜰʀᴇᴇ ʙᴏᴛ112"
+  },
+  "SESSION_ID_BOT_113": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "*මං ඔය්ගෙ status බැලුවා හරිද 💗 මගෙත් මලන්න 😩🌼 *ᴅᴇxᴛᴇʀ-ɪᴅ-!*",
+    "BOT_NAME": "ꜰʀᴇᴇ ʙᴏᴛ113"
+  },
+  "SESSION_ID_BOT_114": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *ᴅᴇxᴛᴇʀ-ɪᴅ-!*",
+    "BOT_NAME": "ꜰʀᴇᴇ ʙᴏᴛ114"
+  },
+  "SESSION_ID_BOT_115": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *ᴅᴇxᴛᴇʀ-ɪᴅ-!*",
+    "BOT_NAME": "ꜰʀᴇᴇ ʙᴏᴛ115"
   }
 }
