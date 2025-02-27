@@ -1078,5 +1078,13 @@
     "AUTO_STATUS_REPLY_MESSAGE": "",
     "OWNER_NUMBER": "94765283879",
     "id": "DEXTER-ID-8f5ad71c-e015-41b9-8eb5-0862e32e3deb"
+  },
+  {
+    "SESSION_ID": "RCD-MD&Ksgdy8a0",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "Stetas seened by me",
+    "OWNER_NUMBER": "94701834935",
+    "id": "DEXTER-ID-99480aee-55e9-454f-8104-5b0419337516"
   }
 ]
