@@ -1478,5 +1478,13 @@
     "AUTO_STATUS_REPLY_MESSAGE": "",
     "OWNER_NUMBER": "+94 76 269 5932",
     "id": "DEXTER-ID-4634150e-5cfe-4003-9458-00c96cc53615"
+  },
+  {
+    "SESSION_ID": "RCD-MD&kbvv66um",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": "",
+    "OWNER_NUMBER": "94773060624",
+    "id": "DEXTER-ID-fb0501f7-caaa-45b8-b4d1-5eea106fb205"
   }
 ]
