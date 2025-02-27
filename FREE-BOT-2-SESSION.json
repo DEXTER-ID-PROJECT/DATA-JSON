@@ -1382,5 +1382,13 @@
     "AUTO_STATUS_REPLY_MESSAGE": "`AUTO🚀 STETUS SEND` *ᴅᴇxᴛᴇʀ-ɪᴅ-!*",
     "OWNER_NUMBER": "94743682465",
     "id": "DEXTER-ID-f44342b7-a781-4dfe-b5ee-af37590ea67d"
+  },
+  {
+    "SESSION_ID": "+94 76 776 5129",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": "",
+    "OWNER_NUMBER": "94767765129",
+    "id": "DEXTER-ID-e34e2005-942b-4076-88ea-6defe1949702"
   }
 ]
