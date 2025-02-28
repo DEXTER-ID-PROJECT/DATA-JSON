@@ -2190,5 +2190,13 @@
     "AUTO_STATUS_REPLY_MESSAGE": "",
     "OWNER_NUMBER": "DEXTER",
     "id": "DEXTER-ID-a58ab1fc-dd42-4cae-a357-8b40b8006196"
+  },
+  {
+    "SESSION_ID": "https://bot-add-update-session-4.onrender.com/#:~:text=DEXTER%2DID%2D0723064e%2Db195%2D4860%2Db1a6%2Dde46db37658c",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": "",
+    "OWNER_NUMBER": "94 769369409",
+    "id": "DEXTER-ID-a410794b-be35-49fb-99bc-4de2530b2c7f"
   }
 ]
