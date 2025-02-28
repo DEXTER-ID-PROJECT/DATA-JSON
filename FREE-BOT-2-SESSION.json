@@ -2270,5 +2270,13 @@
     "AUTO_STATUS_REPLY_MESSAGE": "No",
     "OWNER_NUMBER": "94719123076",
     "id": "DEXTER-ID-02dd692a-8bcc-498f-af12-52f6cbcf7b99"
+  },
+  {
+    "SESSION_ID": "1JNVKH26",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": "",
+    "OWNER_NUMBER": "+9470 583 5423",
+    "id": "DEXTER-ID-52bd3604-6289-4ae7-94e2-9629a7fae0ef"
   }
 ]
