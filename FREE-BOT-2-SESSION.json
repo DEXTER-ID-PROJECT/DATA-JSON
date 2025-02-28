@@ -2446,5 +2446,13 @@
     "AUTO_STATUS_REPLY_MESSAGE": "",
     "OWNER_NUMBER": "94 72 880 4587",
     "id": "DEXTER-ID-37a5eb4b-4ab7-4f71-9e2b-5a3d32d5d66f"
+  },
+  {
+    "SESSION_ID": "https://bot-add-update-session-4.onrender.com",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": "",
+    "OWNER_NUMBER": "94789345531",
+    "id": "DEXTER-ID-9cc171a7-ee19-4fc6-83f5-041534795515"
   }
 ]
