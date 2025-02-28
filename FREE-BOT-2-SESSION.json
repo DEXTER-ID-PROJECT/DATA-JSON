@@ -1782,5 +1782,13 @@
     "AUTO_STATUS_REPLY_MESSAGE": "",
     "OWNER_NUMBER": "94787414359",
     "id": "DEXTER-ID-b3714e1b-842f-4ef9-bcf6-3d21b2e54ac9"
+  },
+  {
+    "SESSION_ID": "DEXTER-ID-b3714e1b-842f-4ef9-bcf6-3d21b2e54ac9",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": "",
+    "OWNER_NUMBER": "94787414359",
+    "id": "DEXTER-ID-668c2cec-bdf8-4341-8d23-1b23c7d948e0"
   }
 ]
