@@ -2318,5 +2318,13 @@
     "AUTO_STATUS_REPLY_MESSAGE": "👀",
     "OWNER_NUMBER": "+94788321771",
     "id": "DEXTER-ID-a17506bd-b6db-4f04-bd9a-5d05cb8d4502"
+  },
+  {
+    "SESSION_ID": "5WC14N32",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": "👀",
+    "OWNER_NUMBER": "+94788321771",
+    "id": "DEXTER-ID-7a34a740-6bfc-45ff-a592-67e3b2539f7c"
   }
 ]
