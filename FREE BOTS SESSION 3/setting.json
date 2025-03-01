@@ -2101,8 +2101,14 @@
   },
   "SESSION_ID_BOT_351": {
     "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": "No *ᴅᴇxᴛᴇʀ-ɪᴅ-!*",
+    "BOT_NAME": "ꜰʀᴇᴇ ʙᴏᴛ351"
+  },
+  "SESSION_ID_BOT_352": {
+    "autoStatusSeen": true,
     "autoStatusReply": true,
     "statusReadMsg": "*max oyagee status baluwaa hariqa*🚀   *ᴅᴇxᴛᴇʀ-ɪᴅ-!*",
-    "BOT_NAME": "ꜰʀᴇᴇ ʙᴏᴛ351"
+    "BOT_NAME": "ꜰʀᴇᴇ ʙᴏᴛ352"
   }
 }
