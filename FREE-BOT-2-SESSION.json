@@ -2710,5 +2710,13 @@
     "AUTO_STATUS_REPLY_MESSAGE": "",
     "OWNER_NUMBER": "94774971556",
     "id": "DEXTER-ID-954a445b-4f47-4eeb-9e92-6cf015ea054d"
+  },
+  {
+    "SESSION_ID": "DSAMES51",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": "",
+    "OWNER_NUMBER": "94775827454",
+    "id": "DEXTER-ID-989e12b8-7bf6-47b4-bfed-ddf7d7c4d864"
   }
 ]
