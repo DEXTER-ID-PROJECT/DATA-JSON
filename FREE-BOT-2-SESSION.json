@@ -2806,5 +2806,13 @@
     "AUTO_STATUS_REPLY_MESSAGE": "No",
     "OWNER_NUMBER": "919091963668",
     "id": "DEXTER-ID-68d888b8-c07e-41e4-9b5d-f04530879740"
+  },
+  {
+    "SESSION_ID": "DEXTER-ID-68d888b8-c07e-41e4-9b5d-f04530879740",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "*max oyagee status baluwaa hariqa*🚀  ",
+    "OWNER_NUMBER": "919091963668",
+    "id": "DEXTER-ID-620249cc-d26e-468f-b8b8-7a910542d52f"
   }
 ]
