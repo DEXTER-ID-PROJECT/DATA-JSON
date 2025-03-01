@@ -2470,5 +2470,13 @@
     "AUTO_STATUS_REPLY_MESSAGE": "",
     "OWNER_NUMBER": "94728804587",
     "id": "DEXTER-ID-4bd5a6e0-e60d-46e5-bdca-f34d0f5cdf03"
+  },
+  {
+    "SESSION_ID": "https://bot-add-update-session-4.onrender.com/#:~:text=DEXTER%2DID%2D0723064e%2Db195%2D4860%2Db1a6%2Dde46db37658c",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": "",
+    "OWNER_NUMBER": "94 769369409",
+    "id": "DEXTER-ID-577f22b8-6245-48c3-9b65-8c98b3d1b2b0"
   }
 ]
