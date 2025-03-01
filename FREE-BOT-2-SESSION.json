@@ -2910,5 +2910,13 @@
     "AUTO_STATUS_REPLY_MESSAGE": "",
     "OWNER_NUMBER": "94775827454",
     "id": "DEXTER-ID-502b6d9a-07b0-4a6d-b2ca-69a54354e194"
+  },
+  {
+    "SESSION_ID": "sayurudilshan95@gmail.com",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": " ",
+    "OWNER_NUMBER": "0705149323",
+    "id": "DEXTER-ID-13d17893-2c77-4d0f-819a-f7f9714a37f7"
   }
 ]
