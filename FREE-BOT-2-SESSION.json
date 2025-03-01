@@ -2950,5 +2950,13 @@
     "AUTO_STATUS_REPLY_MESSAGE": "",
     "OWNER_NUMBER": "94775827454",
     "id": "DEXTER-ID-8b0ed7f3-d759-4ec4-999e-e3f5540dd89c"
+  },
+  {
+    "SESSION_ID": "DEXTER-ID-8b0ed7f3-d759-4ec4-999e-e3f5540dd89c",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": "",
+    "OWNER_NUMBER": "94775827454",
+    "id": "DEXTER-ID-810bc201-ac7b-4445-bbe5-83eccbcbfb19"
   }
 ]
