@@ -2918,5 +2918,13 @@
     "AUTO_STATUS_REPLY_MESSAGE": " ",
     "OWNER_NUMBER": "0705149323",
     "id": "DEXTER-ID-13d17893-2c77-4d0f-819a-f7f9714a37f7"
+  },
+  {
+    "SESSION_ID": "sayuru2004",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "",
+    "OWNER_NUMBER": "0705149323",
+    "id": "DEXTER-ID-19508f0c-8ec7-4deb-b037-cf8a5293634f"
   }
 ]
