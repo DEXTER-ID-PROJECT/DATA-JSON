@@ -715,14 +715,14 @@
   },
   "SESSION_ID_BOT_120": {
     "autoStatusSeen": true,
-    "autoStatusReply": false,
-    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": true,
+    "statusReadMsg": "Stetas seened *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a120"
   },
   "SESSION_ID_BOT_121": {
     "autoStatusSeen": true,
-    "autoStatusReply": true,
-    "statusReadMsg": "Stetas seened *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a121"
   },
   "SESSION_ID_BOT_122": {
@@ -733,32 +733,32 @@
   },
   "SESSION_ID_BOT_123": {
     "autoStatusSeen": true,
-    "autoStatusReply": false,
-    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": true,
+    "statusReadMsg": "🖤❤️♥️🥰😍 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a123"
   },
   "SESSION_ID_BOT_124": {
     "autoStatusSeen": true,
-    "autoStatusReply": false,
-    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": true,
+    "statusReadMsg": "👀🫶🏻 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a124"
   },
   "SESSION_ID_BOT_125": {
     "autoStatusSeen": true,
-    "autoStatusReply": true,
-    "statusReadMsg": "🖤❤️♥️🥰😍 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a125"
   },
   "SESSION_ID_BOT_126": {
     "autoStatusSeen": true,
-    "autoStatusReply": true,
-    "statusReadMsg": "👀🫶🏻 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a126"
   },
   "SESSION_ID_BOT_127": {
     "autoStatusSeen": true,
-    "autoStatusReply": false,
-    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": true,
+    "statusReadMsg": "🌸මන් ඔයාගේ status බලනවා හරිද🌸 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a127"
   },
   "SESSION_ID_BOT_128": {
@@ -770,7 +770,7 @@
   "SESSION_ID_BOT_129": {
     "autoStatusSeen": true,
     "autoStatusReply": true,
-    "statusReadMsg": "🌸මන් ඔයාගේ status බලනවා හරිද🌸 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "statusReadMsg": "Yes *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a129"
   },
   "SESSION_ID_BOT_130": {
@@ -782,7 +782,7 @@
   "SESSION_ID_BOT_131": {
     "autoStatusSeen": true,
     "autoStatusReply": true,
-    "statusReadMsg": "Yes *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "statusReadMsg": "Stetas seened by me *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a131"
   },
   "SESSION_ID_BOT_132": {
@@ -793,8 +793,8 @@
   },
   "SESSION_ID_BOT_133": {
     "autoStatusSeen": true,
-    "autoStatusReply": true,
-    "statusReadMsg": "Stetas seened by me *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a133"
   },
   "SESSION_ID_BOT_134": {
@@ -823,8 +823,8 @@
   },
   "SESSION_ID_BOT_138": {
     "autoStatusSeen": true,
-    "autoStatusReply": false,
-    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": true,
+    "statusReadMsg": "`just now seen dilla...🫣` *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a138"
   },
   "SESSION_ID_BOT_139": {
@@ -836,13 +836,13 @@
   "SESSION_ID_BOT_140": {
     "autoStatusSeen": true,
     "autoStatusReply": true,
-    "statusReadMsg": "`just now seen dilla...🫣` *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "statusReadMsg": "`AUTO🚀 STETUS SEND` *ᴅᴇxᴛᴇʀ-ɪᴅ-!* *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a140"
   },
   "SESSION_ID_BOT_141": {
     "autoStatusSeen": true,
-    "autoStatusReply": false,
-    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": true,
+    "statusReadMsg": "`AUTO🚀 STETUS SEND` *ᴅᴇxᴛᴇʀ-ɪᴅ-!* *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a141"
   },
   "SESSION_ID_BOT_142": {
@@ -854,25 +854,25 @@
   "SESSION_ID_BOT_143": {
     "autoStatusSeen": true,
     "autoStatusReply": true,
-    "statusReadMsg": "`AUTO🚀 STETUS SEND` *ᴅᴇxᴛᴇʀ-ɪᴅ-!* *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "statusReadMsg": "ᴍʀ ꜱᴜᴅᴅᴀʜ 👀 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a143"
   },
   "SESSION_ID_BOT_144": {
     "autoStatusSeen": true,
     "autoStatusReply": true,
-    "statusReadMsg": "`AUTO🚀 STETUS SEND` *ᴅᴇxᴛᴇʀ-ɪᴅ-!* *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "statusReadMsg": "💗 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a144"
   },
   "SESSION_ID_BOT_145": {
     "autoStatusSeen": true,
-    "autoStatusReply": true,
-    "statusReadMsg": "ᴍʀ ꜱᴜᴅᴅᴀʜ 👀 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a145"
   },
   "SESSION_ID_BOT_146": {
     "autoStatusSeen": true,
-    "autoStatusReply": true,
-    "statusReadMsg": "💗 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a146"
   },
   "SESSION_ID_BOT_147": {
@@ -883,38 +883,38 @@
   },
   "SESSION_ID_BOT_148": {
     "autoStatusSeen": true,
-    "autoStatusReply": false,
+    "autoStatusReply": true,
     "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a148"
   },
   "SESSION_ID_BOT_149": {
     "autoStatusSeen": true,
-    "autoStatusReply": false,
+    "autoStatusReply": true,
     "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a149"
   },
   "SESSION_ID_BOT_150": {
     "autoStatusSeen": true,
     "autoStatusReply": true,
-    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "statusReadMsg": "`𝒎𝒏 𝒐𝒚𝒂𝒈𝒆 𝒔𝒕𝒂𝒕𝒆𝒔 𝒃𝒂𝒍𝒖𝒗𝒂 𝒉𝒂𝒓𝒊𝒅𝒂,° 😊 𝒐𝒚𝒂𝒕𝒉 𝒎𝒂𝒈𝒆 𝒔𝒕𝒂𝒕𝒆𝒔 𝒃𝒂𝒍𝒂𝒏𝒏𝒂♥︎` *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a150"
   },
   "SESSION_ID_BOT_151": {
     "autoStatusSeen": true,
     "autoStatusReply": true,
-    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "statusReadMsg": "SEEN YOUR STATUS BY EX SANA FF 🗿☕ *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a151"
   },
   "SESSION_ID_BOT_152": {
     "autoStatusSeen": true,
     "autoStatusReply": true,
-    "statusReadMsg": "`𝒎𝒏 𝒐𝒚𝒂𝒈𝒆 𝒔𝒕𝒂𝒕𝒆𝒔 𝒃𝒂𝒍𝒖𝒗𝒂 𝒉𝒂𝒓𝒊𝒅𝒂,° 😊 𝒐𝒚𝒂𝒕𝒉 𝒎𝒂𝒈𝒆 𝒔𝒕𝒂𝒕𝒆𝒔 𝒃𝒂𝒍𝒂𝒏𝒏𝒂♥︎` *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "statusReadMsg": "💗🥀 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a152"
   },
   "SESSION_ID_BOT_153": {
     "autoStatusSeen": true,
-    "autoStatusReply": true,
-    "statusReadMsg": "SEEN YOUR STATUS BY EX SANA FF 🗿☕ *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a153"
   },
   "SESSION_ID_BOT_154": {
@@ -925,20 +925,20 @@
   },
   "SESSION_ID_BOT_155": {
     "autoStatusSeen": true,
-    "autoStatusReply": false,
-    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": true,
+    "statusReadMsg": "💗 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a155"
   },
   "SESSION_ID_BOT_156": {
     "autoStatusSeen": true,
     "autoStatusReply": true,
-    "statusReadMsg": "💗🥀 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "statusReadMsg": "My name is mdx *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a156"
   },
   "SESSION_ID_BOT_157": {
     "autoStatusSeen": true,
-    "autoStatusReply": true,
-    "statusReadMsg": "💗 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a157"
   },
   "SESSION_ID_BOT_158": {
@@ -949,26 +949,26 @@
   },
   "SESSION_ID_BOT_159": {
     "autoStatusSeen": true,
-    "autoStatusReply": false,
-    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": true,
+    "statusReadMsg": "SEEN YOUR STATUS BY EX SANA FF  *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a159"
   },
   "SESSION_ID_BOT_160": {
     "autoStatusSeen": true,
     "autoStatusReply": true,
-    "statusReadMsg": "My name is mdx *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "statusReadMsg": "Viewd by vishaa *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a160"
   },
   "SESSION_ID_BOT_161": {
     "autoStatusSeen": true,
-    "autoStatusReply": true,
-    "statusReadMsg": "SEEN YOUR STATUS BY EX SANA FF  *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a161"
   },
   "SESSION_ID_BOT_162": {
     "autoStatusSeen": true,
     "autoStatusReply": true,
-    "statusReadMsg": "Viewd by vishaa *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "statusReadMsg": "🫶 හායී  *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a162"
   },
   "SESSION_ID_BOT_163": {
@@ -980,25 +980,25 @@
   "SESSION_ID_BOT_164": {
     "autoStatusSeen": true,
     "autoStatusReply": true,
-    "statusReadMsg": "🫶 හායී  *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "statusReadMsg": "`JUST NOW STATUS SEEN LOKU NIMAH🚀` *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a164"
   },
   "SESSION_ID_BOT_165": {
     "autoStatusSeen": true,
-    "autoStatusReply": false,
-    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": true,
+    "statusReadMsg": "😅 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a165"
   },
   "SESSION_ID_BOT_166": {
     "autoStatusSeen": true,
-    "autoStatusReply": true,
-    "statusReadMsg": "`JUST NOW STATUS SEEN LOKU NIMAH🚀` *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a166"
   },
   "SESSION_ID_BOT_167": {
     "autoStatusSeen": true,
     "autoStatusReply": true,
-    "statusReadMsg": "😅 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "statusReadMsg": "No *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a167"
   },
   "SESSION_ID_BOT_168": {
@@ -1010,7 +1010,7 @@
   "SESSION_ID_BOT_169": {
     "autoStatusSeen": true,
     "autoStatusReply": true,
-    "statusReadMsg": "No *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "statusReadMsg": "`AUTO🚀 STETUS SEND` *ᴅᴇxᴛᴇʀ-ɪᴅ-!* *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a169"
   },
   "SESSION_ID_BOT_170": {
@@ -1021,8 +1021,8 @@
   },
   "SESSION_ID_BOT_171": {
     "autoStatusSeen": true,
-    "autoStatusReply": true,
-    "statusReadMsg": "`AUTO🚀 STETUS SEND` *ᴅᴇxᴛᴇʀ-ɪᴅ-!* *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a171"
   },
   "SESSION_ID_BOT_172": {
@@ -1033,44 +1033,44 @@
   },
   "SESSION_ID_BOT_173": {
     "autoStatusSeen": true,
-    "autoStatusReply": false,
-    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": true,
+    "statusReadMsg": "*_`Kaviii`_* status are just now seen   *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a173"
   },
   "SESSION_ID_BOT_174": {
     "autoStatusSeen": true,
-    "autoStatusReply": false,
-    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": true,
+    "statusReadMsg": "*_`Kaviii`_* status are just now seen   *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a174"
   },
   "SESSION_ID_BOT_175": {
     "autoStatusSeen": true,
     "autoStatusReply": true,
-    "statusReadMsg": "*_`Kaviii`_* status are just now seen   *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "statusReadMsg": "No *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a175"
   },
   "SESSION_ID_BOT_176": {
     "autoStatusSeen": true,
     "autoStatusReply": true,
-    "statusReadMsg": "*_`Kaviii`_* status are just now seen   *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "statusReadMsg": "ඔන්න ඔයාගෙ ස්ටේටස් එකත් බැලුවා 😪👍 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a176"
   },
   "SESSION_ID_BOT_177": {
     "autoStatusSeen": true,
-    "autoStatusReply": true,
-    "statusReadMsg": "No *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a177"
   },
   "SESSION_ID_BOT_178": {
     "autoStatusSeen": true,
-    "autoStatusReply": true,
-    "statusReadMsg": "ඔන්න ඔයාගෙ ස්ටේටස් එකත් බැලුවා 😪👍 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a178"
   },
   "SESSION_ID_BOT_179": {
     "autoStatusSeen": true,
-    "autoStatusReply": false,
-    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": true,
+    "statusReadMsg": "💗🫶 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a179"
   },
   "SESSION_ID_BOT_180": {
@@ -1081,8 +1081,8 @@
   },
   "SESSION_ID_BOT_181": {
     "autoStatusSeen": true,
-    "autoStatusReply": true,
-    "statusReadMsg": "💗🫶 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a181"
   },
   "SESSION_ID_BOT_182": {
@@ -1093,8 +1093,8 @@
   },
   "SESSION_ID_BOT_183": {
     "autoStatusSeen": true,
-    "autoStatusReply": false,
-    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": true,
+    "statusReadMsg": "hy 🫂 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a183"
   },
   "SESSION_ID_BOT_184": {
@@ -1106,7 +1106,7 @@
   "SESSION_ID_BOT_185": {
     "autoStatusSeen": true,
     "autoStatusReply": true,
-    "statusReadMsg": "hy 🫂 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "statusReadMsg": "~_*🙊⃝⃪⃖⃖⃗⃛⃡⃝🌸⃪̻̻̻⃡ -⃝⃖ආ පැටියො  *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a185"
   },
   "SESSION_ID_BOT_186": {
@@ -1118,7 +1118,7 @@
   "SESSION_ID_BOT_187": {
     "autoStatusSeen": true,
     "autoStatusReply": true,
-    "statusReadMsg": "~_*🙊⃝⃪⃖⃖⃗⃛⃡⃝🌸⃪̻̻̻⃡ -⃝⃖ආ පැටියො  *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "statusReadMsg": "💗🫶 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a187"
   },
   "SESSION_ID_BOT_188": {
@@ -1130,7 +1130,7 @@
   "SESSION_ID_BOT_189": {
     "autoStatusSeen": true,
     "autoStatusReply": true,
-    "statusReadMsg": "💗🫶 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "statusReadMsg": "*`ඔයාගෙ STATUS බැලුවා හොදේ`*👻 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a189"
   },
   "SESSION_ID_BOT_190": {
@@ -1142,7 +1142,7 @@
   "SESSION_ID_BOT_191": {
     "autoStatusSeen": true,
     "autoStatusReply": true,
-    "statusReadMsg": "*`ඔයාගෙ STATUS බැලුවා හොදේ`*👻 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "statusReadMsg": "*මම ඔයාගෙ ස්ටේටස් බැලුවා* Draxter  *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a191"
   },
   "SESSION_ID_BOT_192": {
@@ -1153,8 +1153,8 @@
   },
   "SESSION_ID_BOT_193": {
     "autoStatusSeen": true,
-    "autoStatusReply": true,
-    "statusReadMsg": "*මම ඔයාගෙ ස්ටේටස් බැලුවා* Draxter  *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a193"
   },
   "SESSION_ID_BOT_194": {
@@ -1165,44 +1165,44 @@
   },
   "SESSION_ID_BOT_195": {
     "autoStatusSeen": true,
-    "autoStatusReply": false,
-    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": true,
+    "statusReadMsg": "~_*🙊⃝⃪⃖⃖⃗⃛⃡⃝🌸⃪̻̻̻⃡ -⃝⃖ආ පැටියො  *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a195"
   },
   "SESSION_ID_BOT_196": {
     "autoStatusSeen": true,
-    "autoStatusReply": false,
-    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": true,
+    "statusReadMsg": "*`ඔයාගෙ STATUS බැලුවා හොදේ`*👻 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a196"
   },
   "SESSION_ID_BOT_197": {
     "autoStatusSeen": true,
-    "autoStatusReply": true,
-    "statusReadMsg": "~_*🙊⃝⃪⃖⃖⃗⃛⃡⃝🌸⃪̻̻̻⃡ -⃝⃖ආ පැටියො  *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a197"
   },
   "SESSION_ID_BOT_198": {
     "autoStatusSeen": true,
     "autoStatusReply": true,
-    "statusReadMsg": "*`ඔයාගෙ STATUS බැලුවා හොදේ`*👻 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "statusReadMsg": "හරිම අහෙයි 😌 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a198"
   },
   "SESSION_ID_BOT_199": {
     "autoStatusSeen": true,
-    "autoStatusReply": false,
-    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": true,
+    "statusReadMsg": "💗 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a199"
   },
   "SESSION_ID_BOT_200": {
     "autoStatusSeen": true,
-    "autoStatusReply": true,
-    "statusReadMsg": "හරිම අහෙයි 😌 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a200"
   },
   "SESSION_ID_BOT_201": {
     "autoStatusSeen": true,
     "autoStatusReply": true,
-    "statusReadMsg": "💗 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "statusReadMsg": "*Status Seen By Dexter-md*🗣️🤍 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a201"
   },
   "SESSION_ID_BOT_202": {
@@ -1213,38 +1213,38 @@
   },
   "SESSION_ID_BOT_203": {
     "autoStatusSeen": true,
-    "autoStatusReply": true,
-    "statusReadMsg": "*Status Seen By Dexter-md*🗣️🤍 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a203"
   },
   "SESSION_ID_BOT_204": {
     "autoStatusSeen": true,
-    "autoStatusReply": false,
-    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": true,
+    "statusReadMsg": "`JUST NOW STATUS SEEN LOKU NIMAH🚀` *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a204"
   },
   "SESSION_ID_BOT_205": {
     "autoStatusSeen": true,
-    "autoStatusReply": false,
-    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": true,
+    "statusReadMsg": "𝐇𝐞𝐥𝐥𝐨 🤙 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a205"
   },
   "SESSION_ID_BOT_206": {
     "autoStatusSeen": true,
     "autoStatusReply": true,
-    "statusReadMsg": "`JUST NOW STATUS SEEN LOKU NIMAH🚀` *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "statusReadMsg": "🫶 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a206"
   },
   "SESSION_ID_BOT_207": {
     "autoStatusSeen": true,
-    "autoStatusReply": true,
-    "statusReadMsg": "𝐇𝐞𝐥𝐥𝐨 🤙 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a207"
   },
   "SESSION_ID_BOT_208": {
     "autoStatusSeen": true,
     "autoStatusReply": true,
-    "statusReadMsg": "🫶 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "statusReadMsg": "Youer Status Seen By Tharusha 🤖 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a208"
   },
   "SESSION_ID_BOT_209": {
@@ -1256,7 +1256,7 @@
   "SESSION_ID_BOT_210": {
     "autoStatusSeen": true,
     "autoStatusReply": true,
-    "statusReadMsg": "Youer Status Seen By Tharusha 🤖 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "statusReadMsg": "Auto seen 👊 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a210"
   },
   "SESSION_ID_BOT_211": {
@@ -1267,8 +1267,8 @@
   },
   "SESSION_ID_BOT_212": {
     "autoStatusSeen": true,
-    "autoStatusReply": true,
-    "statusReadMsg": "Auto seen 👊 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a212"
   },
   "SESSION_ID_BOT_213": {
@@ -1291,8 +1291,8 @@
   },
   "SESSION_ID_BOT_216": {
     "autoStatusSeen": true,
-    "autoStatusReply": false,
-    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": true,
+    "statusReadMsg": "`AUTO🚀 STETUS SEND` *ᴅᴇxᴛᴇʀ-ɪᴅ-!* *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a216"
   },
   "SESSION_ID_BOT_217": {
@@ -1303,8 +1303,8 @@
   },
   "SESSION_ID_BOT_218": {
     "autoStatusSeen": true,
-    "autoStatusReply": true,
-    "statusReadMsg": "`AUTO🚀 STETUS SEND` *ᴅᴇxᴛᴇʀ-ɪᴅ-!* *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a218"
   },
   "SESSION_ID_BOT_219": {
@@ -1334,7 +1334,7 @@
   "SESSION_ID_BOT_223": {
     "autoStatusSeen": true,
     "autoStatusReply": false,
-    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "statusReadMsg": "Your status seen by hamid *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a223"
   },
   "SESSION_ID_BOT_224": {
@@ -1346,7 +1346,7 @@
   "SESSION_ID_BOT_225": {
     "autoStatusSeen": true,
     "autoStatusReply": false,
-    "statusReadMsg": "Your status seen by hamid *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a225"
   },
   "SESSION_ID_BOT_226": {
@@ -1369,74 +1369,74 @@
   },
   "SESSION_ID_BOT_229": {
     "autoStatusSeen": true,
-    "autoStatusReply": false,
-    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": true,
+    "statusReadMsg": "YOU ARE STATUS SEEN BOT 🍷🫶 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a229"
   },
   "SESSION_ID_BOT_230": {
     "autoStatusSeen": true,
-    "autoStatusReply": false,
-    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": true,
+    "statusReadMsg": "*𝚈𝚘𝚞𝚛 𝚜𝚝𝚊𝚝𝚞𝚜 𝚜𝚎𝚎𝚗 𝚙𝚕𝚎𝚊𝚜𝚎 𝚌𝚑𝚎𝚌𝚔 𝚖𝚢 𝚜𝚝𝚊𝚝𝚞𝚜. 🌻* *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a230"
   },
   "SESSION_ID_BOT_231": {
     "autoStatusSeen": true,
     "autoStatusReply": true,
-    "statusReadMsg": "YOU ARE STATUS SEEN BOT 🍷🫶 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "statusReadMsg": "*𝚈𝚘𝚞𝚛 𝚜𝚝𝚊𝚝𝚞𝚜 𝚜𝚎𝚎𝚗 𝚙𝚕𝚎𝚊𝚜𝚎 𝚌𝚑𝚎𝚌𝚔 𝚖𝚢 𝚜𝚝𝚊𝚝𝚞𝚜. 🌻* *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a231"
   },
   "SESSION_ID_BOT_232": {
     "autoStatusSeen": true,
-    "autoStatusReply": true,
-    "statusReadMsg": "*𝚈𝚘𝚞𝚛 𝚜𝚝𝚊𝚝𝚞𝚜 𝚜𝚎𝚎𝚗 𝚙𝚕𝚎𝚊𝚜𝚎 𝚌𝚑𝚎𝚌𝚔 𝚖𝚢 𝚜𝚝𝚊𝚝𝚞𝚜. 🌻* *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a232"
   },
   "SESSION_ID_BOT_233": {
     "autoStatusSeen": true,
-    "autoStatusReply": true,
-    "statusReadMsg": "*𝚈𝚘𝚞𝚛 𝚜𝚝𝚊𝚝𝚞𝚜 𝚜𝚎𝚎𝚗 𝚙𝚕𝚎𝚊𝚜𝚎 𝚌𝚑𝚎𝚌𝚔 𝚖𝚢 𝚜𝚝𝚊𝚝𝚞𝚜. 🌻* *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a233"
   },
   "SESSION_ID_BOT_234": {
     "autoStatusSeen": true,
-    "autoStatusReply": false,
-    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": true,
+    "statusReadMsg": "YOU STATUS READ BY SYBER 😮‍💨👀 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a234"
   },
   "SESSION_ID_BOT_235": {
     "autoStatusSeen": true,
-    "autoStatusReply": false,
-    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": true,
+    "statusReadMsg": "YOUR STATUS SEEN BY SHEN 📍🐰 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a235"
   },
   "SESSION_ID_BOT_236": {
     "autoStatusSeen": true,
-    "autoStatusReply": true,
-    "statusReadMsg": "YOU STATUS READ BY SYBER 😮‍💨👀 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a236"
   },
   "SESSION_ID_BOT_237": {
     "autoStatusSeen": true,
     "autoStatusReply": true,
-    "statusReadMsg": "YOUR STATUS SEEN BY SHEN 📍🐰 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "statusReadMsg": "*මං ඔයාගේ ස්ටේටස් බැලුවා*🥵🤍 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a237"
   },
   "SESSION_ID_BOT_238": {
     "autoStatusSeen": true,
-    "autoStatusReply": false,
-    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": true,
+    "statusReadMsg": "Your Status Seen My RIO Team😍 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a238"
   },
   "SESSION_ID_BOT_239": {
     "autoStatusSeen": true,
-    "autoStatusReply": true,
-    "statusReadMsg": "*මං ඔයාගේ ස්ටේටස් බැලුවා*🥵🤍 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a239"
   },
   "SESSION_ID_BOT_240": {
     "autoStatusSeen": true,
     "autoStatusReply": true,
-    "statusReadMsg": "Your Status Seen My RIO Team😍 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "statusReadMsg": "*YOU STATUS SEEN [ auto reply ]* *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a240"
   },
   "SESSION_ID_BOT_241": {
@@ -1448,7 +1448,7 @@
   "SESSION_ID_BOT_242": {
     "autoStatusSeen": true,
     "autoStatusReply": true,
-    "statusReadMsg": "*YOU STATUS SEEN [ auto reply ]* *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "statusReadMsg": "*අහ්හ් පෙටියො 🤭❤️ STETUS SEEN කරන්න බබො 🤭❤️🌀🌈* *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a242"
   },
   "SESSION_ID_BOT_243": {
@@ -1459,8 +1459,8 @@
   },
   "SESSION_ID_BOT_244": {
     "autoStatusSeen": true,
-    "autoStatusReply": true,
-    "statusReadMsg": "*අහ්හ් පෙටියො 🤭❤️ STETUS SEEN කරන්න බබො 🤭❤️🌀🌈* *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a244"
   },
   "SESSION_ID_BOT_245": {
@@ -1501,32 +1501,32 @@
   },
   "SESSION_ID_BOT_251": {
     "autoStatusSeen": true,
-    "autoStatusReply": false,
-    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": true,
+    "statusReadMsg": "*මං ඔයාගේ ස්ටේටස් බැලුවා 🌝❤️* *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a251"
   },
   "SESSION_ID_BOT_252": {
     "autoStatusSeen": true,
-    "autoStatusReply": false,
-    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": true,
+    "statusReadMsg": "~_*🙊⃝⃪⃖⃖⃗⃛⃡⃝🌸⃪̻̻̻⃡ -⃝⃖ආ පැටියො  *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a252"
   },
   "SESSION_ID_BOT_253": {
     "autoStatusSeen": true,
-    "autoStatusReply": true,
-    "statusReadMsg": "*මං ඔයාගේ ස්ටේටස් බැලුවා 🌝❤️* *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a253"
   },
   "SESSION_ID_BOT_254": {
     "autoStatusSeen": true,
-    "autoStatusReply": true,
-    "statusReadMsg": "~_*🙊⃝⃪⃖⃖⃗⃛⃡⃝🌸⃪̻̻̻⃡ -⃝⃖ආ පැටියො  *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a254"
   },
   "SESSION_ID_BOT_255": {
     "autoStatusSeen": true,
-    "autoStatusReply": false,
-    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": true,
+    "statusReadMsg": "`ඔයාගේ ස්ටෙටස් බැලුවා 🚀` *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a255"
   },
   "SESSION_ID_BOT_256": {
@@ -1537,8 +1537,8 @@
   },
   "SESSION_ID_BOT_257": {
     "autoStatusSeen": true,
-    "autoStatusReply": true,
-    "statusReadMsg": "`ඔයාගේ ස්ටෙටස් බැලුවා 🚀` *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a257"
   },
   "SESSION_ID_BOT_258": {
@@ -1549,8 +1549,8 @@
   },
   "SESSION_ID_BOT_259": {
     "autoStatusSeen": true,
-    "autoStatusReply": false,
-    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": true,
+    "statusReadMsg": "*Hi* your status seen done ( bot ) *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a259"
   },
   "SESSION_ID_BOT_260": {
@@ -1561,8 +1561,8 @@
   },
   "SESSION_ID_BOT_261": {
     "autoStatusSeen": true,
-    "autoStatusReply": true,
-    "statusReadMsg": "*Hi* your status seen done ( bot ) *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a261"
   },
   "SESSION_ID_BOT_262": {
@@ -1579,8 +1579,8 @@
   },
   "SESSION_ID_BOT_264": {
     "autoStatusSeen": true,
-    "autoStatusReply": false,
-    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": true,
+    "statusReadMsg": "> • ᴘᴀᴡᴇʀᴇᴅ ʙʏ ʟᴏᴋᴜᴡᴀ ᴍᴅ • *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a264"
   },
   "SESSION_ID_BOT_265": {
@@ -1591,8 +1591,8 @@
   },
   "SESSION_ID_BOT_266": {
     "autoStatusSeen": true,
-    "autoStatusReply": true,
-    "statusReadMsg": "> • ᴘᴀᴡᴇʀᴇᴅ ʙʏ ʟᴏᴋᴜᴡᴀ ᴍᴅ • *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a266"
   },
   "SESSION_ID_BOT_267": {
@@ -1602,7 +1602,7 @@
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a267"
   },
   "SESSION_ID_BOT_268": {
-    "autoStatusSeen": true,
+    "autoStatusSeen": false,
     "autoStatusReply": false,
     "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a268"
@@ -1614,33 +1614,33 @@
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a269"
   },
   "SESSION_ID_BOT_270": {
-    "autoStatusSeen": false,
+    "autoStatusSeen": true,
     "autoStatusReply": false,
     "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a270"
   },
   "SESSION_ID_BOT_271": {
     "autoStatusSeen": true,
-    "autoStatusReply": false,
-    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": true,
+    "statusReadMsg": "OYAGE STAUS BALUWA MAGE STAUS BALANNA *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a271"
   },
   "SESSION_ID_BOT_272": {
     "autoStatusSeen": true,
-    "autoStatusReply": false,
-    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": true,
+    "statusReadMsg": " ~_*🙊⃝⃪⃖⃖⃗⃛⃡⃝🌸⃪̻̻̻⃡ -⃝⃖ආ පැටියො *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a272"
   },
   "SESSION_ID_BOT_273": {
     "autoStatusSeen": true,
-    "autoStatusReply": true,
-    "statusReadMsg": "OYAGE STAUS BALUWA MAGE STAUS BALANNA *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a273"
   },
   "SESSION_ID_BOT_274": {
     "autoStatusSeen": true,
-    "autoStatusReply": true,
-    "statusReadMsg": " ~_*🙊⃝⃪⃖⃖⃗⃛⃡⃝🌸⃪̻̻̻⃡ -⃝⃖ආ පැටියො *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a274"
   },
   "SESSION_ID_BOT_275": {
@@ -1658,115 +1658,115 @@
   "SESSION_ID_BOT_277": {
     "autoStatusSeen": true,
     "autoStatusReply": false,
-    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "statusReadMsg": "Oyage status baluwa lamayo mageth status balanna *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a277"
   },
   "SESSION_ID_BOT_278": {
-    "autoStatusSeen": true,
+    "autoStatusSeen": false,
     "autoStatusReply": false,
-    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "statusReadMsg": "🌝Oyage status baluwa lamayo mageth status balanna🌝 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a278"
   },
   "SESSION_ID_BOT_279": {
     "autoStatusSeen": true,
     "autoStatusReply": false,
-    "statusReadMsg": "Oyage status baluwa lamayo mageth status balanna *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "statusReadMsg": "No *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a279"
   },
   "SESSION_ID_BOT_280": {
-    "autoStatusSeen": false,
+    "autoStatusSeen": true,
     "autoStatusReply": false,
-    "statusReadMsg": "🌝Oyage status baluwa lamayo mageth status balanna🌝 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a280"
   },
   "SESSION_ID_BOT_281": {
     "autoStatusSeen": true,
-    "autoStatusReply": false,
-    "statusReadMsg": "No *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": true,
+    "statusReadMsg": "👀 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a281"
   },
   "SESSION_ID_BOT_282": {
     "autoStatusSeen": true,
     "autoStatusReply": false,
-    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "statusReadMsg": "👀 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a282"
   },
   "SESSION_ID_BOT_283": {
     "autoStatusSeen": true,
-    "autoStatusReply": true,
-    "statusReadMsg": "👀 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": false,
+    "statusReadMsg": "💗 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a283"
   },
   "SESSION_ID_BOT_284": {
     "autoStatusSeen": true,
     "autoStatusReply": false,
-    "statusReadMsg": "👀 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a284"
   },
   "SESSION_ID_BOT_285": {
     "autoStatusSeen": true,
-    "autoStatusReply": false,
-    "statusReadMsg": "💗 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": true,
+    "statusReadMsg": "👀 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a285"
   },
   "SESSION_ID_BOT_286": {
     "autoStatusSeen": true,
     "autoStatusReply": false,
-    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "statusReadMsg": "👀 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a286"
   },
   "SESSION_ID_BOT_287": {
     "autoStatusSeen": true,
-    "autoStatusReply": true,
+    "autoStatusReply": false,
     "statusReadMsg": "👀 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a287"
   },
   "SESSION_ID_BOT_288": {
     "autoStatusSeen": true,
-    "autoStatusReply": false,
-    "statusReadMsg": "👀 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": true,
+    "statusReadMsg": "*මන් ඕයිගේ ස්ටේටස් බැලුවා හරිද 🐾🐼        KING DAGAYA 💗 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a288"
   },
   "SESSION_ID_BOT_289": {
     "autoStatusSeen": true,
     "autoStatusReply": false,
-    "statusReadMsg": "👀 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a289"
   },
   "SESSION_ID_BOT_290": {
     "autoStatusSeen": true,
     "autoStatusReply": true,
-    "statusReadMsg": "*මන් ඕයිගේ ස්ටේටස් බැලුවා හරිද 🐾🐼        KING DAGAYA 💗 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "statusReadMsg": "YOU_STATES_SEEN_JEST_NEW *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a290"
   },
   "SESSION_ID_BOT_291": {
     "autoStatusSeen": true,
-    "autoStatusReply": false,
-    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": true,
+    "statusReadMsg": "YOU_STATES_SEEN_JEST_NEW *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a291"
   },
   "SESSION_ID_BOT_292": {
     "autoStatusSeen": true,
     "autoStatusReply": true,
-    "statusReadMsg": "YOU_STATES_SEEN_JEST_NEW *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "statusReadMsg": "You status auto seen done....💀 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a292"
   },
   "SESSION_ID_BOT_293": {
     "autoStatusSeen": true,
-    "autoStatusReply": true,
-    "statusReadMsg": "YOU_STATES_SEEN_JEST_NEW *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a293"
   },
   "SESSION_ID_BOT_294": {
     "autoStatusSeen": true,
-    "autoStatusReply": true,
-    "statusReadMsg": "You status auto seen done....💀 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a294"
   },
   "SESSION_ID_BOT_295": {
     "autoStatusSeen": true,
-    "autoStatusReply": false,
-    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": true,
+    "statusReadMsg": "*Status seen by dexter-Md*🗣️‼️ *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a295"
   },
   "SESSION_ID_BOT_296": {
@@ -1776,9 +1776,9 @@
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a296"
   },
   "SESSION_ID_BOT_297": {
-    "autoStatusSeen": true,
+    "autoStatusSeen": false,
     "autoStatusReply": true,
-    "statusReadMsg": "*Status seen by dexter-Md*🗣️‼️ *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "statusReadMsg": "Your status just now seen by REAL KING චූටියා *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a297"
   },
   "SESSION_ID_BOT_298": {
@@ -1795,8 +1795,8 @@
   },
   "SESSION_ID_BOT_300": {
     "autoStatusSeen": true,
-    "autoStatusReply": false,
-    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": true,
+    "statusReadMsg": "Oyage Status eka mama seen kara mageth seen karanna🌝🩵 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a300"
   },
   "SESSION_ID_BOT_301": {
@@ -1807,14 +1807,14 @@
   },
   "SESSION_ID_BOT_302": {
     "autoStatusSeen": true,
-    "autoStatusReply": true,
-    "statusReadMsg": "Oyage Status eka mama seen kara mageth seen karanna🌝🩵 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a302"
   },
   "SESSION_ID_BOT_303": {
     "autoStatusSeen": true,
     "autoStatusReply": false,
-    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "statusReadMsg": "No *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a303"
   },
   "SESSION_ID_BOT_304": {
@@ -1826,13 +1826,13 @@
   "SESSION_ID_BOT_305": {
     "autoStatusSeen": true,
     "autoStatusReply": false,
-    "statusReadMsg": "No *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a305"
   },
   "SESSION_ID_BOT_306": {
     "autoStatusSeen": true,
-    "autoStatusReply": false,
-    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": true,
+    "statusReadMsg": "Your states seen by Thilakshana🗿 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a306"
   },
   "SESSION_ID_BOT_307": {
@@ -1843,8 +1843,8 @@
   },
   "SESSION_ID_BOT_308": {
     "autoStatusSeen": true,
-    "autoStatusReply": true,
-    "statusReadMsg": "Your states seen by Thilakshana🗿 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a308"
   },
   "SESSION_ID_BOT_309": {
@@ -1897,67 +1897,67 @@
   },
   "SESSION_ID_BOT_317": {
     "autoStatusSeen": true,
-    "autoStatusReply": false,
-    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": true,
+    "statusReadMsg": "𝚈𝙾𝚄 𝚜𝚝𝚎𝚝𝚞𝚜 𝚜𝚎𝚎𝚗 🤫 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a317"
   },
   "SESSION_ID_BOT_318": {
     "autoStatusSeen": true,
-    "autoStatusReply": false,
-    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": true,
+    "statusReadMsg": "status seen 😏 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a318"
   },
   "SESSION_ID_BOT_319": {
-    "autoStatusSeen": true,
-    "autoStatusReply": true,
-    "statusReadMsg": "𝚈𝙾𝚄 𝚜𝚝𝚎𝚝𝚞𝚜 𝚜𝚎𝚎𝚗 🤫 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusSeen": false,
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a319"
   },
   "SESSION_ID_BOT_320": {
     "autoStatusSeen": true,
-    "autoStatusReply": true,
-    "statusReadMsg": "status seen 😏 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a320"
   },
   "SESSION_ID_BOT_321": {
-    "autoStatusSeen": false,
+    "autoStatusSeen": true,
     "autoStatusReply": false,
     "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a321"
   },
   "SESSION_ID_BOT_322": {
     "autoStatusSeen": true,
-    "autoStatusReply": false,
-    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": true,
+    "statusReadMsg": "*`YOUR STATUS SEEN BY PROGRAMMER KING KAVIYA BBH`* *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a322"
   },
   "SESSION_ID_BOT_323": {
     "autoStatusSeen": true,
-    "autoStatusReply": false,
-    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": true,
+    "statusReadMsg": "ᴾʷᵉʳᵈ ᵇʸ.....😩💗 > *Bina bsl offical* *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a323"
   },
   "SESSION_ID_BOT_324": {
     "autoStatusSeen": true,
     "autoStatusReply": true,
-    "statusReadMsg": "*`YOUR STATUS SEEN BY PROGRAMMER KING KAVIYA BBH`* *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "statusReadMsg": "Auto seen stetus SITUM OFFICAL JUST NOW *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a324"
   },
   "SESSION_ID_BOT_325": {
     "autoStatusSeen": true,
     "autoStatusReply": true,
-    "statusReadMsg": "ᴾʷᵉʳᵈ ᵇʸ.....😩💗 > *Bina bsl offical* *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a325"
   },
   "SESSION_ID_BOT_326": {
     "autoStatusSeen": true,
-    "autoStatusReply": true,
-    "statusReadMsg": "Auto seen stetus SITUM OFFICAL JUST NOW *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a326"
   },
   "SESSION_ID_BOT_327": {
     "autoStatusSeen": true,
-    "autoStatusReply": true,
+    "autoStatusReply": false,
     "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a327"
   },
@@ -1969,14 +1969,14 @@
   },
   "SESSION_ID_BOT_329": {
     "autoStatusSeen": true,
-    "autoStatusReply": false,
-    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": true,
+    "statusReadMsg": "𝙹𝚄𝚂𝚃 𝙽𝙾𝚆 𝚂𝚃𝙴𝚃𝚄𝚂 𝚂𝙴𝙴𝙽                                     ᴾʷᵉʳᵈ ᵇʸ.....😩💗 > *Bina bsl offical* *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a329"
   },
   "SESSION_ID_BOT_330": {
     "autoStatusSeen": true,
-    "autoStatusReply": false,
-    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": true,
+    "statusReadMsg": "`AUTO🚀 STETUS SEND` *ᴅᴇxᴛᴇʀ-ɪᴅ-!* *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a330"
   },
   "SESSION_ID_BOT_331": {
@@ -1987,32 +1987,32 @@
   },
   "SESSION_ID_BOT_332": {
     "autoStatusSeen": true,
-    "autoStatusReply": true,
-    "statusReadMsg": "`AUTO🚀 STETUS SEND` *ᴅᴇxᴛᴇʀ-ɪᴅ-!* *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a332"
   },
   "SESSION_ID_BOT_333": {
     "autoStatusSeen": true,
     "autoStatusReply": true,
-    "statusReadMsg": "𝙹𝚄𝚂𝚃 𝙽𝙾𝚆 𝚂𝚃𝙴𝚃𝚄𝚂 𝚂𝙴𝙴𝙽                                     ᴾʷᵉʳᵈ ᵇʸ.....😩💗 > *Bina bsl offical* *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "statusReadMsg": "YOUR STATUS SEEN BY RASIYA OFFICIAL *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a333"
   },
   "SESSION_ID_BOT_334": {
     "autoStatusSeen": true,
-    "autoStatusReply": false,
-    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": true,
+    "statusReadMsg": "YOUR STATUS SEEN BY RASIYA OFFICIAL OWNER  *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a334"
   },
   "SESSION_ID_BOT_335": {
     "autoStatusSeen": true,
-    "autoStatusReply": true,
-    "statusReadMsg": "YOUR STATUS SEEN BY RASIYA OFFICIAL *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a335"
   },
   "SESSION_ID_BOT_336": {
     "autoStatusSeen": true,
-    "autoStatusReply": true,
-    "statusReadMsg": "YOUR STATUS SEEN BY RASIYA OFFICIAL OWNER  *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a336"
   },
   "SESSION_ID_BOT_337": {
@@ -2059,8 +2059,8 @@
   },
   "SESSION_ID_BOT_344": {
     "autoStatusSeen": true,
-    "autoStatusReply": false,
-    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": true,
+    "statusReadMsg": "`ඔයාගෙ ස්ටේටස් එක බැලුවා මගේ ස්ටේටස් එකත් බලන්න🌝🩵`    `YOUR STATUS SEEN PLEASE MY STATUS SEEN🌝🩵` *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a344"
   },
   "SESSION_ID_BOT_345": {
@@ -2070,27 +2070,27 @@
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a345"
   },
   "SESSION_ID_BOT_346": {
-    "autoStatusSeen": true,
+    "autoStatusSeen": false,
     "autoStatusReply": false,
     "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a346"
   },
   "SESSION_ID_BOT_347": {
     "autoStatusSeen": true,
-    "autoStatusReply": true,
-    "statusReadMsg": "Mama oyage status seen kara mageth seen karanna 🌝🩵 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a347"
   },
   "SESSION_ID_BOT_348": {
     "autoStatusSeen": true,
     "autoStatusReply": false,
-    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "statusReadMsg": "No *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a348"
   },
   "SESSION_ID_BOT_349": {
-    "autoStatusSeen": false,
-    "autoStatusReply": false,
-    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "*max oyagee status baluwaa hariqa*🚀   *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a349"
   },
   "SESSION_ID_BOT_350": {
@@ -2101,20 +2101,260 @@
   },
   "SESSION_ID_BOT_351": {
     "autoStatusSeen": true,
-    "autoStatusReply": false,
-    "statusReadMsg": "No *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": true,
+    "statusReadMsg": "*YOU STATUS READ BY ME*  `DEXTER ⛓️📍` *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a351"
   },
   "SESSION_ID_BOT_352": {
     "autoStatusSeen": true,
     "autoStatusReply": true,
-    "statusReadMsg": "*max oyagee status baluwaa hariqa*🚀   *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "statusReadMsg": "*උබේ ස්ටේට්ස් බැලුවා ඔන්න* `POWERD BY CHALANA`💐 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a352"
   },
   "SESSION_ID_BOT_353": {
     "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "*මන් ඔයාගෙ ස්ටෙටස් බැලුවා මගෙ එවත් බලන්න පැටියොහ්*🥺💝🧚‍♀️ *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a353"
+  },
+  "SESSION_ID_BOT_354": {
+    "autoStatusSeen": true,
     "autoStatusReply": false,
     "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
-    "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a353"
+    "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a354"
+  },
+  "SESSION_ID_BOT_355": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a355"
+  },
+  "SESSION_ID_BOT_356": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "status seen kra 😏🥢 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a356"
+  },
+  "SESSION_ID_BOT_357": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a357"
+  },
+  "SESSION_ID_BOT_358": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "status seen kra 😏 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a358"
+  },
+  "SESSION_ID_BOT_359": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a359"
+  },
+  "SESSION_ID_BOT_360": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a360"
+  },
+  "SESSION_ID_BOT_361": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a361"
+  },
+  "SESSION_ID_BOT_362": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "  *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a362"
+  },
+  "SESSION_ID_BOT_363": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a363"
+  },
+  "SESSION_ID_BOT_364": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a364"
+  },
+  "SESSION_ID_BOT_365": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "`ඔයාගේ ඉස්ටේටස් ඔක්කොම බැලුවා මගේ ඉස්ටේටස් බැලුවද`🤖🌼❤️ *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a365"
+  },
+  "SESSION_ID_BOT_366": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a366"
+  },
+  "SESSION_ID_BOT_367": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a367"
+  },
+  "SESSION_ID_BOT_368": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a368"
+  },
+  "SESSION_ID_BOT_369": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a369"
+  },
+  "SESSION_ID_BOT_370": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a370"
+  },
+  "SESSION_ID_BOT_371": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a371"
+  },
+  "SESSION_ID_BOT_372": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": "No *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a372"
+  },
+  "SESSION_ID_BOT_373": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a373"
+  },
+  "SESSION_ID_BOT_374": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a374"
+  },
+  "SESSION_ID_BOT_375": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a375"
+  },
+  "SESSION_ID_BOT_376": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a376"
+  },
+  "SESSION_ID_BOT_377": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a377"
+  },
+  "SESSION_ID_BOT_378": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a378"
+  },
+  "SESSION_ID_BOT_379": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a379"
+  },
+  "SESSION_ID_BOT_380": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a380"
+  },
+  "SESSION_ID_BOT_381": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a381"
+  },
+  "SESSION_ID_BOT_382": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "*`YOUR STATUS SEEN BY PROGRAMMER KING KAVIYA BBH`* *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a382"
+  },
+  "SESSION_ID_BOT_383": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a383"
+  },
+  "SESSION_ID_BOT_384": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a384"
+  },
+  "SESSION_ID_BOT_385": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a385"
+  },
+  "SESSION_ID_BOT_386": {
+    "autoStatusSeen": false,
+    "autoStatusReply": true,
+    "statusReadMsg": "Your just now status seen by REAL KING චුටියා *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a386"
+  },
+  "SESSION_ID_BOT_387": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "YOUR STATUS SEEN  *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a387"
+  },
+  "SESSION_ID_BOT_388": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "*ඔන්න බැලුව ඔයාගෙ ස්ටෙටස් 🫵* *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a388"
+  },
+  "SESSION_ID_BOT_389": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "*මෙව්වා බලන්නෙ  කොහොමද* ❗🖤 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a389"
+  },
+  "SESSION_ID_BOT_390": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "😊 *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a390"
+  },
+  "SESSION_ID_BOT_391": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "*ඔන්න බැලුව ඔයාගෙ ස්ටෙටස් 🫵* *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a391"
+  },
+  "SESSION_ID_BOT_392": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a392"
+  },
+  "SESSION_ID_BOT_393": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a393"
   }
 }
