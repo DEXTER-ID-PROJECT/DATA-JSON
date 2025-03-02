@@ -2341,8 +2341,8 @@
   },
   "SESSION_ID_BOT_391": {
     "autoStatusSeen": true,
-    "autoStatusReply": true,
-    "statusReadMsg": "*à¶à¶±à·à¶± à¶¶à·à¶½à·à· à¶à¶ºà·à¶à· à·à·à¶§à·à¶§à·à· ð«µ* *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": false,
+    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a391"
   },
   "SESSION_ID_BOT_392": {
@@ -2353,8 +2353,8 @@
   },
   "SESSION_ID_BOT_393": {
     "autoStatusSeen": true,
-    "autoStatusReply": false,
-    "statusReadMsg": " *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
+    "autoStatusReply": true,
+    "statusReadMsg": "stutas seen \u001a\u001a\u001a-\u001a\u001a-!* *\u001a\u001ax\u001a\u001a\u001a-\u001a\u001a-!*",
     "BOT_NAME": "\u001a\u001a\u001a\u001a \u001a\u001a\u001a393"
   }
 }
