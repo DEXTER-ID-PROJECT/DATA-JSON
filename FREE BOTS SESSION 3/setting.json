@@ -2560,5 +2560,53 @@
     "autoStatusReply": true,
     "statusReadMsg": "`oya ge stetas baluwa mage stetas baluwada..🐷❤️`🌼❤️ *`ᴅᴇxᴛᴇʀ-ʙᴏᴛ` ®*",
     "BOT_NAME": "Bot 427"
+  },
+  "SESSION_ID_BOT_428": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "Oyage status baluwa lamayo mageth status balanna *`ᴅᴇxᴛᴇʀ-ʙᴏᴛ` ®*",
+    "BOT_NAME": "Bot 428"
+  },
+  "SESSION_ID_BOT_429": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`ᴅᴇxᴛᴇʀ-ʙᴏᴛ` ®*",
+    "BOT_NAME": "Bot 429"
+  },
+  "SESSION_ID_BOT_430": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`ᴅᴇxᴛᴇʀ-ʙᴏᴛ` ®*",
+    "BOT_NAME": "Bot 430"
+  },
+  "SESSION_ID_BOT_431": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`ᴅᴇxᴛᴇʀ-ʙᴏᴛ` ®*",
+    "BOT_NAME": "Bot 431"
+  },
+  "SESSION_ID_BOT_432": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`ᴅᴇxᴛᴇʀ-ʙᴏᴛ` ®*",
+    "BOT_NAME": "Bot 432"
+  },
+  "SESSION_ID_BOT_433": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`ᴅᴇxᴛᴇʀ-ʙᴏᴛ` ®*",
+    "BOT_NAME": "Bot 433"
+  },
+  "SESSION_ID_BOT_434": {
+    "autoStatusSeen": false,
+    "autoStatusReply": true,
+    "statusReadMsg": "🌝Oyage status baluwa harida?💀 *`ᴅᴇxᴛᴇʀ-ʙᴏᴛ` ®*",
+    "BOT_NAME": "Bot 434"
+  },
+  "SESSION_ID_BOT_435": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "🫶💗 *`ᴅᴇxᴛᴇʀ-ʙᴏᴛ` ®*",
+    "BOT_NAME": "Bot 435"
   }
 }
