@@ -190,5 +190,13 @@
     "AUTO_STATUS_REPLY_MESSAGE": "Auto Seen ✅",
     "OWNER_NUMBER": "94704349801",
     "id": "DEXTER-ID-1e91ccd3-a044-409c-8b8b-fb220cdea75b"
+  },
+  {
+    "SESSION_ID": "Dexter-md",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "Kavishka",
+    "OWNER_NUMBER": "0779225339",
+    "id": "DEXTER-ID-d86d3e84-4ee0-4833-9ad8-b7c3687245fd"
   }
 ]
