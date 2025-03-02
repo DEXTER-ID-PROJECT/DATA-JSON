@@ -38,5 +38,13 @@
     "AUTO_STATUS_REPLY_MESSAGE": "❤️",
     "OWNER_NUMBER": "94773913394",
     "id": "DEXTER-ID-c44a9c68-09a1-4d20-aef3-b1d9d1ebddb6"
+  },
+  {
+    "SESSION_ID": "@80",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "",
+    "OWNER_NUMBER": "94781706903",
+    "id": "DEXTER-ID-7802fecb-4086-4c3b-9ba6-9408cbc30626"
   }
 ]
