@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "SESSION_ID": "He",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": "Rrr",
+    "OWNER_NUMBER": "Dd",
+    "id": "DEXTER-ID-64b722d1-3744-4947-b5e0-2a126ebc33bc"
+  }
+]
