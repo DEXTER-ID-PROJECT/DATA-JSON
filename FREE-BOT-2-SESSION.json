@@ -3142,5 +3142,13 @@
     "AUTO_STATUS_REPLY_MESSAGE": "stutas seen \u001a\u001a\u001a-\u001a\u001a-!*",
     "OWNER_NUMBER": "+94762044592",
     "id": "DEXTER-ID-f01e4bc7-3d81-4f4e-8fc3-1e5724df95c6"
+  },
+  {
+    "SESSION_ID": "",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "stutas seen \u001a\u001a\u001a-\u001a\u001a-!*",
+    "OWNER_NUMBER": "+94762044592",
+    "id": "DEXTER-ID-f01e4bc7-3d81-4f4e-8fc3-1e5724df95c6"
   }
 ]
