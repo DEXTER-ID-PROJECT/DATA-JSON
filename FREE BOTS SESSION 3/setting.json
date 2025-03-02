@@ -2416,5 +2416,23 @@
     "autoStatusReply": false,
     "statusReadMsg": " *`ᴅᴇxᴛᴇʀ-ʙᴏᴛ` ®*",
     "BOT_NAME": "Bot 403"
+  },
+  "SESSION_ID_BOT_404": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "I checked your status ( Dexter bot) *`ᴅᴇxᴛᴇʀ-ʙᴏᴛ` ®*",
+    "BOT_NAME": "Bot 404"
+  },
+  "SESSION_ID_BOT_405": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`ᴅᴇxᴛᴇʀ-ʙᴏᴛ` ®*",
+    "BOT_NAME": "Bot 405"
+  },
+  "SESSION_ID_BOT_406": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`ᴅᴇxᴛᴇʀ-ʙᴏᴛ` ®*",
+    "BOT_NAME": "Bot 406"
   }
 }
