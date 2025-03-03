@@ -918,5 +918,13 @@
     "AUTO_STATUS_REPLY_MESSAGE": "ꜱᴛᴇᴛᴜꜱ ᴊᴜꜱᴛ ɴᴏᴡ ꜱᴇᴇɴ ʙʏ ᴋᴠɪʏʜ.🚀..⭗",
     "OWNER_NUMBER": "94761020365",
     "id": "DEXTER-ID-44b10ee4-97b6-4b36-bdbc-6ab17284ca92"
+  },
+  {
+    "SESSION_ID": "AGG14KM2",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": "",
+    "OWNER_NUMBER": "+94789684343",
+    "id": "DEXTER-ID-69596009-7c2a-4a67-a261-532e5faebe90"
   }
 ]
