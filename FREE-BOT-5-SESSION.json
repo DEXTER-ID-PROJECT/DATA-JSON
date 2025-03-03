@@ -822,5 +822,13 @@
     "AUTO_STATUS_REPLY_MESSAGE": "ꜱᴛᴇᴛᴜꜱ ꜱᴇᴇɴ ᴊᴜꜱᴛ ɴᴏᴡ ʙʏ ᴋᴠɪʏʜ...🚀..",
     "OWNER_NUMBER": "94761020365",
     "id": "DEXTER-ID-41a6c6e8-7c6d-4146-abc0-1541959dcf61"
+  },
+  {
+    "SESSION_ID": "RCD-MD&S8QAJTsb",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": "",
+    "OWNER_NUMBER": "94760683496",
+    "id": "DEXTER-ID-afd5ce40-e3bd-4c03-b2ea-bab29579c6f8"
   }
 ]
