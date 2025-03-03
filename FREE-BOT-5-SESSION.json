@@ -886,5 +886,13 @@
     "AUTO_STATUS_REPLY_MESSAGE": "",
     "OWNER_NUMBER": "94727203934",
     "id": "DEXTER-ID-6f0f1a83-fd5c-462c-a95c-8524c6076aca"
+  },
+  {
+    "SESSION_ID": "https://dexter-md.onrender.com/",
+    "AUTO_STATUS_SEEN": false,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": "Seen now ",
+    "OWNER_NUMBER": "+94 70 299 2987",
+    "id": "DEXTER-ID-8c1edb4b-b12a-420a-8e2e-07291931ce4e"
   }
 ]
