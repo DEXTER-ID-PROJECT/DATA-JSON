@@ -502,5 +502,13 @@
     "AUTO_STATUS_REPLY_MESSAGE": "",
     "OWNER_NUMBER": "94775827454",
     "id": "DEXTER-ID-2a0f1718-dbb5-4334-8715-ad91ff88581d"
+  },
+  {
+    "SESSION_ID": "RCD-MD&THiAUkCU",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": "",
+    "OWNER_NUMBER": "94768318224",
+    "id": "DEXTER-ID-c45cede6-e72f-48c8-9647-42d60fd19128"
   }
 ]
