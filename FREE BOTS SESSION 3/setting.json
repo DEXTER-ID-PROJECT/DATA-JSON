@@ -2608,5 +2608,59 @@
     "autoStatusReply": true,
     "statusReadMsg": "🫶💗 *`ᴅᴇxᴛᴇʀ-ʙᴏᴛ` ®*",
     "BOT_NAME": "Bot 435"
+  },
+  "SESSION_ID_BOT_436": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`ᴅᴇxᴛᴇʀ-ʙᴏᴛ` ®*",
+    "BOT_NAME": "Bot 436"
+  },
+  "SESSION_ID_BOT_437": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`ᴅᴇxᴛᴇʀ-ʙᴏᴛ` ®*",
+    "BOT_NAME": "Bot 437"
+  },
+  "SESSION_ID_BOT_438": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "🙂💕 *`ᴅᴇxᴛᴇʀ-ʙᴏᴛ` ®*",
+    "BOT_NAME": "Bot 438"
+  },
+  "SESSION_ID_BOT_439": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`ᴅᴇxᴛᴇʀ-ʙᴏᴛ` ®*",
+    "BOT_NAME": "Bot 439"
+  },
+  "SESSION_ID_BOT_440": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "`you Status just now seen by Chalah`❗🐻 *`ᴅᴇxᴛᴇʀ-ʙᴏᴛ` ®*",
+    "BOT_NAME": "Bot 440"
+  },
+  "SESSION_ID_BOT_441": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`ᴅᴇxᴛᴇʀ-ʙᴏᴛ` ®*",
+    "BOT_NAME": "Bot 441"
+  },
+  "SESSION_ID_BOT_442": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`ᴅᴇxᴛᴇʀ-ʙᴏᴛ` ®*",
+    "BOT_NAME": "Bot 442"
+  },
+  "SESSION_ID_BOT_443": {
+    "autoStatusSeen": true,
+    "autoStatusReply": false,
+    "statusReadMsg": " *`ᴅᴇxᴛᴇʀ-ʙᴏᴛ` ®*",
+    "BOT_NAME": "Bot 443"
+  },
+  "SESSION_ID_BOT_444": {
+    "autoStatusSeen": true,
+    "autoStatusReply": true,
+    "statusReadMsg": "SEEN YOUR STATUS BY EX SANA FF  *`ᴅᴇxᴛᴇʀ-ʙᴏᴛ` ®*",
+    "BOT_NAME": "Bot 444"
   }
 }
