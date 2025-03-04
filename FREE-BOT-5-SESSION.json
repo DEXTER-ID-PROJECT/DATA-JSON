@@ -1382,5 +1382,13 @@
     "AUTO_STATUS_REPLY_MESSAGE": "   ",
     "OWNER_NUMBER": "94768413434",
     "id": "DEXTER-ID-f432f1f2-e076-4ad6-9614-733486f84159"
+  },
+  {
+    "SESSION_ID": "CXMFTSTE",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": "",
+    "OWNER_NUMBER": "+94 75 949 5917",
+    "id": "DEXTER-ID-e071462c-0ac4-48a7-a6f1-de5d79fc27a1"
   }
 ]
