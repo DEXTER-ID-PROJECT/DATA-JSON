@@ -1822,5 +1822,13 @@
     "AUTO_STATUS_REPLY_MESSAGE": "",
     "OWNER_NUMBER": "+94 72 474 1039",
     "id": "DEXTER-ID-0c3874a1-07df-46e4-9046-dc7debecdb29"
+  },
+  {
+    "SESSION_ID": "4CBRZR87",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": "Hey",
+    "OWNER_NUMBER": "2024.03.0",
+    "id": "DEXTER-ID-1ddc798f-7240-4c71-b69e-4614d56dcb47"
   }
 ]
