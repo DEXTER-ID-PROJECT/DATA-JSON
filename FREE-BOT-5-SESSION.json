@@ -2238,5 +2238,13 @@
     "AUTO_STATUS_REPLY_MESSAGE": "",
     "OWNER_NUMBER": "+94 70 463 3661",
     "id": "DEXTER-ID-781392fd-ad26-4172-b329-211f738b3af7"
+  },
+  {
+    "SESSION_ID": "+94 70 463 3661",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": "",
+    "OWNER_NUMBER": "+94 70 463 3661",
+    "id": "DEXTER-ID-988c019f-b475-45f9-b3b3-33cb9485e7a3"
   }
 ]
