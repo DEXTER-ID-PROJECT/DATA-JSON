@@ -2342,5 +2342,13 @@
     "AUTO_STATUS_REPLY_MESSAGE": "",
     "OWNER_NUMBER": "+94 74 328 3465",
     "id": "DEXTER-ID-7d6a421a-d3f6-460f-aa93-ac98d813937d"
+  },
+  {
+    "SESSION_ID": "ziRhzAAJ#E4-ILkQQg7WQywFC0_75uWiHc_daVKSk9bdlsUEpBn8",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": false,
+    "AUTO_STATUS_REPLY_MESSAGE": "",
+    "OWNER_NUMBER": "94743491027",
+    "id": "DEXTER-ID-d8e8792f-fd33-4cc0-9f8e-6e4700e99e42"
   }
 ]
