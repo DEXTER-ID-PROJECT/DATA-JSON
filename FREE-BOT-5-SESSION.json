@@ -2438,5 +2438,13 @@
     "AUTO_STATUS_REPLY_MESSAGE": "Status Sev Krn Botah ",
     "OWNER_NUMBER": "+94 70 513 3981",
     "id": "DEXTER-ID-0f05b6d5-fbd3-4cdf-a66b-5a56d033bad7"
+  },
+  {
+    "SESSION_ID": "BHT-tgsjensjj",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "Nndndnndn",
+    "OWNER_NUMBER": "+94 70 513 3981",
+    "id": "DEXTER-ID-972a1a11-2f58-4cec-b2d1-f8fd6f63dee4"
   }
 ]
