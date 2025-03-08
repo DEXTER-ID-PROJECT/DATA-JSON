@@ -2430,5 +2430,13 @@
     "AUTO_STATUS_REPLY_MESSAGE": "",
     "OWNER_NUMBER": "94760913244",
     "id": "DEXTER-ID-0adee044-e0ee-4679-b803-0b5b3e1be6b4"
+  },
+  {
+    "SESSION_ID": "RCDMD&bVzjdUfr",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "Status Sev Krn Botah ",
+    "OWNER_NUMBER": "+94 70 513 3981",
+    "id": "DEXTER-ID-0f05b6d5-fbd3-4cdf-a66b-5a56d033bad7"
   }
 ]
