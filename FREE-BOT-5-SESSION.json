@@ -2910,5 +2910,13 @@
     "AUTO_STATUS_REPLY_MESSAGE": "",
     "OWNER_NUMBER": "94711708214",
     "id": "DEXTER-ID-eb944775-a38d-48b9-8f6a-33a3368fbcc4"
+  },
+  {
+    "SESSION_ID": "L7ZCN6F2",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "Suddah",
+    "OWNER_NUMBER": "+94 77 564 6393",
+    "id": "DEXTER-ID-2e9560cc-1869-4a7b-9101-031013bda1dc"
   }
 ]
