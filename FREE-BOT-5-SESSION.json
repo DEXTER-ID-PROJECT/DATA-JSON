@@ -2998,5 +2998,13 @@
     "AUTO_STATUS_REPLY_MESSAGE": "☺️",
     "OWNER_NUMBER": "0714012778",
     "id": "DEXTER-ID-5fe4e674-266b-4a82-bdf0-90ad687c9d39"
+  },
+  {
+    "SESSION_ID": "DEXTER-ID-7cb5359a-95de-4a3d-b731-b3d6dfd43262",
+    "AUTO_STATUS_SEEN": true,
+    "AUTO_STATUS_REPLY": true,
+    "AUTO_STATUS_REPLY_MESSAGE": "*you staus seen buy adiya* Draxter ",
+    "OWNER_NUMBER": "94719526342",
+    "id": "DEXTER-ID-ebee3805-a437-4f5e-b5a8-469ac4dc38b4"
   }
 ]
