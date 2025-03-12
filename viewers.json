@@ -15,6 +15,14 @@
       "email": "giftcyber55@gmail.com",
       "password": "ADMIN-ID-KEY 1234",
       "countryCode": "+94753574803"
+    },
+    {
+      "name": "DEXTER",
+      "whatsapp": "+94789958220",
+      "gender": "Male",
+      "email": "Dexterid2003@gmail.com",
+      "password": "DEXTER-ID-KEY-FFB69279",
+      "countryCode": "+94789958220"
     }
   ]
 }
