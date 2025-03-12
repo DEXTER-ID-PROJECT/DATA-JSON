@@ -1,6 +1,6 @@
 {
   "keys": [
-    { "key": "SPAM-ID-FAMILY", "expire_date": "2025-03-22" },
+    { "key": "SPAM-ID-FAMILY-KEY-2025", "expire_date": "2025-05-30" },
     { "key": "SPAM-ID-DEXTER-FREE-0365", "expire_date": "2025-01-24" }
   ]
 }
