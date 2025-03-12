@@ -23,6 +23,14 @@
       "email": "alice.johnson@example.com",
       "password": "i9j0k1l2",
       "countryCode": "+44"
+    },
+    {
+      "name": "DEXTER",
+      "whatsapp": "94789958225",
+      "gender": "Boy",
+      "email": "Dexterid2003@gmail.com",
+      "password": "69d8ab86",
+      "countryCode": "+94"
     }
   ]
 }
