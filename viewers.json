@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "John Doe",
+      "whatsapp": "+1234567890",
+      "gender": "Male",
+      "email": "john.doe@example.com",
+      "password": "a1b2c3d4",
+      "countryCode": "+1"
+    },
+    {
+      "name": "Jane Smith",
+      "whatsapp": "+9876543210",
+      "gender": "Female",
+      "email": "jane.smith@example.com",
+      "password": "e5f6g7h8",
+      "countryCode": "+1"
+    },
+    {
+      "name": "Alice Johnson",
+      "whatsapp": "+447700900123",
+      "gender": "Female",
+      "email": "alice.johnson@example.com",
+      "password": "i9j0k1l2",
+      "countryCode": "+44"
+    }
+  ]
+}
