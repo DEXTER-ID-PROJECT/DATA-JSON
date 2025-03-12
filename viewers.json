@@ -1,12 +1,3 @@
 {
-  "users": [
-    {
-      "name": "DEXTER",
-      "whatsapp": "+94789958225",
-      "gender": "Boy",
-      "email": "Dexterid2003@gmail.com",
-      "password": "DEXTER-ID-KEY-7498075B",
-      "countryCode": "+94789958225"
-    }
-  ]
+  "users": []
 }
