@@ -1,14 +1,1 @@
-[
-    {
-        "groupLink": "https://chat.whatsapp.com/ABC123DEF456",
-        "groupDP": "https://i.ibb.co/XYZ123/group-dp.jpg",
-        "groupDescription": "This is a sample WhatsApp group for testing purposes.",
-        "whatsappNumber": "+94771234567"
-    },
-    {
-        "groupLink": "https://chat.whatsapp.com/NEW_LINK",
-        "groupDP": "https://i.ibb.co/NEW_IMAGE_URL/group-dp.jpg",
-        "groupDescription": "New group description here.",
-        "whatsappNumber": "+94777654321"
-    }
-]
+[{"groupLink":"https://chat.whatsapp.com/ABC123DEF456","groupDP":"https://i.ibb.co/XYZ123/group-dp.jpg","groupDescription":"This is a sample WhatsApp group for testing purposes.","whatsappNumber":"+94771234567"},{"groupLink":"https://chat.whatsapp.com/NEW_LINK","groupDP":"https://i.ibb.co/NEW_IMAGE_URL/group-dp.jpg","groupDescription":"New group description here.","whatsappNumber":"+94777654321"},{"groupLink":"https://api.github.com/repos/DEXTER-ID-PROJECT/DATA-JSON/contents/group.json","groupDP":"https://i.ibb.co/ycxr1ztZ/5de7075c3506b04ed19f09fb5d8f838a-removebg-preview-1.png","groupDescription":"Bj","whatsappNumber":"94789958225"}]
