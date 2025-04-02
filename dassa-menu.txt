@@ -1,1 +1,19 @@
-dassa
+*𝐃𝐀𝐒𝐒𝐀 𝐌𝐃 𝐁𝐎𝐓 𝐌𝐄𝐍𝐔*
+*╭─「 ᴄᴏᴍᴍᴀɴᴅꜱ ʙᴏᴛ 」*
+*│◈ ᴏᴡɴᴇʀ-* PROGAMMER DASSA
+*│◈ ʙᴏᴛ ɴᴀᴍᴇ-* DASSA-MD
+*╰──────────●●►*
+╭──────────●●►
+│⛵ *LIST MENU*
+│   ───────
+│ 📌  *SONG DOWNLOAD*
+│ 📌  *STATUS READ*
+│ 📌   *RECODING*
+*___________________________________*
+│ ⚔   *MENU*
+│ ⚔   *PING*
+│ ⚔   *OWNER*
+│ ⚔   *RUNTIME*
+╰───────────●●►
+
+*📍 Develop by progammer dassa*
